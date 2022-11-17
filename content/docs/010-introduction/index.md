@@ -5,6 +5,8 @@ weight: 10
 
 # Introduction
 
+TEMPORARY FILE FOR TESTING
+
 ![Allanconi bells at Hawkesbury, Gloucestershire](intro-title.jpg)
 
 Details of a bell installation are out of sight and out of mind for a surprising number of ringers but will soon be obvious if their upkeep is neglected. At the least, the bells may become progressively more difficult to handle, leading to poor striking, discouraging ringers and frightening away learners. At worst, it could result in expensive damage to the installation.
