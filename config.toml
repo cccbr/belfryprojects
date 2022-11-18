@@ -1,7 +1,7 @@
 baseURL = 'https://belfryprojects.cccbr.org.uk'
 languageCode = 'en-us'
 title = 'Belfry Projects'
-theme = 'hugo-book'
+theme = 'book'
 sidebar_search_disable = true
 publishDir = "docs/"
 
