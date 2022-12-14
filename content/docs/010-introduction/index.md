@@ -15,6 +15,8 @@ Ringing bells full circle is not just a church activity; it is part of our natio
 
 A ring of bells will last for many years without major expense, requiring only routine checks and minor maintenance which can be carried out by a suitable experienced Steeple Keeper. Guidance on this can be found in a [companion document](https://belfryupkeep.cccbr.org.uk). In time, however, more major work may be necessary. This will require specialists and contractors, and this document provides advice about how to plan and manage a project involving tower bells and their installation. This is not a technical manual for doing any of the work being considered, even though local volunteers may assist professional bell hangers and other contractors with some of the work.
 
+![Elkstone](intro_fig-1.jpg)
+
 *Figure 1: Refurbished bells delivered back to the church ready for rehanging*
 
 Figure 1 gives a taste of what might be involved. The ring of 6 bells at Elkstone, Gloucestershire, were taken out by a bell hanger (with volunteer help). They were retuned and new fittings added. Here they are returned to the church ready for rehanging. Two of these bells were cast in 1657.
