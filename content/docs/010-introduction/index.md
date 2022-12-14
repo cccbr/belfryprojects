@@ -72,8 +72,23 @@ Fund raising and the project itself can also become a focus and stimulus for not
 
 Not all bells are hung for full circle change ringing. Some may be a carillon with many bells, a chime of just a few bells, or a single bell, as shown in Figure 3. The technical arrangements of these installations will be different, less demanding structurally for some, but planning and implementing a project will be similar in many respects.
 
-## Other work in bell towers 
+## Other Work in Bell Towers
 
+{{<hint danger>}}
+Usually with the best intentions, some churches may propose work that could adversely affect the installation or ringing of the bells. Ringers should be aware of this.
+{{</hint>}}
+
+Occasionally, work is proposed in a tower or church that could affect the bells, their installation or ringing of the bells, even though the main focus of the work is not the bell installation itself. For example, there may be plans to create meeting rooms, kitchen or toilet facilities in the building. Such changes may affect the access to the spaces required by the bell ringers as they ring the bells, and the access to the bell chamber. Even if only rarely required, it must be possible to access and even remove the bells from tower and this is usually only via trap doors in all the floors and ceilings from ground level to the bell chamber.
+
+{{<hint warning>}}
+There are examples of towers where rings of bells are now unusable and inaccessible in towers. For example, a former church is now a pub and the bells are not accessible for ringing. Another church is still open for worship but the tower has been converted to offices with no public access to the bells which remain in situ, and the former ringing room contains equipment.
+{{</hint>}}
+
+It is therefore essential that experienced bell ringers contribute advice to make sure that the alterations will not adversely affect routine access and use of the ringing room, the bell chamber or ringing in any way. Bell ringers may also be able to suggest how the project may offer potential for improvements to the ringing environment. 
+
+The best protection against this happening is for the ringers to maintain close liaison with their tower Authorising Body, contributing to any proposals and providing information on the needs of the ringers and the bell installation. Unfortunately, this cannot be the case where the tower has no ringers. This is a difficult situation but ringers at neighbouring towers, with help from the local Guild or Association, may be able to assist.
+
+Further advice can be found [here (PDF)](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_ChurchProjects_2020_Ver_1.pdf).
 
 ## Image Credits
 
