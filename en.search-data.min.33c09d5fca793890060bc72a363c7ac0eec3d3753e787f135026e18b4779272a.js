@@ -40,7 +40,7 @@ Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made t
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:5,href:"/docs/060-stakeholder-engagement/",title:"Stakeholder Engagement",section:"Docs",content:` Stakeholder Engagement # UNDER CONSTRUCTION
-Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:6,href:"/docs/070-contract-specification/",title:"Contract Specification",section:"Docs",content:` Contract Specification # UNDER CONSTRUCTION
