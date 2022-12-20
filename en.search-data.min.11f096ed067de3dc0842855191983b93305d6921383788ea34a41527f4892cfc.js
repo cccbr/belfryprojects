@@ -24,7 +24,7 @@ Image Credits # Figure Details Title Picture St Leonard, Butleigh, Somerset - a 
 Version 0.1 (UNDER CONSTRUCTION), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:1,href:"/docs/020-scoping-project/",title:"Scoping the Project",section:"Docs",content:` Scoping the Project # UNDER CONSTRUCTION
-Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:2,href:"/docs/030-specialist-advice/",title:"Getting Specialist Advice",section:"Docs",content:` Getting Specialist Advice # UNDER CONSTRUCTION
