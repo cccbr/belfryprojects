@@ -10,7 +10,9 @@ UNDER CONSTRUCTION
 
 ----
 
-
+{{<hint info>}}
+**[Previous Chapter](../020-scoping-project/)** - **[Next Chapter](../040-managing-project/)**
+{{</hint>}}
 
 ----
 
