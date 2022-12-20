@@ -31,20 +31,40 @@ Version 0.1 (Under construction), December 2022
 Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
-`}),e.add({id:3,href:"/docs/060-stakeholder-engagement/",title:"Stakeholder Engagement",section:"Docs",content:` Stakeholder Engagement # UNDER CONSTRUCTION
+`}),e.add({id:3,href:"/docs/040-managing-project/",title:"Managing the Project",section:"Docs",content:` Managing the Project # UNDER CONSTRUCTION
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Version 0.1 (Under construction), December 2022
+© 2022 Central Council of Church Bell Ringers
+`}),e.add({id:4,href:"/docs/050-project-team/",title:"Project Team",section:"Docs",content:` Project Team # UNDER CONSTRUCTION
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Version 0.1 (Under construction), December 2022
+© 2022 Central Council of Church Bell Ringers
+`}),e.add({id:5,href:"/docs/060-stakeholder-engagement/",title:"Stakeholder Engagement",section:"Docs",content:` Stakeholder Engagement # UNDER CONSTRUCTION
 Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
-`}),e.add({id:4,href:"/docs/080-permissions-approvals/",title:"Permissions \u0026 Approvals",section:"Docs",content:` Permissions \u0026amp; Approvals # UNDER CONSTRUCTION
+`}),e.add({id:6,href:"/docs/070-contract-specification/",title:"Contract Specification",section:"Docs",content:` Contract Specification # UNDER CONSTRUCTION
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Version 0.1 (Under construction), December 2022
+© 2022 Central Council of Church Bell Ringers
+`}),e.add({id:7,href:"/docs/080-permissions-approvals/",title:"Permissions \u0026 Approvals",section:"Docs",content:` Permissions \u0026amp; Approvals # UNDER CONSTRUCTION
 Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
-`}),e.add({id:5,href:"/docs/090-project-finance/",title:"Project Finance",section:"Docs",content:` Project Finance # UNDER CONSTRUCTION
+`}),e.add({id:8,href:"/docs/090-project-finance/",title:"Project Finance",section:"Docs",content:` Project Finance # UNDER CONSTRUCTION
 Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
-`}),e.add({id:6,href:"/docs/100-regulations-compliance/",title:"Regulations \u0026 Compliance Matters",section:"Docs",content:` Regulations \u0026amp; Compliance Matters # UNDER CONSTRUCTION
+`}),e.add({id:9,href:"/docs/100-regulations-compliance/",title:"Regulations \u0026 Compliance Matters",section:"Docs",content:` Regulations \u0026amp; Compliance Matters # UNDER CONSTRUCTION
 Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Version 0.1 (Under construction), December 2022
+© 2022 Central Council of Church Bell Ringers
+`}),e.add({id:10,href:"/docs/110-project-completion/",title:"Project Completion",section:"Docs",content:` Project Completion # UNDER CONSTRUCTION
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Version 0.1 (Under construction), December 2022
+© 2022 Central Council of Church Bell Ringers
+`}),e.add({id:11,href:"/docs/120-glossary/",title:"Glossary",section:"Docs",content:` Glossary # UNDER CONSTRUCTION - not clear if needed
+Previous Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `})})()
