@@ -10,7 +10,9 @@ UNDER CONSTRUCTION
 
 ----
 
-
+{{<hint info>}}
+**[Previous Chapter](../050-project-team/)** - **[Next Chapter](../070-contract-specification/)**
+{{</hint>}}
 
 ----
 
