@@ -9,7 +9,9 @@ UNDER CONSTRUCTION
 
 ----
 
-
+{{<hint info>}}
+**[Previous Chapter](../080-permissions-approvals/)** - **[Next Chapter](../100-regulations-compliance/)**
+{{</hint>}}
 
 ----
 
