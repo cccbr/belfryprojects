@@ -28,7 +28,7 @@ Disclaimer # Whilst every effort has been made to ensure the accuracy of this in
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:2,href:"/docs/030-specialist-advice/",title:"Getting Specialist Advice",section:"Docs",content:` Getting Specialist Advice # UNDER CONSTRUCTION
-Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:3,href:"/docs/040-managing-project/",title:"Managing the Project",section:"Docs",content:` Managing the Project # UNDER CONSTRUCTION
