@@ -52,7 +52,7 @@ Disclaimer # Whilst every effort has been made to ensure the accuracy of this in
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:8,href:"/docs/090-project-finance/",title:"Project Finance",section:"Docs",content:` Project Finance # UNDER CONSTRUCTION
-Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:9,href:"/docs/100-regulations-compliance/",title:"Regulations \u0026 Compliance Matters",section:"Docs",content:` Regulations \u0026amp; Compliance Matters # UNDER CONSTRUCTION
