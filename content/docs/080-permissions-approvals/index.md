@@ -9,7 +9,9 @@ UNDER CONSTRUCTION
 
 ----
 
-
+{{<hint info>}}
+**[Previous Chapter](../070-contract-specification/)** - **[Next Chapter](../090-project-finance/)**
+{{</hint>}}
 
 ----
 
