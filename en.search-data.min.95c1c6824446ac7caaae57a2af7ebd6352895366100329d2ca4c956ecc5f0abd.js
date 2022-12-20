@@ -48,7 +48,7 @@ Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made t
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:7,href:"/docs/080-permissions-approvals/",title:"Permissions \u0026 Approvals",section:"Docs",content:` Permissions \u0026amp; Approvals # UNDER CONSTRUCTION
-Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
+Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:8,href:"/docs/090-project-finance/",title:"Project Finance",section:"Docs",content:` Project Finance # UNDER CONSTRUCTION
