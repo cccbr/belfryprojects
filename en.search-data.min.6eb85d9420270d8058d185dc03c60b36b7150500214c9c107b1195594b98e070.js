@@ -161,6 +161,6 @@ Version 0.1 (Under construction), January 2023
 © 2023 Central Council of Church Bell Ringers
 `}),e.add({id:11,href:"/docs/120-glossary/",title:"Glossary",section:"Docs",content:` Glossary # UNDER CONSTRUCTION - not clear if needed
 Previous Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
-Version 0.1 (Under construction), December 2022
-© 2022 Central Council of Church Bell Ringers
+Version 0.1 (Under construction), January 2023
+© 2023 Central Council of Church Bell Ringers
 `})})()
