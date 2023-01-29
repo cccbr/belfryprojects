@@ -12,8 +12,7 @@ UNDER CONSTRUCTION
 
 ----
 
-{{< figure src="taylors.png" class="float-left" width=150px >}}
-
+{{< figure src="taylors.png" class="float-left" width=150px >}} 
 Info and contact details about Taylors
 
 ----
