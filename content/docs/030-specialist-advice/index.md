@@ -8,6 +8,16 @@ weight: 30
 
 UNDER CONSTRUCTION
 
+## Test of Specialist List
+
+----
+
+{{< figure src="taylors.png" class="float-left" width=150px >}}
+
+Info and contact details about Taylors
+
+----
+
 ----
 
 {{<hint info>}}
