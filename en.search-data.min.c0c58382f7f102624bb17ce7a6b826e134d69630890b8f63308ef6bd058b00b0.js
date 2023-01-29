@@ -69,11 +69,7 @@ Image Credits # Figure Details 1 Extension under construction at Eastnor, Herefo
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:2,href:"/docs/030-specialist-advice/",title:"Getting Specialist Advice",section:"Docs",content:` Getting Specialist Advice # UNDER CONSTRUCTION
-Test of Specialist List # John Taylor \u0026amp; Co
-The Bell Foundry
-Freehold Street
-Loughborough
-LE11 1AR
+Test of Specialist List # John Taylor \u0026amp; Co, The Bell Foundry, Freehold Street,Loughborough, LE11 1AR
 Tel: 01509 212241
 Email: office@taylorbells.co.uk
 Website: https://taylorbells.co.uk
