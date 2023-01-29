@@ -15,12 +15,19 @@ UNDER CONSTRUCTION
 {{< figure src="taylors.png" class="float-left" width=150px >}}
 
 John Taylor & Co
+
 The Bell Foundry
+
 Freehold Street
+
 Loughborough
+
 LE11 1AR
+
 Tel: 01509 212241
+
 Email: office@taylorbells.co.uk
+
 Website: https://taylorbells.co.uk
 
 ----
