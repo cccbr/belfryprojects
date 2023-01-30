@@ -14,7 +14,7 @@ UNDER CONSTRUCTION
 
 {{< figure src="taylors.png" class="float-left" width=100px >}}
 
-John Taylor & Co 
+***John Taylor & Co*** 
 
 Bell foundry and bell hangers 
 
