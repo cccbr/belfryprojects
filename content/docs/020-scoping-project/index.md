@@ -5,10 +5,6 @@ weight: 20
 
 # Scoping the Project
 
-{{<hint warning>}}
-Of the over 7000 rings of bells in the world, around 90% are within the jurisdiction of the Church of England (CoE). We will use terms such as 'incumbent', 'church wardens' and 'Parochial Church Council (PCC)' in this document. We trust you can translate these into the equivalent terms in other jurisdictions.
-{{</hint>}}
-
 A bell project may start as the seed of an idea or it may already have been discussed in a committee such as the Parochial Church Council (PCC). This chapter suggests how to develop the initial ideas so that other people may become involved and start to appreciate what may be achieved. This will help the project come to a successful completion. No two projects will be the same so these notes offer guidance that may be considered rather than a step by step guide.
 
 ## Inception and Generation of Initial Ideas
