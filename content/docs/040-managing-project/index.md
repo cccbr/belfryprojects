@@ -118,6 +118,7 @@ Volunteer labour may undertake some of this but some tasks may require specialis
 ## Undertaking the Work
 
 {{< youtube b6yKQvNmTvc >}}
+
 *Figure 2: A short video taken at the start of the Eastnor, Herefordshire, bells project*	 
 
 The central phase in the project is usually the period during which contractors and volunteers arrive and undertake their work, with a quantities of material and equipment. It will be both exciting as changes take place but also will need careful coordination! Additional items may be required at precise times, and some will require secure storage until used. 
@@ -129,6 +130,7 @@ Any alteration inevitably means that there are consequences on other activities 
 Delays and unexpected challenges will occur and need to be resolved. A mobile phone and good contacts list will be invaluable but only if there is a phone signal in the tower! Also remember to document any changes agreed with all parties concerned so that everyone is very clear. 
 
 {{< youtube c7P07w-iTjU >}}
+
 *Figure 3: Eastnor – the bells return* 
 
 ## Blessing and Dedication
