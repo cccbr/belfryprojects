@@ -35,7 +35,7 @@ The team should discuss and agree how they intend to operate, share workload and
 
 As team members get to know each other, they will build a rapport enabling them to work together through the project. There will be high and low points, frustrations and successes; socialising together will help!
 
-### Team members and roles
+### Team Members and Roles
 
 The following are examples of roles that may be required. Note that several roles may be combined or may not be necessary, depending on the scale of the project and interests of those involved. 
 
@@ -153,6 +153,13 @@ The following are examples of roles that may be required. Note that several role
     </tbody>
 </table>
 {{< /rawhtml >}}
+
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| Title Picture | Lunch for bell hangers and volunteers during the project at Calstock, Cornwall – pasties of course! (Photo: Andrew Mills) |
+| 1 | Recognition for the project team at Horton Kirby, Kent  (Photo: Nick Wilkins) |
 
 ----
 
