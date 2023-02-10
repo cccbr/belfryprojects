@@ -187,6 +187,8 @@ Volunteers may be able to assist with:
  - Provision of overnight accommodation, washing and changing facilities, refreshments 
  - Hosting visitors, running errands 
 
+![Recognition of project team](project-team_fig-1.jpg)
+
 ## Image Credits
 
 | Figure | Details | 
