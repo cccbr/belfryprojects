@@ -7,7 +7,27 @@ weight: 50
 
 UNDER CONSTRUCTION
 
+![Project team eating lunch](project-team_title.jpg)
+
+A project may be proposed by one or two individuals with ambitions to achieve certain outcomes. However, it is usually better for a small group of people with a wider range of skills, interests and experiences to work together to make the project a success. It is advisable that the project is not the direct responsibility of an existing committee such as the PCC as that will usually have many other commitments and structured ways of operating; the team will need flexibility to plan the work and establish ways of working that will achieve the outcomes intended.
+
 ## Appointing the Project Team 
+
+### Project Leader
+
+The tower authority should appoint a project leader. Previous experience of managing projects may be helpful whether professionally or voluntarily but is not essential. Interest, a logical approach plus time available are probably most important. 
+
+Importantly, the leader should be willing to work with others whether volunteers, contractors, those consulted and giving advice, and other stakeholders. The leader need not to be “the best ringer”, tower captain or steeple keeper, but should have some knowledge of ringing and bell installations. 
+
+The leader’s terms of appointment should be agreed ideally in writing, outlining the scope of their responsibilities, what is to be achieved, timescales and any constraints. 
+
+### Team Members
+
+The leader should have the authority to appoint a small team, after consultation with the tower authorities, to assist with various aspects of the project. Team members may be allocated a specific role such as Project Secretary or Treasurer, consistent with their skills, interests and time available. What they agree to do should be set out in writing. Importantly, the team should be able to provide continuity if key individuals are unavailable. 
+
+Offers of help should be valued and accepted but not every volunteer needs to be a full team member, for example, someone may be willing to contribute to a certain activity or for a certain period but not involved otherwise. 
+
+Team members need not all be bell ringers; they may be able to contribute in other ways and will certainly gain new experiences. Volunteers may subsequently become involved in church activities and ringing, having not been involved previously. Young people helping will learn a lot and potentially help their careers!  For those under 18, parental consent is essential. (Link to safeguarding ***)
 
 ### Team working
 
