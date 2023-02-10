@@ -189,6 +189,8 @@ Volunteers may be able to assist with:
 
 ![Recognition of project team](project-team_fig-1.jpg)
 
+*Figure 1: Recognition for the project team at Horton Kirby, Kent* 
+
 ## Image Credits
 
 | Figure | Details | 
