@@ -181,7 +181,7 @@ Volunteers may be able to assist with:
  - Carrying materials and components back into the tower
  - Frame assembly and painting 
  - Installing fittings and components
- - Installing new flooring, ceiling, furniture, wiring, etc
+ - Installing new flooring, ceiling, furniture, wiring
  - Painting, decorating ringing room and other space 
  - Installing external sound control and ensuring good internal acoustics
  - Provision of overnight accommodation, washing and changing facilities, refreshments 
