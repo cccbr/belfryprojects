@@ -154,6 +154,39 @@ The following are examples of roles that may be required. Note that several role
 </table>
 {{< /rawhtml >}}
 
+## Team supporters 
+
+Supportive volunteers, whether from the church or local community, may offer a wide range of skills and experience. If helping professional contractors such as bell hangers, then this must be agreed in advance with the companies concerned and the volunteers must follow guidance and instructions from the relevant professionals. Bell hangers may agree as part of the contract to reduce the price of the work if volunteers agree to help with aspects of the work. 
+
+Young people under 18 (with parental consent in accordance with safeguarding requirements LINK***) can be encouraged to assist according to their age, maturity and interests. They will have a great experience, learn a little about bell installations, and contribute enthusiastically. Even younger children enjoy helping, for example, carrying just small items from a van to the church door. 
+
+Some people will be technically minded, but many with other skills will contribute: 
+ - IT, computing – website, blog, project tools, presentations, brochure layout 
+ - historians – a history of the bells, past ringers, ringing events in the context of the local town or village locations
+ - craftspeople and tradesmen – painting, woodwork, metal work associated with the project, with contractors or small additional items of use, or for sale. Perhaps using items recycled from items removed from the tower as part of the project
+ - musicians – the music of bell ringing, handbells in concerts, schools, fund raising events
+ - artists and designers – artwork for displays, presentations posters, grant applications, website, brochure
+ - photographers – record of project, imagery for website, blog 
+ - building owners – venues, parking for events
+ - chefs, caterers - events and fund raising 
+ - volunteer labour - working under guidance of the professional contractors, clearing items, lifting, carrying, moving, sweeping and cleaning
+
+…… there is potential in everyone! 
+
+Volunteers may be able to assist with: 
+ - Donation or loan at no or reduced cost - equipment, tools, scaffold, fork lifts
+ - Heavy lift and transport of bells to and from bell hangers premises
+ - Dismantling components and removing them from the tower
+ - Cleaning, preparation and finishing in the tower
+ - Carrying materials and components back into the tower
+ - Frame assembly and painting 
+ - Installing fittings and components
+ - Installing new flooring, ceiling, furniture, wiring, etc
+ - Painting, decorating ringing room and other space 
+ - Installing external sound control and ensuring good internal acoustics
+ - Provision of overnight accommodation, washing and changing facilities, refreshments 
+ - Hosting visitors, running errands 
+
 ## Image Credits
 
 | Figure | Details | 
