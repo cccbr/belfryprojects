@@ -29,7 +29,7 @@ Offers of help should be valued and accepted but not every volunteer needs to be
 
 Team members need not all be bell ringers; they may be able to contribute in other ways and will certainly gain new experiences. Volunteers may subsequently become involved in church activities and ringing, having not been involved previously. Young people helping will learn a lot and potentially help their careers!  For those under 18, parental consent is essential. (Link to safeguarding ***)
 
-### Team working
+### Team Working
 
 The team should discuss and agree how they intend to operate, share workload and activities, distribute information and maintain records. The team will need to meet periodically to discuss and agree key matters, supplemented by frequent electronic communications. 
 
