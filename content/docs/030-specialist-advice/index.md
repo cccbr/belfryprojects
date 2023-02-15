@@ -8,19 +8,7 @@ weight: 30
 
 UNDER CONSTRUCTION
 
-## Test of Specialist List
 
-----
-
-{{< figure src="taylors.png" class="float-left" width=100px >}}
-
-***John Taylor & Co*** 
-
-Bell foundry and bell hangers 
-
-https://taylorbells.co.uk
-
-----
 
 ----
 
