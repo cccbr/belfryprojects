@@ -69,9 +69,6 @@ Image Credits # Figure Details 1 Extension under construction at Eastnor, Herefo
 Version 0.1 (Under construction), December 2022
 © 2022 Central Council of Church Bell Ringers
 `}),e.add({id:2,href:"/docs/030-specialist-advice/",title:"Getting Specialist Advice",section:"Docs",content:` Getting Specialist Advice # UNDER CONSTRUCTION
-Test of Specialist List # John Taylor \u0026amp; Co
-Bell foundry and bell hangers
-https://taylorbells.co.uk
 Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), January 2023
 © 2023 Central Council of Church Bell Ringers
