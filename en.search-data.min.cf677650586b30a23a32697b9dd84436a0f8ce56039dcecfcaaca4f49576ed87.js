@@ -174,7 +174,7 @@ Version 0.1 (Under construction), January 2023
 Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), January 2023
 © 2023 Central Council of Church Bell Ringers
-`}),e.add({id:11,href:"/docs/115-specialists/",title:"Specialists",section:"Docs",content:` Specialists # UNDER CONSTRUCTION
+`}),e.add({id:11,href:"/docs/115-specialists/",title:"Specialist Services",section:"Docs",content:` Specialist Services # UNDER CONSTRUCTION
 This will contain names and web addresses of organisations providing specialist services for bell installations.
 Previous Chapter - Next Chapter Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
 Version 0.1 (Under construction), February 2023
