@@ -10,6 +10,10 @@ UNDER CONSTRUCTION
 
 This will contain names and web addresses of organisations providing specialist services for bell installations.
 
+{{< hint danger >}}
+Note that the Central Council of Church Bell Ringers does not endorse or recommend specific companies. The information below is added to assist readers. Legitimate requests for amendments or additions may be requested through the [Stewardship & Management Work Group Secretary](smSec@cccbr.org.uk).
+{{< /hint >}}
+
 ----
 
 {{<hint info>}}
