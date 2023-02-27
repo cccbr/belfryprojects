@@ -53,7 +53,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 
 | Name | Location | Contact |
 | --- | --- | --- |
-| Cumbria Clock Company Ltd  | Pennrith, Cumbria, UK  | http://www.clockmaker.co.uk  |
+| Cumbria Clock Company Ltd  | Penrith, Cumbria, UK  | http://www.clockmaker.co.uk  |
 | Gillett & Johnston | Bletchingley, Surrey, UK |  https://www.gillettjohnston.co.uk/ |
 | Smith of Derby Ltd | Derby, UK | https://www.smithofderby.com/ | 
 
