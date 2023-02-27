@@ -32,6 +32,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | Meadwell Church Restoration | Oakham, Leics, UK | +44 (0) 1572 821087 |
 | Nicholson Engineering Ltd | Bridport, Dorset, UK | https://www.nicholsonbellhangers.com |
 | Pembleton Bell Hangers & Engineers | Chesterfield, Derbyshire, UK | +44 (0) 1623 810640 |
+| Whites of Appleton | Appleton, Oxfordshire, UK | https://www.whitesbellhangers.co.uk/ |
 
 ## Bell Weld Repairs
 
