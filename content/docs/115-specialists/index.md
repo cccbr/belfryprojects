@@ -8,7 +8,7 @@ weight: 115
 
 UNDER CONSTRUCTION
 
-These are names and web addresses of organisations providing specialist services for bell installations.
+These are names and web addresses (or telephone numbers if no website) of organisations providing specialist services for bell installations.
 
 {{< hint danger >}}
 Note that the Central Council of Church Bell Ringers does not endorse or recommend specific companies. The information below is added to assist readers. Legitimate requests for amendments or additions may be requested through the Stewardship & Management Work Group Secretary at smSec@cccbr.org.uk.
@@ -18,7 +18,9 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 
 | Name | Location | Contact |
 | --- | --- | --- |
-|  John Taylor & Co | Loughborough, UK | https://taylorbells.co.uk  |
+| Fonderia Allanconi | Bolzone, Province of Cremona, Italy | http://allanconi.it/home_eng.php |Added Eijsbouts and Allanconi
+| John Taylor & Co | Loughborough, UK | https://taylorbells.co.uk  |
+| Royal Eijsbouts | Asten, Netherlands | https://eijsbouts.nl/ |
 | Westley Group | Cradley Heath, W Midlands, UK | https://www.westleygroup.co.uk |
 
 ## Bell Hangers
@@ -31,6 +33,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | Matthew Higby & Co Ltd | Radstock, Somerset, UK | https://www.bellhangers.com |
 | Meadwell Church Restoration | Oakham, Leics, UK | +44 (0) 1572 821087 |
 | Nicholson Engineering Ltd | Bridport, Dorset, UK | https://www.nicholsonbellhangers.com |
+| O'Shea Engineering | Burnham-on-Sea, Somerset, UK | https://www.osheabellhangers.co.uk/ |
 | Pembleton Bell Hangers & Engineers | Chesterfield, Derbyshire, UK | +44 (0) 1623 810640 |
 | Whites of Appleton | Appleton, Oxfordshire, UK | https://www.whitesbellhangers.co.uk/ |
 
@@ -38,7 +41,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 
 | Name | Location | Contact |
 | --- | --- | --- |
-| Soundweld  | Newmarket, Suffolk, UK  | http://www.soundweld.co.uk/ |
+| Soundweld  | Newmarket, Suffolk, UK | http://www.soundweld.co.uk/ |
 
 ## Rope Makers and Repairers
 
