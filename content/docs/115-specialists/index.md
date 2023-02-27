@@ -45,6 +45,8 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | Name | Location | Contact |
 | --- | --- | --- |
 | Avon Ropes Ltd  | Mangotsfield, Bristol, UK | https://www.avonropes.co.uk/ |
+| Ellis Ropes ltd | Loughborough, Leics, UJ | https://www.ellisandpritchards.co.uk/ |
+| Malcolm Brown Bellropes | Isle of Lewis, UK | http://www.malcolmbrownbellropes.co.uk/index.html |
 | Mendip Ropemakers Ltd | Martock, Somerset, UK | http://www.mendipropemakers.com/ |
 
 ## Clock Makers
@@ -53,7 +55,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | --- | --- | --- |
 | Cumbria Clock Company Ltd  | Pennrith, Cumbria, UK  | http://www.clockmaker.co.uk  |
 | Gillett & Johnston | Bletchingley, Surrey, UK |  https://www.gillettjohnston.co.uk/ |
-| Smith of Derby Ltd | Derby, UK | https://www.smithofderby.com/ |
+| Smith of Derby Ltd | Derby, UK | https://www.smithofderby.com/ | 
 
 ## Structural Engineers
 
