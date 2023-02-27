@@ -31,7 +31,13 @@ For towers within the Church of England, the permission for anything other than 
 
 ### Bell Hangers & Founders
 
-At some stage you will need to be in contact with bell hangers (who carry out the installation) and, if new bells are required, bell founders (some companies fulfil both functions). Contact details for such companies are given in [Specialist Services](../115-specialists).
+At some stage you will need to be in contact with bell hangers (who carry out the installation) and, if new bells are required, bell founders (some companies fulfil both functions). 
+
+{{< hint warning >}}
+It would be unusual (but not impossible) for a tower to contact a bell foundry directly, as this will usually be done by the bell hanger.
+{{< /hint >}}
+
+Contact details for such companies are given in [Specialist Services](../115-specialists).
 
 Companies in the bell trade will provide reports on the condition of any existing bells and the associated installation and provide price estimates for work that they propose. They may suggest other advice needed, such as from structural engineers on the condition of the tower itself:
  - How an existing ring of bells may be restored by relatively minor repairs to or replacement of old, damaged or worn components 
