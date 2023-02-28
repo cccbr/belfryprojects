@@ -72,7 +72,11 @@ Sound management is complex and may need more specialist advice than can be prov
 
 ### Sourcing & disposal of materials
 
-New and replacement materials should be sourced responsibly considering environmental and ethical factors. Surplus materials may be sold, made available for reuse, recycled or as a last resort disposed of optimally. Appropriate arrangements may be set out in the [contract specification](../070-contract-specification). 
+New and replacement materials should be sourced responsibly considering environmental and ethical factors. Surplus materials may be sold, made available for reuse, recycled or as a last resort disposed of optimally. 
+
+In disposing of items removed during the project, care must be taken to preserve what may be deemed to be historic / heritage or artistic items of interest. Note that, in the Church of England [faculty rules]( https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules), there are repeated references to *sale or other disposal of an article of architectural, archaeological, artistic or historic interest*. Specific requirements may be stipulated in the faculty after consideration of reports from other agencies involved. Even graffiti on stone or woodwork may help shed light on the previous ringers and other users of the church and therefore be considered as of value – and of interest to future generations.
+
+Appropriate arrangements may be set out in the [contract specification](../070-contract-specification). 
 
 ### Architects
 
