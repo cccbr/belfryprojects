@@ -72,9 +72,7 @@ Sound management is complex and may need more specialist advice than can be prov
 
 ### Sourcing & disposal of materials
 
-New and replacement materials should be sourced responsibly considering environmental and ethical factors. Surplus materials may be sold, made available for reuse, recycled or as a last resort disposed of optimally. 
-
-In disposing of items removed during the project, care must be taken to preserve what may be deemed to be historic / heritage or artistic items of interest. Note that, in the Church of England [faculty rules]( https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules), there are repeated references to *sale or other disposal of an article of architectural, archaeological, artistic or historic interest*. Specific requirements may be stipulated in the faculty after consideration of reports from other agencies involved. Even graffiti on stone or woodwork may help shed light on the previous ringers and other users of the church and therefore be considered as of value – and of interest to future generations.
+New and replacement materials should be sourced responsibly considering environmental and ethical factors. Surplus materials may be sold, made available for reuse, recycled or as a last resort disposed of optimally. Items removed from the original installation should be preserved, see [Historical and Conservation](#historical-and-conservation).
 
 Appropriate arrangements may be set out in the [contract specification](../070-contract-specification). 
 
@@ -92,7 +90,9 @@ Depending on the historical and conservation status of the tower, frame and bell
 
 Heritage bodies like [Historic England](https://historicengland.org.uk/advice/caring-for-heritage/places-of-worship/making-changes/advice-by-topic/bell-frames/ ) and amenity societies, for example, [SPAB - Society for the Preservation of Ancient Buildings](https://www.spab.org.uk/ ), will normally need to be consulted as their views may need to be heeded and these will often influence plans and costs.  Whilst their requirements may not be compulsory, the Diocesan Advisory Committee and ultimately the Chancellor of the Diocese will take their views into account. 
 
-[Archaeologists](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/#archaeologically-significant-sites) may be required, especially if ground disturbance is envisaged – such as when a project involves church building works. There are local volunteer groups and county archaeology teams in most areas. 
+[Archaeologists](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/#archaeologically-significant-sites) may be required, especially if ground disturbance is envisaged – such as when a project involves church building works. There are local volunteer groups and county archaeology teams in most areas.
+
+In disposing of items removed during the project, care must be taken to preserve what may be deemed to be historic / heritage or artistic items of interest. In the Church of England faculty rules, there are repeated references to *sale or other disposal of an article of architectural, archaeological, artistic or historic interest*. Specific requirements may be stipulated in the faculty after consideration of reports from other agencies involved. Even graffiti on stone or woodwork may help shed light on the previous ringers and other users of the church and therefore be considered as of value – and of interest to future generations.
 
 Note that historic information may be a benefit as well as a constraint. Local historians may have information about the history of the church, including any original bells, and this may help to generate interest in your appeal for funds.
 
