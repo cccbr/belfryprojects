@@ -94,7 +94,9 @@ Heritage bodies like [Historic England](https://historicengland.org.uk/advice/ca
 
 In disposing of items removed during the project, care must be taken to preserve what may be deemed to be historic / heritage or artistic items of interest. In the Church of England faculty rules, there are repeated references to *sale or other disposal of an article of architectural, archaeological, artistic or historic interest*. Specific requirements may be stipulated in the faculty after consideration of reports from other agencies involved. Even graffiti on stone or woodwork may help shed light on the previous ringers and other users of the church and therefore be considered as of value – and of interest to future generations.
 
+{{< hint warning >}}
 Note that historic information may be a benefit as well as a constraint. Local historians may have information about the history of the church, including any original bells, and this may help to generate interest in your appeal for funds.
+{{< /hint >}}
 
 ### Environmental Considerations
 
