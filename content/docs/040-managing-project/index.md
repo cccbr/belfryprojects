@@ -8,7 +8,7 @@ weight: 40
 
 ## A plan to go from this… 
 
-Picture here
+Picture here ![description](name of image file – local)
 
 As a project takes shape there may be enthusiasm to make progress, particularly start raising money. However, it is advisable to plan the project, considering in some detail **what** has to be done **when**, **how**, by **whom**, with what **resources** first. The plan will ideally run from the earliest discussions through to project completion. Careful planning should reduce the overall duration, save money and make sure that the whole project runs smoothly and meets its aims. 
 
@@ -56,7 +56,7 @@ Lack of planning can lead to what are described as “Unforseen consequences” 
 ## Project Management tools
 It is advisable for the project leader to set up systematic ways of managing the project. Comprehensive software packages are available, some very expensive, others freely available, but these are not necessary. It is more important for all those involved to be able to access information and use it. The normal cautions apply if free software is used. 
 
-## Calendar 
+### Calendar 
 A calendar is a good way of showing the start and end dates of activities in each stage, along with specific milestones (GLOSSARY ***), deadlines and events highlighted. Larger projects involving other work in the church are likely to be divided into major phases, only one of which may directly concern the bells.
 
 {{<hint warning>}}
@@ -67,7 +67,7 @@ An online calendar enables team members to share and update information as progr
 
 A large wall planner displayed at a central location such as in the church, is useful to show progress against key milestones. 
 
-## Project Information Documents and Records
+### Project Information Documents and Records
 Information and documents will be generated and received during a project, including key more formal decisions and agreements, as well as useful reference materials. Much of this will be referred to during the project and key documents must be archived on completion. For example:
 
  - Calendars showing project timetable
@@ -92,7 +92,7 @@ Information from suppliers and contractors may be commercially sensitive so shou
 
 Some grant awarding bodies require reports, data and other actions during and after the project is complete, some even a few years after the project has been finished so plan for this as the project proceeds. 
 
-## Photographic records 
+### Photographic records 
 Photographs and videos are easy to take electronically and will be useful when creating a complete documentary record of the project from the very start through to completion that can be preserved as part of the tower history. As well as being useful, informative and interesting, pictures are helpful as reminders of the status of the project at certain points as well useful publicity in the course of the project. Perhaps enlist the support of members of a local photographic society as they may be willing to be involved in a more unusual project themselves. Bell towers are often dark and cramped so will pose interesting challenges even for the most enthusiastic amateur photographers! 
 
 ## Money Management  Links to Finance chapter ***
@@ -107,7 +107,7 @@ Once all the plans and approvals are in place, along with evidence of the money 
 
 Who will have the last ring on the old bells? This is likely to be a question asked by ringers so plans are likely to include the last quarter peal, last peal and last general ringing. Plan who will be involved in each of these events and use them as publicity opportunities. 
 
-## Decommissioning and Preparations
+### Decommissioning and Preparations
 
 Preliminary work will usually be required before external contractors can start the bell related work – for example, in clearing items that are in routine use – chairs, tables, books, papers etc. Are they to be retained in storage, refurbished or disposed of? 
 
@@ -115,7 +115,7 @@ It may be necessary to provide protective sheeting and covering for immovable it
 
 Volunteer labour may undertake some of this but some tasks may require specialist contractors, such as organ builders to protect an organ. Work by volunteers will require advance agreement of the church and main contractors. Bell hangers are accustomed to working with volunteers, subject to insurance arrangements being agreed and project specific risk assessments in place. 
 
-## Undertaking the Work
+### Undertaking the Work
 
 {{< youtube b6yKQvNmTvc >}}
 
@@ -133,19 +133,23 @@ Delays and unexpected challenges will occur and need to be resolved. A mobile ph
 
 *Figure 3: Eastnor – the bells return* 
 
-## Blessing and Dedication
+## Snagging 
+
+The contract terms should set out how and by when remedial work will be completed. The project leader should create a list of items that do not meet contractual acceptance criteria (punch list) and report them to the contractor concerned as soon as possible. As these punch list items are completed by the contractor, they should be rechecked, and then marked completed.  Note, during your review of punch list items, keep a careful eye out as new items may be caused by remedial work and if any are noted, they should be added to the punch list and remediated.  When the snagging process is completed, the project can move onto the next step. 
+
+### Blessing and Dedication
 
 It is customary for the Bishop or other senior church representative to bless the bells, if possible while they are still visible in the church or church yard before being lifted into the tower. This may be at a special service or as part of another church service or ringing event. Often the precise time within the project plan will not be known until relatively late so organisation may be quite complicated.
 
 Alternatively, the re-dedication may be after the bells have been rehung and perhaps rung open (i.e. audibly) for the first time. A video link from the bell chamber to the church can be used so that the bells are visible on a screen during the service. The bells are normally not be rung (other than for basic testing) before the dedication service. Bells are at risk of theft while not hung in the tower so additional security arrangements may be required. 
 
-## Recommissioning 
+### Recommissioning 
 
 Plans should set out when and how the bells will be recommissioned. The first ringing after the bells are installed and functioning will usually be by an experienced band who can assist in assessing the new installation with the bell hangers. The acceptance criteria should be set out in the project plans. Ensure that all work activities are completed before each contract is signed off as complete and money paid.
 
 Link to contract terms chapter
 
-## Completion, First Ringing and Reporting
+### Completion, First Ringing and Reporting
 
 Once all work is completed satisfactorily, the tower should be cleaned throughout and items in routine use replaced – chairs, tables, etc.  This is an opportunity to clean, restore or replace used items and install additional items to update the facilities available. 
 
@@ -157,15 +161,11 @@ It is wise to agree early in the project who and when the first quarter peal and
 
 Warning neighbours in advance of ringing recommencing will help avoid complaints and can be an opportunity to recruit new recruits. 
 
-## Snagging 
-
-The contract terms should set out how and by when remedial work will be completed. The project leader should note points that arise and report them to the contractor concerned as soon as possible. 
-
 And last but not least - Celebrate! 
 
 To this:
 
-Completed picture
+Completed picture ![description](name of image file – local)
 
 Image Credits
 
