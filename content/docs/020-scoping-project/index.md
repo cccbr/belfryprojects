@@ -119,9 +119,9 @@ For ringers, these are some of the key issues:
  - What of all the component parts can be retained, repaired, reused elsewhere, recycled?
  - Ease of maintenance should be considered in the design of any substantially altered or completely new installation.
 
-Traditionally, bell frames were located at the level of the louvres. Depending on the design of your tower, it may be possible to locate a new frame lower in the tower. This may have the advantage of reducing the sound level immediately outside the tower and possibly make the bells sound better at a distance. In particular, it should avoid individual bells ‘shouting out’ at certain positions around the tower. If you plan to replace a historic old frame by a modern one, this also gives you the option of retaining the old frame in place. If you decide to follow this option, there are some points you need to consider:
+Traditionally, bell frames were located at the level of the louvres. Depending on the design of your tower, it may be possible to locate a new frame lower in the tower. This may have the advantage of reducing the sound level immediately outside the tower and possibly make the bells sound better at a distance. In particular, it should avoid individual bells ‘shouting out’ at certain positions around the tower. If you plan to replace an historic old frame by a modern one, this also gives you the option of retaining the old frame in place. If you decide to follow this option, there are some points you need to consider:
  - The old frame must be stabilised to avoid parts falling off onto the new bells.
- - If the frame is historic, you may have to provide access for inspection and recording – remember that you may have a solid floor below the old frame.
+ - If the frame is historic, you may have to provide access for inspection and recording – remember that you may not have a solid floor below the old frame.
  - You will also need to have access to the louvres, to check and maintain the grills protecting the tower from access by birds, squirrels and other wildlife.
 
 ### What other improvements should be made? 
