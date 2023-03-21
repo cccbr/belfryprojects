@@ -144,13 +144,13 @@ Related to this is filing systems and record keeping.  A project will amass a lo
 
 ## Protected Wildlife
 
-Church towers may be home to various forms of wildlife, some benign, some damaging. Some are protected – bats certainly, and some species of birds. Advice on this is given [here](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/#protected-wildlife)
+Church towers may be home to various forms of wildlife, some benign, some damaging. Some are protected – bats certainly, and some species of birds. Advice on this is given [here](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/#protected-wildlife).
 
 ## Other Issues to Consider
 
  - Depending on the location of the tower and the surrounding road infrastructure, special arrangements may be required with highways authorities and neighbours to enable vehicle access sometimes several at one time, manoeuvring and parking, including for larger cranes and lifting gear.
  - Churches will normally expect to continue their normal activities as much as possible while work is underway. Contractors will plan for equipment and tools to be cleared at appropriate times, or alternative arrangements made. Narrow doorways, monuments, timberwork and other objects that cannot be removed during the work, will need careful protection.  
- - Inevitably, any work in the tower will generate dust and debris. An organ, for example, will be particularly vulnerable and may need to be protected; organ builders are accustomed to providing this service. Protective sheeting, flooring, “tack mats” will be required, and extra cleaning support will help with keeping dust levels down throughout the work. Bell hangers are familiar with the likely risks and should advise. 
+ - Inevitably, any work in the tower will generate dust and debris. An organ, for example, will be particularly vulnerable and may need to be protected; organ builders are accustomed to providing this service. Protective sheeting, flooring and “tack mats” will be required, and extra cleaning support will help with keeping dust levels down throughout the work. Bell hangers are familiar with the likely risks and should advise. 
  - Some contractors will include specific requirements in their contract documents so these need to be noted and adhered to. 
 
 ----
