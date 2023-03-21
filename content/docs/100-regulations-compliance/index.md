@@ -52,12 +52,106 @@ The requirement to notify the HSE of a project becomes necessary if the construc
 
 It is only major bell projects that exceed these parameters (but such projects do exist).
 
-However, while this might seem like a get-out clause for doing nothing, this is not the case. The Regulations demand, regardless of whether a project is notifiable or non-notifiable, that the Client produces a Pre-Construction Information (PCI) document for a project before the site work starts, and in turn the Principal Contractor must provide a Construction Phase Plan (CPP), which is reviewed by the Principal Designer on behalf of the Client. The Regulations require the PCI to be compiled in a way that is appropriate to the scale and complexity of the work being undertaken, in terms of relevant information being passed between the parties prior to the work starting, and thus non-notifiable work will generally include basic information rather than that needed for larger projects.  
+However, while this might seem like a get-out clause for doing nothing, this is not the case. The Regulations demand, regardless of whether a project is notifiable or non-notifiable, that the Client produces a Pre-Construction Information (PCI) document for a project before the site work starts, and in turn the Principal Contractor must provide a Construction Phase Plan (CPP), which is reviewed by the Principal Designer on behalf of the Client. The Regulations require the PCI to be compiled in a way that is appropriate to the scale and complexity of the work being undertaken, in terms of relevant information being passed between the parties prior to the work starting, and thus non-notifiable work will generally include basic information rather than that needed for larger projects.
 
+## Relevant HSE Documents
 
+The United Kingdom Health & Safety Executive produces a wide range of relevant documents which are grouped here for convenience. While the documents have no legal standing outside the UK, the information provided may be useful in other jurisdictions.
 
+### Health and Safety in Construction
 
- 
+[This free-to-download version of a printed edition](https://www.hse.gov.uk/pubns/priced/hsg150.pdf) is aimed at the small contractor but also applies to everyone involved in construction. It provides help and assistance on how to work safely on most tasks you will encounter. It will also help to identify the main causes of accidents and ill health and explains how to eliminate hazards and control risks. The guidance is simple but comprehensive. The solutions are straightforward and easy to adopt.
+
+### Personal Protective Equipment 
+
+Regulations covering the use of personal protective equipment (PPE) at work first came into force in 1992 (PPER 1992). These were amended in 2022 (PPER 2022). [A free pdf download](https://www.hse.gov.uk/pubns/priced/l25.pdf) provides practical advice on how you can comply with the requirements of PPER 1992 as amended by PPER 2022. See also the [relevant section in Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/#personal-protective-equipment).
+
+### Lifting Operations & Lifting Equipment
+
+[This document](https://www.hse.gov.uk/work-equipment-machinery/loler.htm) describes the Lifting Operations and Lifting Equipment Regulations 1998 (often abbreviated to LOLER). These place duties on people and companies who own, operate or have control over lifting equipment. This includes all businesses and organisations whose employees use lifting equipment, whether owned by them or not.
+
+### Provision and Use of Work Equipment Regulations 1998
+
+[This document](https://www.hse.gov.uk/work-equipment-machinery/puwer.htm) describes regulations placing duties on people and companies who own, operate or have control over work equipment. The scope of work equipment is extremely wide, covering any machinery, appliance, apparatus, tool or installation for use at work (whether exclusively or not). This includes equipment which employees provide for their own use at work.
+
+### Control of Noise at Work Regulations 2005
+
+Guidance on these regulations is available as a [free PDF download](https://www.hse.gov.uk/pubns/priced/l108.pdf). In general, workers on an installation project will not be subject to damaging noises, except when bells, with clappers present, are swung as part of testing. Any workers present during this must be equipped with suitable ear defenders or earplugs.
+
+Even though bellringing may be suspended during the work, it is helpful for neighbours to be alerted that unusual noises from equipment and machinery may disturb them.
+
+### Work at Height Regulations 2005
+
+The purpose of the [work at height regulations](https://www.hse.gov.uk/work-at-height/the-law.htm) is to prevent death and injury caused by a fall from height.
+
+### Control of Substances Hazardous to Health Regulations 2002
+
+[These regulations](https://www.hse.gov.uk/coshh/index.htm) (usually abbreviated to COSSH) require employers to control substances that are hazardous to health. There may be hazardous substances in towers, for example asbestos was often used as pipe insulation. Bat and bird droppings are highly likely in towers and pose risks to health. Further information is given [here](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/#hazardous-materials).
+
+Any materials used in the course of the work must be disposed of appropriately. See [here](https://www.hse.gov.uk/construction/safetytopics/storage.htm).
+
+### Reporting of Diseases and Dangerous Occurrences Regulations 2013
+
+[These regulations](https://www.hse.gov.uk/riddor/) (usually abbreviated to RIDDOR) put duties on employers, the self-employed and people in control of work premises (the Responsible Person) to report certain serious workplace accidents, occupational diseases and specified dangerous occurrences (near misses).
+
+The Church should already have an accident reporting system.
+
+### Fire protection
+
+Use of tools and certain materials can increase the risk of fire. Will fire exits be blocked necessarily during the work? If so, what alternative arrangements can be made and how are they to be notified to building users? Advice is provided [here](https://www.hse.gov.uk/toolbox/fire.htm).
+
+### Electrical supplies
+
+Contractors will usually make use of the church electrical supplies so these need to be checked that they are adequate for power tools. Fuse boxes and electrical mains connections should be made known to contractors so that they can isolate circuits if required. Contractors may need to bring their own generators and lighting equipment. Safety guidance on the use of electrically powered equipment is given [here](https://www.hse.gov.uk/electricity/electricequip.htm).
+
+## Access During the Project
+
+Tower access may not be appropriate for work during a project so there may be a need for the permanent installation of walkways and steps. Temporary scaffolding or a scaffold tower may also be hired. Flooring will need to be strong enough to support the scaffold and suitable protection for fragile surfaces such as tiles may be essential. Note that scaffolding has to be inspected periodically during work and tagged. Ladders, gantries and platforms must all comply with legislation. 
+
+Scaffolding and ladders erected will make access easier to parts of the building that are not normally accessible. Additional security precautions may be necessary along with checks of insurance policies. One insurer provides a [questionnaire](https://www.ecclesiastical.com/documents/scaffolding-checklist.pdf) for completion with their requirements for scaffold security.
+
+Remember that scaffolding is expensive so minimise the period during which it will be installed.
+
+## Welfare Facilities
+
+Adequate washing, changing and eating facilities should be provided for contractors and volunteers. If not available in the church or adjacent building then it may be necessary for suitable facilities to be hired during the project. Local ringers will be able to suggest convenient and suitably priced overnight accommodation for contractors.  
+
+## Insurance 
+
+Information about insurance and ringing is available [here]( https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf ). For bell projects more specifically, the church policy may need extension to cover bell projects and insurers should be informed of the work being undertaken.
+
+Local volunteers are often used (with agreement of the bell hanger) to reduce the cost. Such volunteers working with the authority of the church may be covered by the church but this must be confirmed, particularly if the volunteers are under 18 or of more mature years.
+
+Additional insurance cover may be required at certain stages, for example when the bells are at ground level in the church and hence more at risk of theft. 
+
+## Security
+
+During a project, additional people may be loaned keys or given key codes. Ensure that there are arrangements made to enable access, but that security will be maintained, with keys returned on completion of the project or combination codes changed. 
+
+## Lightning Protection 
+
+Lightning protection may be disrupted or altered during the work. For example, a metal bell frame will need to be bonded to a lightning conductor. Specialist contractors will advise on temporary or permanent arrangements. More detailed information is provided [here]( https://historicengland.org.uk/images-books/publications/lightning-protection/).
+
+## Safeguarding 
+
+If young people (under 18) participate in events or act as volunteers in any way during the project then the church safeguarding policy must be followed. 
+
+## GDPR (General Data Protection Regulations)
+
+The church should have a defined process for managing personal data and information. Specific  arrangements must be made for how project data will be managed during and after the project. 
+
+Related to this is filing systems and record keeping.  A project will amass a lot of correspondence and documents. Much of this will be electronic but there will also be some that is still paper based.  The project team will need to establish and adopt systems, that can be understood by not just the primary user but also other agreed users. Some information, for example, contract quotes, funds donated, may be marked as confidential so must be managed appropriately.
+
+## Protected Wildlife
+
+Church towers may be home to various forms of wildlife, some benign, some damaging. Some are protected – bats certainly, and some species of birds. Advice on this is given [here](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/#protected-wildlife)
+
+## Other Issues to Consider
+
+ - Depending on the location of the tower and the surrounding road infrastructure, special arrangements may be required with highways authorities and neighbours to enable vehicle access sometimes several at one time, manoeuvring and parking, including for larger cranes and lifting gear.
+ - Churches will normally expect to continue their normal activities as much as possible while work is underway. Contractors will plan for equipment and tools to be cleared at appropriate times, or alternative arrangements made. Narrow doorways, monuments, timberwork and other objects that cannot be removed during the work, will need careful protection.  
+ - Inevitably, any work in the tower will generate dust and debris. An organ, for example, will be particularly vulnerable and may need to be protected; organ builders are accustomed to providing this service. Protective sheeting, flooring, “tack mats” will be required, and extra cleaning support will help with keeping dust levels down throughout the work. Bell hangers are familiar with the likely risks and should advise. 
+ - Some contractors will include specific requirements in their contract documents so these need to be noted and adhered to. 
 
 ----
 
