@@ -176,7 +176,7 @@ Image Credits
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../030-specialist-advice/)** - **[Next Chapter](../050-project-team/)**
+**[Previous Chapter](../035-permissions-approvals/)** - **[Next Chapter](../050-project-team/)**
 {{</hint>}}
 
 ----
