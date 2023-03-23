@@ -11,7 +11,7 @@ UNDER CONSTRUCTION
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../060-stakeholder-engagement/)** - **[Next Chapter](../080-permissions-approvals/)**
+**[Previous Chapter](../060-stakeholder-engagement/)** - **[Next Chapter](../00-project-finance/)**
 {{</hint>}}
 
 ----
