@@ -35,15 +35,15 @@ Part of the initial planning will therefore involve finding out who has to give 
 
 Little if any work can go ahead before all agreements are in place. In some instances, one organisation will only commit after one or more other specific agreements are finalised. 
 
-## Planning Permission 
+### Planning Permission 
 
 This is not normally required when the external appearance of a church will remain unchanged. See [here](https://historicengland.org.uk/advice/hpg/consent/ecclesiasticalexemptions/). However, if the project entails, for example, extension to the building or changes to windows or doorways, then local authority planning permission is likely to be required. 
 
-## Listed Building Consent
+### Listed Building Consent
 
 This is not likely to be required for a church that is covered by the [Ecclesiastical Exemption](https://historicengland.org.uk/advice/hpg/consent/ecclesiasticalexemptions/).
 
-## Miscellaneous Permissions 
+### Miscellaneous Permissions 
 
 -	Work such as the installation of new mains services (for example electricity and water) may involve not only the suppliers but permissions from other landowners if other property is to be affected. 
 -	Depending on the location of the tower, there may be a need for road closures or the imposition of temporary parking restrictions during certain phases of the work to enable large vehicles to access the tower. This will require permission from the relevant local authority. Access may also be required to adjacent property if space around the building is constrained. 
