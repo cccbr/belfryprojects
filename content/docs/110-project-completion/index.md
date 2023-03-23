@@ -39,7 +39,7 @@ For many projects it will be appropriate to hold a celebratory event to say “t
 
 | Figure | Details | 
 | :---: | --- | 
-| Title Picture | Framed certificate showing work completed on a bell project (Photo: Alison Hodge) |
+| Title Picture | Framed certificate showing work completed on a bell project (Whites of Appleton) |
 | 1 | Permanent display board about bell ringing in a church (Photo:  Alison Hodge) |
 
 
