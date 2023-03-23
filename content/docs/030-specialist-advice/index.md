@@ -140,7 +140,7 @@ You will need to understand and balance the information given, particularly wher
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../020-scoping-project/)** - **[Next Chapter](../040-managing-project/)**
+**[Previous Chapter](../020-scoping-project/)** - **[Next Chapter](../035-permissions-approvals/)**
 {{</hint>}}
 
 ----
