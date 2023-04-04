@@ -167,9 +167,9 @@ The following national organisations may be willing to offer financial support f
 
 [THE BARRON BELL TRUST](https://www.nationalchurchestrust.org/barron-bell-trust). Preference is given to churches where the services are Low Church. Do not apply until at least 50% of money has been raised. Preference is given for applications where there is an intention to increase the number of bells to at least six.
 
-CHURCHCARE (https://www.churchofengland.org/more/church-resources/churchcare/our-conservation-grants). Mainly gives grants for ancient bells and bells of historic interest, repairs to listed frames and bells.
+[CHURCHCARE](https://www.churchofengland.org/more/church-resources/churchcare/our-conservation-grants). Mainly gives grants for ancient bells and bells of historic interest, repairs to listed frames and bells.
 
-THE SHARPE TRUST (http://www.sharpetrustees.org.uk/trust.htm). Supports maintenance and restoration of bells in England and Wales.
+[THE SHARPE TRUST](http://www.sharpetrustees.org.uk/trust.htm). Supports maintenance and restoration of bells in England and Wales.
 
 [THE NATIONAL CHURCHES TRUST](https://www.nationalchurchestrust.org/our-grants) (formerly Historic Churches Trust) supports structural repairs only, not bell restoration. Most grants are given in rural areas.
 
@@ -196,7 +196,13 @@ THE SHARPE TRUST (http://www.sharpetrustees.org.uk/trust.htm). Supports maintena
 Also consider grant awarding bodies in the relevant local area. For example, in the Birmingham area:
 
  -	[Heart of England Community Foundation](www.heartofenglandcf.co.uk)
- -	[Birmingham & Black Country Community Foundation](www.bhamfoundation.co.uk) 
+ -	[Birmingham & Black Country Community Foundation](www.bhamfoundation.co.uk)
+
+Many dioceses produce their own funding guides and advice on projects. For example: 
+
+ -	[Bristol](https://www.bristol.anglican.org/fundraising/)
+ -	[Hereford](https://www.hereford.anglican.org/parish-support/community-partnership/crossing-the-threshold-toolkit/)  
+
 
 ### Preparing applications 
 
