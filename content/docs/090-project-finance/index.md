@@ -11,7 +11,7 @@ UNDER CONSTRUCTION
 
 ## What is the Cost? 
 
-The price of a bell project will be determined by the [work to be done](https://belfryprojects.cccbr.org.uk/docs/020-scoping-projects/) and as [quoted]( https://belfryprojects.cccbr.org.uk/docs/070-contract-specification/) by the main contractor and sub-contractors. Very approximate costs may be indicated by looking at similar projects elsewhere. Additional items such as transport, protection for floors and church fabrics, disposal of surplus items, storage, hire of tools, may not be included in the main contracts. 
+The price of a bell project will be determined by the [work to be done](https://belfryprojects.cccbr.org.uk/docs/020-scoping-project/) and as [quoted]( https://belfryprojects.cccbr.org.uk/docs/070-contract-specification/) by the main contractor and sub-contractors. Very approximate costs may be indicated by looking at similar projects elsewhere. Additional items such as transport, protection for floors and church fabrics, disposal of surplus items, storage, hire of tools, may not be included in the main contracts. 
 
 Price increases are inevitable, especially if the gestation period of the project is several months or years, and inflation rates are high. The bell trade recognises this and may quote a price that will be held for a specified period, but other prices may rise unpredictably. It is wise to add a percentage for genuine and unforeseen contingencies but guard this carefully!  It is not an excuse for poor estimating and planning!
 
