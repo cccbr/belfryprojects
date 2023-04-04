@@ -35,7 +35,7 @@ The final payments on a contract should only be made after it is certain that al
 
 ### Listed Places of Worship Grant Scheme
 
-Under this scheme (https://www.lpwscheme.org.uk/) the VAT paid on work to bells and bell frames is recovered by a grant to the same value, subject to certain conditions. All purchases and contracts must be placed by the PCC for the tax to be reclaimed. The PCC treasurer should be familiar with this scheme. 
+Under this [scheme](https://www.lpwscheme.org.uk/) the VAT paid on work to bells and bell frames is recovered by a grant to the same value, subject to certain conditions. All purchases and contracts must be placed by the PCC for the tax to be reclaimed. The PCC treasurer should be familiar with this scheme. 
 
 ### Gift Aid
 
