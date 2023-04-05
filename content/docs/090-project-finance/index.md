@@ -158,8 +158,8 @@ The list of sources below may not be exhaustive. Please contact smSec@cccbr.org.
 Most ringing societies have funds available for bell projects. Contact your [local society](https://cccbr.org.uk/about/members/) for details.
 
 The Central Council of Church Bell Ringers has two funds which may be able to offer grants:
- - The Central Council [Bell Restoration Fund](https://cccbr.org.uk/cc-bell-ringing-fund/) generates income  primarily from legacies, donations, fundraising offers and bank interest. When funds are available, applications for grants are invited by notices in The Ringing World, on the CCCBR website, and on other communications channels.
- - The [Fred E Dukes International Bell Fund](https://cccbr.org.uk/dukes-international-fund/) is a capital fund and grants can only be paid from the interest earned, which limits the size of grants. Under the terms of the fund, grants are paid only for work carried out by UK bell founders and UK bell-hangers on bell restoration projects in countries outside the UK and Ireland. Applications for grants from the Fund are invited each year by a notice in The Ringing World, on the CCCBR website and by notification to ringing organisations outside the British Isles.
+ - The Central Council [Bell Restoration Fund](https://cccbr.org.uk/cc-bell-ringing-fund/) generates income  primarily from legacies, donations, fundraising offers and bank interest. When funds are available, applications for grants are invited by notices in *The Ringing World*, on the CCCBR website, and on other communications channels.
+ - The [Fred E Dukes International Bell Fund](https://cccbr.org.uk/dukes-international-fund/) is a capital fund and grants can only be paid from the interest earned, which limits the size of grants. Under the terms of the fund, grants are paid only for work carried out by UK bell founders and UK bell-hangers on bell restoration projects in countries outside the UK and Ireland. Applications for grants from the Fund are invited each year by a notice in *The Ringing World*, on the CCCBR website and by notification to ringing organisations outside the British Isles.
 
 The following national organisations may be willing to offer financial support for bell related projects:
 
@@ -169,13 +169,11 @@ The following national organisations may be willing to offer financial support f
 
 [CHURCHCARE](https://www.churchofengland.org/more/church-resources/churchcare/our-conservation-grants). Mainly gives grants for ancient bells and bells of historic interest, repairs to listed frames and bells.
 
-[THE SHARPE TRUST](http://www.sharpetrustees.org.uk/trust.htm). Supports maintenance and restoration of bells in England and Wales.
+[THE SHARPE TRUST](http://sharpetrust.org.uk). Supports maintenance and restoration of bells in England and Wales.
 
-[THE NATIONAL CHURCHES TRUST](https://www.nationalchurchestrust.org/our-grants) (formerly Historic Churches Trust) supports structural repairs only, not bell restoration. Most grants are given in rural areas.
+[KELTEK TRUST](https://www.keltektrust.org.uk). The Trust helps churches to locate and acquire second-hand bells. The Trust also helps those wishing to dispose of surplus and redundant bells.
 
-[KELTEK TRUST](www.keltektrust.org.uk). The Trust helps churches to locate and acquire second-hand bells. The Trust also helps those wishing to dispose of surplus and redundant bells.
-
-[HERITAGE LOTTERY FUND](www.hlf.org.uk). The fund has made grants for bell restoration particularly where the bells are listed for preservation and/or the original bell frame has been kept in use. Grants are not given for new rings of bells or recasting existing bells. The HLF has a variety of programmes which might suit a project if it has a heritage angle. Application can be made for ALL HLF programmes but bear in mind that they are very keen that heritage is the key aspect of the project and will want to see good community involvement.
+[HERITAGE LOTTERY FUND](https://www.hlf.org.uk). The fund has made grants for bell restoration particularly where the bells are listed for preservation and/or the original bell frame has been kept in use. Grants are not given for new rings of bells or recasting existing bells. The HLF has a variety of programmes which might suit a project if it has a heritage angle. Application can be made for ALL HLF programmes but bear in mind that they are very keen that heritage is the key aspect of the project and will want to see good community involvement.
 
 [GARFIELD WESTON FOUNDATION](https://garfieldweston.org/). Particularly interested in projects that demonstrate community involvement.
 
@@ -195,8 +193,7 @@ The following national organisations may be willing to offer financial support f
 
 Also consider grant awarding bodies in the relevant local area. For example, in the Birmingham area:
 
- -	[Heart of England Community Foundation](www.heartofenglandcf.co.uk)
- -	[Birmingham & Black Country Community Foundation](www.bhamfoundation.co.uk)
+ -	[Heart of England Community Foundation](https://www.heartofenglandcf.co.uk)
 
 Many dioceses produce their own funding guides and advice on projects. For example: 
 
