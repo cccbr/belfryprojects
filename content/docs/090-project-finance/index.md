@@ -152,7 +152,7 @@ Some funders will expect to see a considerable sum raised through â€œself-helpâ€
 ### Potential sources of grants
 
 {{< hint info >}}
-The list of sources below may not be exhaustive. Please contact smSec@cccbr.org.uk with any corrections or suggested additions.
+The list of sources below may not be exhaustive. Please contact smSec@cccbr.org.uk with any comments, corrections or suggested additions.
 {{< /hint >}}
 
 Most ringing societies have funds available for bell projects. Contact your [local society](https://cccbr.org.uk/about/members/) for details.
@@ -191,9 +191,7 @@ The following national organisations may be willing to offer financial support f
 
 [CADW](https://cadw.gov.wales/advice-support/historic-assets/listed-buildings/historic-buildings-grant) offers maintenance and repair grants for historic buildings in Wales.
 
-Also consider grant awarding bodies in the relevant local area. For example, in the Birmingham area:
-
- -	[Heart of England Community Foundation](https://www.heartofenglandcf.co.uk)
+Also consider grant awarding bodies in the relevant local area. For example, in the Birmingham area, the [Heart of England Community Foundation](https://www.heartofenglandcf.co.uk)
 
 Many dioceses produce their own funding guides and advice on projects. For example: 
 
