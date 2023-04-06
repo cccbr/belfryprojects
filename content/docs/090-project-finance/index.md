@@ -119,7 +119,7 @@ Events take a lot of planning, hard work and effort and do not necessarily raise
 
 ### Sales
 
-Some funds may be raised from sales,  or auctions of donated items on a pre-defined basis of sharing proceeds. The prominence of online sale and auction websites has reduced the attraction of such events. If buying items to sell at a profit, be very cautious about the choice of items - yet another set of engraved wine glasses or dusty ornaments may not be just the remkinder everyone wants to buy! 
+Some funds may be raised from sales,  or auctions of donated items on a pre-defined basis of sharing proceeds. The prominence of online sale and auction websites has reduced the attraction of such events. If buying items to sell at a profit, be very cautious about the choice of items - yet another set of engraved wine glasses or dusty ornaments may not be just the reminder everyone wants to buy! 
 
 ### Souvenirs
 
