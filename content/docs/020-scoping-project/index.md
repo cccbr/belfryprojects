@@ -198,7 +198,7 @@ The most satisfying thing of all is for your new band to ring at the dedication 
 
 ## Getting Approval and Permission to go Ahead 
 
-Once the scope of the project has been outlined in detail, the Project Leader will finalise the details, and draw up all the documentation. First it will be the tower authorities who will have to give permission for the project to go ahead and they in turn will need to be convinced that all the information required for [higher level approvals](https://belfryupkeep/cccbr.org.uk/docs/020-permissions/) is available.
+Once the scope of the project has been outlined in detail, the Project Leader will finalise the details, and draw up all the documentation. First it will be the tower authorities who will have to give permission for the project to go ahead and they in turn will need to be convinced that all the information required for [higher level approvals](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/) is available.
 
 ## Image Credits
 
