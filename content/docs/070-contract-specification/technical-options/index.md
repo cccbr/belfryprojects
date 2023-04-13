@@ -8,7 +8,7 @@ UNDER CONSTRUCTION
 
 This Annexe supports the process of preparing a contract specification with descriptions of various parts of an installation which may be relevant to your tower. For those less familiar with bell installations, links are included to relevant chapters in the companion document  [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk).
 
-A Code of practice on the Conservation and repair of bells and bell frames is available as a [PDF download](https://www.churchofengland.org/sites/default/files/2018-11/CCB_Code-of-practice_Conservation-and-repair-of-bells-and-bellframes_2007.pdf).
+A Code of Practice on the Conservation and repair of bells and bell frames is available as a [PDF download](https://www.churchofengland.org/sites/default/files/2018-11/CCB_Code-of-practice_Conservation-and-repair-of-bells-and-bellframes_2007.pdf).
 
 ## The Tower
 
