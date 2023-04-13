@@ -104,7 +104,9 @@ Once initial ideas have been collected, the incumbent and PCC should discuss the
 
 ### The bells and associated installation
 
-For ringers, these are some of the key issues:
+{{< hint info >}}
+This is a summary of the key issues to be addressed. For major projects you should also consult [Technical Options](../070-contract-specification/technical-options/), which is an annexe to *Contract Specification*.
+{{< /hint >}}
 
 ![New bell being cast](scoping_fig-4a.jpg)
 
