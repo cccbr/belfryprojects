@@ -25,7 +25,7 @@ A proper understanding can only be obtained by trust and openness on all sides.
 
 ## Requesting Quotations
 
-The formal **Client** for the work is the **Tower Authority** so requests for quotations must be placed by them. The ringers will make a significant contribution to drawing up those quotation requests. The **Contractor** will be a bell hanger or bell foundry – see [Specialist Suppliers](../115-specialists/) but note that the Central Council of Church Bell Ringers does not endorse or recommend specific companies.
+The formal **Client** for the work is the **Tower Authority** so requests for quotations must be placed by them. The ringers will make a significant contribution to drawing up those quotation requests. The **Contractor** will be a bell hanger or bell foundry – see [Specialist Services](../115-specialists/) but note that the Central Council of Church Bell Ringers does not endorse or recommend specific companies.
 
 Points to be included in the request for quotation are given below. You may need to include other technical points as described in the [annexe](../070-contract-specification/technical-options/).
 
@@ -75,9 +75,9 @@ The Contractor may be invited to suggest any possible savings. These could inclu
  - Relaxation of some of the requirements in the request for quotation
  - Discount allowed for the provision of local volunteer labour, including any restrictions on age and experience and requirements for personal protective equipment.
  - Provision by the tower of items available locally without cost to assist movement of equipment, for example:
-  - Protection of flooring and furniture
-  - Removal of items of furniture (for example, seating) to provide space for work
-  - Accommodation overnight, if needed, for contract staff
+   - Protection of flooring and furniture
+   - Removal of items of furniture (for example, seating) to provide space for work
+   - Accommodation overnight, if needed, for contract staff
  - Removal and retention of components and materials which may be useful for other work
 
 ## Comparing Quotations
