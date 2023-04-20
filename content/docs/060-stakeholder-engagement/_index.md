@@ -12,7 +12,7 @@ Bell ringers are likely to understand the reasons for a bell project but others 
 
 The project team therefore will explain the reasons for the project, how it will contribute to the life of the church and the whole community, not just a few bell ringers! As well as being factual, it will be necessary to inspire and enthuse people. 
 
-Some stakeholders may also be willing to donate money towards the project. This should not be the only purpose of engaging with them and will not be the focus of this chapter. That is dealt with [later](https://belfryprojects.cccbr.org.uk/docs/090-project-finance/#raising-money)
+Some stakeholders may also be willing to donate money towards the project. This should not be the only purpose of engaging with them and will not be the focus of this chapter. That is dealt with [later](https://belfryprojects.cccbr.org.uk/docs/090-project-finance/#raising-money).
 
 ## Who are Stakeholders?
 
