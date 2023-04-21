@@ -167,7 +167,7 @@ Warning neighbours in advance of ringing recommencing will help avoid complaints
 
 And last but not least - Celebrate! 
 
-## To this:
+## ... To this:
 
 ![New frame](management_fig-4.jpg)
 
