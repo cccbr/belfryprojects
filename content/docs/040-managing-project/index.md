@@ -88,7 +88,7 @@ The project leader should develop systematic ways of managing information and do
 
 A clear file name convention, good version control, and backup system is essential from the start of the project, as it will save a lot of time, especially as the volume of information expands. Sorting after the project has started is not easy! 
 
-Information from suppliers and contractors may be commercially sensitive so should be identified distinctly and handled appropriately. Personal information (contact details, names, addresses, phone numbers, email addresses etc) must be stored and managed so that only appropriate people have access to it and consistent with the requirements of [GDPR GLOSSARY](Link to CCCBR pdf). A specific statement should define how personal data will be managed in the project, probably based on that set out by the church concerned. 
+Information from suppliers and contractors may be commercially sensitive so should be identified distinctly and handled appropriately. Personal information (contact details, names, addresses, phone numbers, email addresses etc) must be stored and managed so that only appropriate people have access to it and consistent with the requirements of the [2018 General Data Protection Regulation (GDPR)](https://cccbr.org.uk/wp-content/uploads/2020/02/GDPR-Chris-Mew.pdf). A specific statement should define how personal data will be managed in the project, probably based on that set out by the church concerned. 
 
 Some grant awarding bodies require reports, data and other actions during and after the project is complete, some even a few years after the project has been finished so plan for this as the project proceeds. 
 
