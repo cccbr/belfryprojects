@@ -8,7 +8,9 @@ weight: 40
 
 ## A plan to go from this… 
 
-Picture here ![description](name of image file – local)
+![Old timber frame](management_fig-1.jpg)
+
+*Figure 1: Old timber frame at Hitcham, Suffolk*
 
 As a project takes shape there may be enthusiasm to make progress, particularly start raising money. However, it is advisable to plan the project, considering in some detail **what** has to be done **when**, **how**, by **whom**, with what **resources** first. The plan will ideally run from the earliest discussions through to project completion. Careful planning should reduce the overall duration, save money and make sure that the whole project runs smoothly and meets its aims. 
 
@@ -167,15 +169,17 @@ And last but not least - Celebrate!
 
 ## To this:
 
-Completed picture ![description](name of image file – local)
+![New frame](management_fig-4.jpg)
+
+*Figure 4: New frame, with reinstalled and augmented bells at Hitcham, Suffolk*
 
 ## Image Credits
 
 | Figure | Details | 
 | :---: | --- | 
-| 1| Old timber frame at Hitcham, Suffolk (Photo: Neal Dodge)</li> |
-| 2 |  |
-| 3 |  |
+| 1| Old timber frame at Hitcham, Suffolk (Photo: Neal Dodge) |
+| 2 | Start of the Eastnor bells project (Video: Tim Keyes) |
+| 3 | Eastnor bells return (Video: Tim Keyes) |
 | 4 | New frame, with reinstalled and augmented bells at Hitcham, Suffolk (Photo: Neal Dodge) |
 
 ----
