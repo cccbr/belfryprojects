@@ -20,7 +20,7 @@ There is a wide range of material available about planning and running projects.
 
 A particularly comprehensive set of information about church projects is [here](https://www.hereford.anglican.org/parish-support/community-partnership/crossing-the-threshold-toolkit/).
 
-## Scheduling activities 
+## Scheduling Activities 
 The project leader will usually consider the project in stages, with each stage reaching a logical point, for example:  
 *Scoping the project - concept definition and information gathering*
 *Requesting permission and detailed planning*
@@ -53,11 +53,11 @@ At the end of the project, leave time to complete all the formalities and tidy u
 
 Lack of planning can lead to what are described as “Unforseen consequences” but they may be the result of poor planning! Ultimately, project management ensures that everything happens, when and how it should!
 
-## Project Management tools
+## Project Management Tools
 It is advisable for the project leader to set up systematic ways of managing the project. Comprehensive software packages are available, some very expensive, others freely available, but these are not necessary. It is more important for all those involved to be able to access information and use it. The normal cautions apply if free software is used. 
 
 ### Calendar 
-A calendar is a good way of showing the start and end dates of activities in each stage, along with specific milestones (GLOSSARY ***), deadlines and events highlighted. Larger projects involving other work in the church are likely to be divided into major phases, only one of which may directly concern the bells.
+A calendar is a good way of showing the start and end dates of activities in each stage, along with specific milestones, deadlines and events highlighted. Larger projects involving other work in the church are likely to be divided into major phases, only one of which may directly concern the bells.
 
 {{<hint warning>}}
 A long term project may aim first to replace ageing electrical, plumbing and heating systems, then the addition of audio visual aids and wifi. This may be followed by repairs to tower stonework, creation of an accessible entrance and restoration of the bells. Phase 3 could be a building extension with kitchen, serving hatch, meeting rooms and toilet. Each phase would be run as if a separate project, but with careful planning for activities that are interdependent, such as anticipating electrical work in phase 1 for the building extensions in phase 3. 
@@ -67,7 +67,7 @@ An online calendar enables team members to share and update information as progr
 
 A large wall planner displayed at a central location such as in the church, is useful to show progress against key milestones. 
 
-### Project Information Documents and Records
+### Project information documents and records
 Information and documents will be generated and received during a project, including key more formal decisions and agreements, as well as useful reference materials. Much of this will be referred to during the project and key documents must be archived on completion. For example:
 
  - Calendars showing project timetable
@@ -95,11 +95,13 @@ Some grant awarding bodies require reports, data and other actions during and af
 ### Photographic records 
 Photographs and videos are easy to take electronically and will be useful when creating a complete documentary record of the project from the very start through to completion that can be preserved as part of the tower history. As well as being useful, informative and interesting, pictures are helpful as reminders of the status of the project at certain points as well useful publicity in the course of the project. Perhaps enlist the support of members of a local photographic society as they may be willing to be involved in a more unusual project themselves. Bell towers are often dark and cramped so will pose interesting challenges even for the most enthusiastic amateur photographers! 
 
-## Money Management  Links to Finance chapter ***
+## Money Management
 
 Formally, money for the project is likely to the responsibility of the Church Treasurer as they will have the authority for payments and bank transactions. However, a project treasurer can help the project leader with costing the work, review financial elements of quotations and contracts, then control and manage project funds as income is received and payments are made. Good record keeping is essential and many grant awarding bodies will expect evidence of expenditure and related financial records. 
 
 Cash flow will be a concern i.e. when more money has to be paid out before it has been raised or received. Contractors will set out the payment terms in their contract and some money may be required in advance, with further stage payments once specific work has been completed. The dates on which payments are due should be included the calendar. 
+
+Details of project finance are covered [here](../090-project-finance/).
 
 ## Running the project
 
@@ -107,7 +109,7 @@ Once all the plans and approvals are in place, along with evidence of the money 
 
 Who will have the last ring on the old bells? This is likely to be a question asked by ringers so plans are likely to include the last quarter peal, last peal and last general ringing. Plan who will be involved in each of these events and use them as publicity opportunities. 
 
-### Decommissioning and Preparations
+### Decommissioning and preparations
 
 Preliminary work will usually be required before external contractors can start the bell related work – for example, in clearing items that are in routine use – chairs, tables, books, papers etc. Are they to be retained in storage, refurbished or disposed of? 
 
@@ -115,7 +117,7 @@ It may be necessary to provide protective sheeting and covering for immovable it
 
 Volunteer labour may undertake some of this but some tasks may require specialist contractors, such as organ builders to protect an organ. Work by volunteers will require advance agreement of the church and main contractors. Bell hangers are accustomed to working with volunteers, subject to insurance arrangements being agreed and project specific risk assessments in place. 
 
-### Undertaking the Work
+### Undertaking the work
 
 {{< youtube b6yKQvNmTvc >}}
 
@@ -135,21 +137,21 @@ Delays and unexpected challenges will occur and need to be resolved. A mobile ph
 
 ## Snagging 
 
-The contract terms should set out how and by when remedial work will be completed. The project leader should create a list of items that do not meet contractual acceptance criteria (punch list) and report them to the contractor concerned as soon as possible. As these punch list items are completed by the contractor, they should be rechecked, and then marked completed.  Note, during your review of punch list items, keep a careful eye out as new items may be caused by remedial work and if any are noted, they should be added to the punch list and remediated.  When the snagging process is completed, the project can move onto the next step. 
+The contract terms should set out how and by when remedial work will be completed. The project leader should create a "snagging list" ("punch list" in the US) of items that do not meet contractual acceptance criteria and report them to the contractor concerned as soon as possible. As thes items are completed by the contractor, they should be rechecked, and then marked completed.  Note, during your review of punch list items, keep a careful eye out as new items may be caused by remedial work and if any are noted, they should be added to the punch list and remediated.  When the snagging process is completed, the project can move onto the next step. 
 
-### Blessing and Dedication
+## Blessing and Dedication
 
 It is customary for the Bishop or other senior church representative to bless the bells, if possible while they are still visible in the church or church yard before being lifted into the tower. This may be at a special service or as part of another church service or ringing event. Often the precise time within the project plan will not be known until relatively late so organisation may be quite complicated.
 
 Alternatively, the re-dedication may be after the bells have been rehung and perhaps rung open (i.e. audibly) for the first time. A video link from the bell chamber to the church can be used so that the bells are visible on a screen during the service. The bells are normally not be rung (other than for basic testing) before the dedication service. Bells are at risk of theft while not hung in the tower so additional security arrangements may be required. 
 
-### Recommissioning 
+## Recommissioning 
 
 Plans should set out when and how the bells will be recommissioned. The first ringing after the bells are installed and functioning will usually be by an experienced band who can assist in assessing the new installation with the bell hangers. The acceptance criteria should be set out in the project plans. Ensure that all work activities are completed before each contract is signed off as complete and money paid.
 
 Link to contract terms chapter
 
-### Completion, First Ringing and Reporting
+## Completion, First Ringing and Reporting
 
 Once all work is completed satisfactorily, the tower should be cleaned throughout and items in routine use replaced – chairs, tables, etc.  This is an opportunity to clean, restore or replace used items and install additional items to update the facilities available. 
 
@@ -163,11 +165,11 @@ Warning neighbours in advance of ringing recommencing will help avoid complaints
 
 And last but not least - Celebrate! 
 
-To this:
+## To this:
 
 Completed picture ![description](name of image file – local)
 
-Image Credits
+## Image Credits
 
 <ol>
 <li>Old timber frame at Hitcham, Suffolk (Photo: Neal Dodge)</li>
@@ -185,6 +187,6 @@ Image Credits
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), January 2023
+Version 0.1 (Under construction), April 2023
 
 © 2023 Central Council of Church Bell Ringers
