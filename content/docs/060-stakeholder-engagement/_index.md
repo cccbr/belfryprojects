@@ -52,13 +52,7 @@ The project is likely to be launched before the faculty and other approvals are 
 
 ### Events
 
-Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. You may find, however, that organising and participating in events has a beneficial effect in terms of publicity and motivation that outweighs financial rewards.
-
-Consider and agree the main focus of each event proposed. For events that are primarily money raisers, direct the greatest effort and resources into activities that will generate the largest sums.  Sponsored walks, runs and other personal and group challenges remain popular and need not be organised by the fund raising team. Similarly, talented musicians in the community may be willing to organise and present a concert with proceeds donated to the bell fund. 
-
-Aim to engage with people who would probably not otherwise be involved with the church or bell ringing. Look for opportunities to participate in events organised by others to raise the profile of the project, perhaps through a display or short presentation about it. Use such events for their value in raising the profile of the project as much or more than raising money. 
-
-International visitors may be attracted to events. They are often fascinated by English style ringing as it is so different from anything that they may experience at home. 
+Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. You may find, however, that organising and participating in events has a beneficial effect in terms of publicity and motivation that outweighs financial rewards. Details are given in the [Appendix](../060-stakeholder-engagement/engagement-ideas/). 
 
 ###   Marking key points
 
