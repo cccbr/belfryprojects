@@ -115,7 +115,7 @@ Keep a record of time spent by volunteers on the project. This may be accounted 
 
 ### Events
 
-Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. Their use is discussed in [Stakeholder Engagement]( https://belfryprojects.cccbr.org.uk/docs/060-stakeholder-engagement).
+Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. Their use is discussed in the [Annexe](../060-stakeholder-engagement/engagement-ideas/) to Stakeholder Engagement.
 
 ### Sales
 
