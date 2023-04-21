@@ -22,11 +22,11 @@ A particularly comprehensive set of information about church projects is [here](
 
 ## Scheduling Activities 
 The project leader will usually consider the project in stages, with each stage reaching a logical point, for example:  
-*Scoping the project - concept definition and information gathering*
-*Requesting permission and detailed planning*
-*Selecting contractors and placing contracts*
-*Undertaking the work off site and on site*
-*Completion and close down*
+ - Scoping the project - concept definition and information gathering
+ - Requesting permission and detailed planning
+ - Selecting contractors and placing contracts
+ - Undertaking the work off site and on site
+ - Completion and close down
 
 Key dates, activities, their durations and milestones should be planned in conjunction with those involved, i.e. stakeholders, contractors and suppliers.
 
@@ -73,7 +73,7 @@ Information and documents will be generated and received during a project, inclu
  - Calendars showing project timetable
  - Records of activities, meeting agendas and minutes, events, progress reports
  - Terms of reference and appointments for key people
- - Contact details (respecting GDPR)
+ - Contact details
  - Formal contract documents, permissions (respecting commercial confidentiality)
  - Financial records, bank statements  
  - Correspondence 
