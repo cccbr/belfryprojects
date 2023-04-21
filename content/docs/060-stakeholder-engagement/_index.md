@@ -5,7 +5,6 @@ weight: 60
 
 # Stakeholder Engagement
 
-
 UNDER CONSTRUCTION
 
 Bell ringers are likely to understand the reasons for a bell project but others may have little understanding of the justification for the project and expense, or even have much knowledge of bells and bell ringing. The image of monks and choir boys swinging on bell ropes as depicted on Christmas cards, is pervasive but misleading. 
@@ -13,6 +12,8 @@ Bell ringers are likely to understand the reasons for a bell project but others 
 The project team therefore will explain the reasons for the project, how it will contribute to the life of the church and the whole community, not just a few bell ringers! As well as being factual, it will be necessary to inspire and enthuse people. 
 
 Some stakeholders may also be willing to donate money towards the project. This should not be the only purpose of engaging with them and will not be the focus of this chapter. That is dealt with [later](https://belfryprojects.cccbr.org.uk/docs/090-project-finance/#raising-money).
+
+This chapter provides a general description of stakeholder engagement. An [Annexe](../060-stakeholder-engagement/engagement-ideas/) provides more detailed ideas which you might also want to consider.
 
 ## Who are Stakeholders?
 
