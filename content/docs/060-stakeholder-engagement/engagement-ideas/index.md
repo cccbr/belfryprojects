@@ -21,7 +21,7 @@ UNDER CONSTRUCTION
 The content will include key facts about the project, the current situation, the aims, timescales, what will be involved, the people involved, and why the project is needed. Most importantly, indicate the benefits for various stakeholders. Include plenty of pictures, links to videos, as well as technical details such as plans and designs for the proposed work. Show pictures of existing bells, perhaps with indications of current problems, then with examples to show what is envisaged.  Indicate the costs of parts of the work to add some reality.  Put the project in context for each stakeholder from their viewpoint – benefits, history, personal connections, facilities, landmark events. Look for ideas from similar projects elsewhere, but every project is unique so show it as such. Remember that people will want to see how the project relates to them as individuals.
 
 {{< hint danger >}}
-When incorporating information, respoct copyright and make sure you have permission to use the material. Acjnowledge sources and dates when accessed. Any people included in images must give their agreement - parental agreement for under 18s.
+When incorporating information, respect copyright and make sure you have permission to use the material. Acknowledge sources and dates when accessed. Any people included in images must give their agreement - parental agreement for under 18s.
 {{< /hint >}}
 
 Ask someone else, with an eye for detail, to read and correct information before it is published.
@@ -125,7 +125,7 @@ Be prepared for the media to contact members of the project team at short notice
 
 ### Ambassadors 
 
-Aim to help others to help the project team! Ambassadors are those who are not directly involved in the bells project but engage with it enthusiastically and in turn, help raise its profile. They may help distribute information, encourage people to come to events – people who would not otherwise have become involved.  
+Aim to help others to help the project team! Ambassadors are those who are not directly involved in the bells project but engage with it enthusiastically and in turn, help raise its profile. They may help distribute information and encourage people to come to events – people who would not otherwise have become involved.  
 
 ## Events
  
