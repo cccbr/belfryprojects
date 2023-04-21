@@ -101,7 +101,7 @@ Photographs and videos are easy to take electronically and will be useful when c
 
 Formally, money for the project is likely to the responsibility of the Church Treasurer as they will have the authority for payments and bank transactions. However, a project treasurer can help the project leader with costing the work, review financial elements of quotations and contracts, then control and manage project funds as income is received and payments are made. Good record keeping is essential and many grant awarding bodies will expect evidence of expenditure and related financial records. 
 
-Cash flow will be a concern i.e. when more money has to be paid out before it has been raised or received. Contractors will set out the payment terms in their contract and some money may be required in advance, with further stage payments once specific work has been completed. The dates on which payments are due should be included the calendar. 
+Cash flow will be a concern when more money has to be paid out before it has been raised or received. Contractors will set out the payment terms in their contract and some money may be required in advance, with further stage payments once specific work has been completed. The dates on which payments are due should be included the calendar. 
 
 Details of project finance are covered [here](../090-project-finance/).
 
@@ -145,13 +145,13 @@ The contract terms should set out how and by when remedial work will be complete
 
 It is customary for the Bishop or other senior church representative to bless the bells, if possible while they are still visible in the church or church yard before being lifted into the tower. This may be at a special service or as part of another church service or ringing event. Often the precise time within the project plan will not be known until relatively late so organisation may be quite complicated.
 
-Alternatively, the re-dedication may be after the bells have been rehung and perhaps rung open (i.e. audibly) for the first time. A video link from the bell chamber to the church can be used so that the bells are visible on a screen during the service. The bells are normally not be rung (other than for basic testing) before the dedication service. Bells are at risk of theft while not hung in the tower so additional security arrangements may be required. 
+Alternatively, the re-dedication may be after the bells have been rehung and perhaps rung open (audibly) for the first time. A video link from the bell chamber to the church can be used so that the bells are visible on a screen during the service. The bells are normally not be rung (other than for basic testing) before the dedication service. Bells are at risk of theft while not hung in the tower so additional security arrangements may be required. 
 
 ## Recommissioning 
 
 Plans should set out when and how the bells will be recommissioned. The first ringing after the bells are installed and functioning will usually be by an experienced band who can assist in assessing the new installation with the bell hangers. The acceptance criteria should be set out in the project plans. Ensure that all work activities are completed before each contract is signed off as complete and money paid.
 
-Link to contract terms chapter
+These points should be made clear in the [contract](../070-contract-specification/).
 
 ## Completion, First Ringing and Reporting
 
