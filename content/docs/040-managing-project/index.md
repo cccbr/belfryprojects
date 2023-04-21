@@ -171,10 +171,13 @@ Completed picture ![description](name of image file – local)
 
 ## Image Credits
 
-<ol>
-<li>Old timber frame at Hitcham, Suffolk (Photo: Neal Dodge)</li>
-<li>New frame, with reinstalled and augmented bells at Hitcham, Suffolk</li> (Photo: Neal Dodge)
-</ol>
+| Figure | Details | 
+| :---: | --- | 
+| 1| Old timber frame at Hitcham, Suffolk (Photo: Neal Dodge)</li> |
+| 2 |  |
+| 3 |  |
+| 4 | New frame, with reinstalled and augmented bells at Hitcham, Suffolk (Photo: Neal Dodge) |
+
 ----
 
 {{<hint info>}}
