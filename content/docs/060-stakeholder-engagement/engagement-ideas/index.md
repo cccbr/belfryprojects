@@ -129,9 +129,61 @@ Aim to help others to help the project team! Ambassadors are those who are not d
 
 ## Events
  
- To be completed
- 
- 
+Events serve various purposes at various specific stages during the project. What events will be appropriate will depend on the locality and nature of the area. What can be achieved and how in a small rural community will be very different from a large urban area or city. It is important to agree the primary aim for each event and plan for each specifically.  Some will primarily be to raise money and others to engage with the community or recruit new ringers. Some will be themed around the bells and tower with the aim of engaging stakeholders, generating interest and awareness often with people who would otherwise not be involved. 
+
+Consider and agree the main focus of each event proposed. For events that are primarily money raisers, direct the greatest effort and resources into activities that will generate the largest sums.  Sponsored walks, runs and other personal and group challenges remain popular and need not be organised by the fund raising team. Similarly, talented musicians in the community may be willing to organise and present a concert with proceeds donated to the bell fund. 
+
+Aim to engage with people who would probably not otherwise be involved with the church or bell ringing. Look for opportunities to participate in events organised by others to raise the profile of the project, perhaps through a display or short presentation about it. Use such events for their value in raising the profile of the project as much or more than raising money. 
+
+International visitors may be attracted to events. They are often fascinated by English style ringing as it is so different from anything that they may experience at home.
+
+As well as organising the events, it should be possible to participate in activities or events that are organised by others and promoted widely – these could include Diocesan events, local community activities or nationwide schemes such as Heritage Open Days. These local and national occasions will bring the project, bells and bell ringing to the attention of those who would never attend an event specifically associated with bells or ringing. 
+
+Be imaginative – can the history of the bells be explained to primary school children, youth groups such as scouts and guides? Follow these by visits to the tower or other rings of bells. Events will raise questions and prompt debate – they are all opportunities to recruit potential ringers, encourage support and defuse any concerns. Every event is likely to lead to questions so be prepared to answer questions. 
+
+### Suggestions for events 
+
+ - Tower open days and tours - If the church already has bells that are ringable, then exploit these as both a visible and audible attraction, an opportunity to meet and talk with ringers. Many visitors will welcome the opportunity to go to the top of the tower and look over the neighbourhood. A modest charge will contribute to the project funds.  Check the church insurance cover and complete a specific risk assessment. Some useful guidance is [here](https://www.ecclesiastical.com/risk-management/tower-tours/?gclid=Cj0KCQjwi46iBhDyARIsAE3nVraNVm8v-num9N5c9MaD0FfXmuZUp5sJI6PjYAeZt7d3LEl4oqyUP2saAl8nEALw_wcB).
+ - Arrange for a local venue to be open for a function, perhaps one that people cannot normally visit, such as a house or garden, company or historical site. 
+ - Involve the support of a VIP – someone who everyone would like to meet! 
+ - Exploit any local twinning arrangements when overseas visitors are in your area.
+ - Hold demonstrations of ringing and, with suitable precautions, set up sessions for people to “*have a go at bell ringing*” 
+ - Exploit church connections with large local families – did some emigrate and still feel a connection with the area – invite them back or ask them to support the project?  
+ - Include displays about bell ringing and the project at church events – harvest, Remembrance (are any ringers recorded on the local war memorial?), Christmas, Easter, Festivals, organ recitals, handbell concerts etc, guided tours of the church yard and neighbourhood, special services, 
+ - Arrange guided walks to places of local historical interest, liaise with local history / archaeology groups and other societies with special interests such as (in the UK) U3A and WI.
+ - You may be able to link with other local events, for example an Open Gardens Weekend.  Remember that the sale of refreshments may encourage visitors and contribute a small profit.
+ - Events may be an opportunity to identify lapsed ringers locally, or capture new ringers.
+ - Organise visits to the bell foundry to see bells being cast and all the other unique work associated with the manufacture and assembly of bell frames and fittings. 
+
+### Organising an event 
+
+ - Plan well ahead for any event, ideally with people who are accustomed to managing events in the venue that is chosen. 
+ - Compile a checklist of things to be done, who is doing them and when.
+ - There are many details that are easily overlooked! Useful hints are offered [here](https://www.gov.uk/government/publications/can-do-guide-for-organisers-of-voluntary-events/the-can-do-guide-to-organising-and-running-voluntary-and-community-events).
+
+### Venues 
+
+For a bell project, the church may be appropriate, but consider whether the church is really the best venue for the type of event being planned. Would another venue be more practical? Some people not accustomed to entering churches may be more comfortable being invited to a community hall rather than the church. Some considerations to think about:
+
+ - Does it have space of about the right size?
+ - Are there facilities for displays, presentations, refreshments and so on?
+ - What about parking, heating and toilets?
+
+### Who to invite
+
+For each event, involve specific stakeholders who are well matched with the purpose of the event. It is likely to be more effective to hold several smaller focused events, rather than attempting to address all interests in one large gathering. For example, events for school children and teachers can be used to explain ringing, its history, the techniques used, the music and the mathematics. Give children a small gift to mark their visit – such as a branded pencil or similar. 
+
+Other events can be for local businesses and dignitaries who may be able to support the project by cash or in kind donations. Local press and media representatives can be invited. Church and community members, are more likely to be interested if the events have a social character as well as more formal basis. Ringers from the local and wider area, will often be keen to visit for example for the “*last ring on the old bells*”. Aim that key people will become ambassadors for the project! 
+
+Invitations need to include a short introduction to the project and the event so that they know what to expect. Invitations need to be customised for each individual, so that aspects of the project will appeal to them. For example  history, young people, traditional skills, music, engineering, architecture; the list could go on. 
+
+### Publicity
+
+Publicise events as widely as possible and well in advance, with reminders leading up to the event. What aspects of the event will attract those to be involved? 
+
+## After the Event
+
+Events take a lot of work: remember that both preparation and clearing up afterwards take far more time than the event itself! 
 
 {{< hint info >}}
 **[Back to Stakeholder Engagement](../../060-stakeholder-engagement)**
