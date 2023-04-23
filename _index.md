@@ -29,10 +29,6 @@ If you are working on a computer browser (or on a tablet in landscape orientatio
 
 Credits will be found at the end of each chapter. The picture on this page was taken by Sue McClaughry during the work in 2019 to dismantle the bells at St Andrew’s Church, Calstock, Cornwall, as part of the restoration project. Sue was the winner of the 2020 CCCBR Westley Award for Church Bell Maintenance. 
 
-## Acknowledgements
-
-Alison Hodge, Allen Nunley, Chris Povey, Robin Shipp, Malcolm Taylor.
-
 ## Latest Changes
 
 | Date | Changes |
