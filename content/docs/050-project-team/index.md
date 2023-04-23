@@ -40,7 +40,7 @@ The team should discuss and agree how they intend to operate, share workload and
 As team members get to know each other, they will build a rapport enabling them to work together through the project. There will be high and low points, frustrations and successes; socialising together will help!
 
 {{< hint info >}}
-*TOP TIP*: Match roles to the team of people available.
+**TOP TIP**: Match roles to the team of people available.
 {{< /hint >}}
 
 ### Team Members and Roles
