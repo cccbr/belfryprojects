@@ -35,7 +35,11 @@ The use of specialist jargon in these notes will be limited but some is unavoida
 
 With the exception of a few private rings, the ringers do not ‘own’ the bells. About 90% of bells hung for full-circle ringing are in hung in Church of England churches. Within the Church of England those responsible for the tower and bells are usually the Churchwardens and the Parochial Church Council (PCC). The legal ownership of the bells is vested in the Churchwardens. The PCC has a duty for the use, maintenance and insurance of the bells. 
 
-In other towers, and other jurisdictions, there will usually be what we will term an **Authorising Body** that will have a legal responsibility for the tower and its contents. In such cases, different policies and procedures may have to be adopted and arrangements and permissions must be obtained from the appropriate authorities. Further details are given in the [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/ ) document.
+In other towers, and other jurisdictions, there will usually be what we will term an **Authorising Body** that will have a legal responsibility for the tower and its contents. In such cases, different policies and procedures may have to be adopted and arrangements and permissions must be obtained from the appropriate authorities. Further details are given in the [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/) document.
+
+{{< hint info >}}
+**TOP TIP** The Church (usually) owns the topwer and bells, not the ringers.
+{{< /hint >}}
 
 ## Scope of this Document
 
