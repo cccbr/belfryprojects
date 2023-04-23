@@ -27,7 +27,10 @@ The leader should have the authority to appoint a small team, after consultation
 
 Offers of help should be valued and accepted but not every volunteer needs to be a full team member, for example, someone may be willing to contribute to a certain activity or for a certain period but not involved otherwise. 
 
-Team members need not all be bell ringers; they may be able to contribute in other ways and will certainly gain new experiences. Volunteers may subsequently become involved in church activities and ringing, having not been involved previously. Young people helping will learn a lot and potentially help their careers!  For those under 18, parental consent is essential. (Link to safeguarding ***)
+Team members need not all be bell ringers; they may be able to contribute in other ways and will certainly gain new experiences. Volunteers may subsequently become involved in church activities and ringing, having not been involved previously. Young people helping will learn a lot and potentially help their careers!  For those under 18, parental consent is essential. [Safeguarding arrangments]
+## Acknowledgements
+
+Alison Hodge, Allen Nunley, Chris Povey, Robin Shipp, Malcolm Taylor. must be in place for all young and vulnerable helpers.
 
 ### Team Working
 
@@ -158,7 +161,7 @@ The following are examples of roles that may be required. Note that several role
 
 Supportive volunteers, whether from the church or local community, may offer a wide range of skills and experience. If helping professional contractors such as bell hangers, then this must be agreed in advance with the companies concerned and the volunteers must follow guidance and instructions from the relevant professionals. Bell hangers may agree as part of the contract to reduce the price of the work if volunteers agree to help with aspects of the work. 
 
-Young people under 18 (with parental consent in accordance with safeguarding requirements LINK***) can be encouraged to assist according to their age, maturity and interests. They will have a great experience, learn a little about bell installations, and contribute enthusiastically. Even younger children enjoy helping, for example, carrying just small items from a van to the church door. 
+Young people under 18 (with parental consent in accordance with [safeguarding requirements](https://cccbr.org.uk/safeguarding/)) can be encouraged to assist according to their age, maturity and interests. They will have a great experience, learn a little about bell installations, and contribute enthusiastically. Even younger children enjoy helping, for example, carrying just small items from a van to the church door. 
 
 Some people will be technically minded, but many with other skills will contribute: 
  - IT, computing – website, blog, project tools, presentations, brochure layout 
