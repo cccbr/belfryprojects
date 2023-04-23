@@ -191,7 +191,7 @@ Once the scale and approximate cost of the project is known, it will be appropri
 While it is appropriate to aim for a project that makes best use of the time and effort that will be devoted to it, be cautious that the scope of the project does not become too ambitious. Play devil’s advocate and challenge carefully additional features that are suggested to ensure that they will add the value anticipated.
 
 {{< hint info >}}
-**TOP TIP**: Go far and wide, do lots of research to find unexpected opportunities and pitential pitfalls.
+**TOP TIP**: Go far and wide, do lots of research to find unexpected opportunities and potential pitfalls.
 {{< /hint >}}
 
 ## Ringing and Ringers While the Project is Underway
