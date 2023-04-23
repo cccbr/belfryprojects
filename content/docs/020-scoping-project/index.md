@@ -38,8 +38,8 @@ Bell projects may be proposed for various reasons:
 
 ... but be cautious! Not everyone will immediately be enthusiastic about the project! Some projects will be highly contentious and it is essential that the needs of ringers are considered alongside those of other users and vice versa. This is particularly important at towers with little or no regular ringing and no local ringers.
 
-{{<hint warning>}} 
-*Aim for many benefits for many people for many years!* 
+{{<hint info>}} 
+**TOP TIP**: Aim for many benefits for many people for many years!
 {{</hint>}}
 
 ### How big will the project be?
