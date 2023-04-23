@@ -21,22 +21,27 @@ Importantly, the leader should be willing to work with others whether volunteers
 
 The leader’s terms of appointment should be agreed ideally in writing, outlining the scope of their responsibilities, what is to be achieved, timescales and any constraints. 
 
+{{< hint info >}}
+**TOP TIP**: Project Leader is a responsible and important role, not to be undertaken lightly.
+{{< /hint >}}
+
 ### Team Members
 
 The leader should have the authority to appoint a small team, after consultation with the tower authorities, to assist with various aspects of the project. Team members may be allocated a specific role such as Project Secretary or Treasurer, consistent with their skills, interests and time available. What they agree to do should be set out in writing. Importantly, the team should be able to provide continuity if key individuals are unavailable. 
 
 Offers of help should be valued and accepted but not every volunteer needs to be a full team member, for example, someone may be willing to contribute to a certain activity or for a certain period but not involved otherwise. 
 
-Team members need not all be bell ringers; they may be able to contribute in other ways and will certainly gain new experiences. Volunteers may subsequently become involved in church activities and ringing, having not been involved previously. Young people helping will learn a lot and potentially help their careers!  For those under 18, parental consent is essential. [Safeguarding arrangments]
-## Acknowledgements
-
-Alison Hodge, Allen Nunley, Chris Povey, Robin Shipp, Malcolm Taylor. must be in place for all young and vulnerable helpers.
+Team members need not all be bell ringers; they may be able to contribute in other ways and will certainly gain new experiences. Volunteers may subsequently become involved in church activities and ringing, having not been involved previously. Young people helping will learn a lot and potentially help their careers!  For those under 18, parental consent is essential. [Safeguarding arrangments](https://cccbr.org.uk/safeguarding/) must be in place for all young and vulnerable helpers.
 
 ### Team Working
 
 The team should discuss and agree how they intend to operate, share workload and activities, distribute information and maintain records. The team will need to meet periodically to discuss and agree key matters, supplemented by frequent electronic communications. 
 
 As team members get to know each other, they will build a rapport enabling them to work together through the project. There will be high and low points, frustrations and successes; socialising together will help!
+
+{{< hint info >}}
+*TOP TIP*: Match roles to the team of people available.
+{{< /hint >}}
 
 ### Team Members and Roles
 
