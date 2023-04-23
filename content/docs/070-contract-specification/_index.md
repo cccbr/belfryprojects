@@ -39,7 +39,11 @@ Competitive quotations can be misleading for a variety of reasons and this is th
 
 The quotation should outline the requirements and expectations, perhaps with options. If the terms are too prescriptive then this may constrain the **Contractor**; conversely, not being specific enough (for example, simply asking for the condition of the bells to be improved) may make it difficult to compare the specifications and quotes received, and ultimately to assess whether the **Contractor** has fulfilled the contract in accordance with the specifications. 
 
-Parts of the work may include items not part of the bell installation – masonry work on the tower or work related to access, for example. Possible examples are discussed in more detail in the [annexe](../070-contract-specification/technical-options/). This will require the use of **sub-contractors**. It is usually clearer and lower risk for the contract to be with the bell hanging company (the Main **Contractor**). They then place any subsidiary contracts necessary for aspects of the work that will be required but do not provide themselves. 
+Parts of the work may include items not part of the bell installation – masonry work on the tower or work related to access, for example. Possible examples are discussed in more detail in the [annexe](../070-contract-specification/technical-options/). This will require the use of **sub-contractors**. It is usually clearer and lower risk for the contract to be with the bell hanging company (the Main **Contractor**). They then place any subsidiary contracts necessary for aspects of the work that will be required but do not provide themselves.
+
+{{< hint info .}}
+**TOP TIP**: Get quotes for the same detailed and agreed project specification.
+{{< /hint >}}
 
 ### Programme
 
