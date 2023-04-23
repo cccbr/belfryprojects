@@ -191,7 +191,7 @@ The following national organisations may be willing to offer financial support f
 
 [CADW](https://cadw.gov.wales/advice-support/historic-assets/listed-buildings/historic-buildings-grant) offers maintenance and repair grants for historic buildings in Wales.
 
-Also consider grant awarding bodies in the relevant local area. For example, in the Birmingham area, the [Heart of England Community Foundation](https://www.heartofenglandcf.co.uk)
+Also consider grant awarding bodies in the relevant local area. For example, in the Birmingham area, the [Heart of England Community Foundation](https://www.heartofenglandcf.co.uk).
 
 Many dioceses produce their own funding guides and advice on projects. For example: 
 
