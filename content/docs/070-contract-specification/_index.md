@@ -78,6 +78,35 @@ The Contractor may be invited to suggest any possible savings. These could inclu
    - Accommodation overnight, if needed, for contract staff
  - Removal and retention of components and materials which may be useful for other work
 
+## Comparing Quotations
+
+Bell hangers and bell founding contractors are niche specialists and will recommend and quote for what they consider will produce a good outcome. Different companies may have different views on what should be done and how, and they may offer more than one option. This can make it difficult to compare quotations received, especially where specialist jargon is used that may be unfamiliar. 
+
+Take time to compare the quotes. Some details may need interpretation as they could have considerably different benefits and costs. Tempting as it may be, it is not advisable to accept the lowest price for that reason alone. Similarly, omitting items from those advised to reduce costs may result in non-optimum solutions or additional expense later. 
+
+When comparing quotes, it will be useful to put them side by side so that the similarities and differences are apparent. Refer back to previous discussions to make sure that what is offered will be acceptable. If extra is offered, is that really necessary or is it a helpful addition not previously considered?  Are key activities in a logical order, are they compatible with church users and consistent with the original plans. Has anything been omitted? 
+
+### Points to consider
+
+In no particular order:
+
+ - How are contract amendments to be agreed?
+ - Is there clarity on who is paying for what?
+ - Are there any hidden costs?
+ - Which items are new and which refurbished?
+ - Where will materials be stored once delivered to site?
+ - Who is responsible for the disposal of items removed?
+ - Materials to be used – what will be the longer term maintenance requirements? 
+ - Delivery of large and heavy items may require vehicles to access the tower, perhaps along narrow country lanes or though congested urban streets? Will roads need to be closed and for what periods? If so, permission will be required through the local highways department. If permission is given, then it will probably be for a specific date and time so this must then become a critical date in the calendar!
+ - Will a lifting beam need to be installed in the tower?
+ - Who is to provide equipment required, tools, scaffold, etc. Is it tested and insured?
+ - Who is providing specialist tools and equipment at each stage? Will they be available when required? Don’t make assumptions! Can the loan of a forklift truck save the expense of hiring? Will it be small enough to negotiate the church gates?
+ - If voluntary labour is used, what are the requirements for their PPE and insurance?
+ - What knowledge do you have of the reputation of the various contractors?
+ - How will on site work be phased to have the right people on site at the right time?
+ - How are suppliers and contractors considering environmental matters such as minimising waste from packaging?
+
+
 
 
 
