@@ -31,7 +31,7 @@ Anyone with a potential interest or reason to know about the project. The team m
 Involve stakeholders as fully as possible, not just a source of money or suppliers of the work!
 
 {{< hint info >}}
-TOP TIP: Get all stakeholders engaged, enthused and involved. Use their skills and contacts.
+**TOP TIP**: Get all stakeholders engaged, enthused and involved. Use their skills and contacts.
 {{< /hint>}}
 
 ## When to Involve Stakeholders 
