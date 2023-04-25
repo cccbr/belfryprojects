@@ -21,6 +21,16 @@ There may well be different opinions and expectations. The **Tower Authority** o
 
 A proper understanding can only be obtained by trust and openness on all sides.
 
+## Requesting Quotations
+
+The formal **Client** for the work is the **Tower Authority** so requests for quotations must be placed by them. The ringers will make a significant contribution to drawing up those quotation requests. The **Contractor** will be a bell hanger or bell foundry – see [Specialist Services](../115-specialists/) but note that the Central Council of Church Bell Ringers does not endorse or recommend specific companies.
+
+Points to be included in the request for quotation are given below. You may need to include other technical points as described in the [annexe](../070-contract-specification/technical-options/).
+
+### General points
+
+The **Tower Authority** may expect to ask for more than one equivalent quote. It should be recognised, however, that the number of bell hangers (**Contractors**) is very limited and there may be clear reasons why one company will be preferred. For example, the company may have cast and installed the bells and still have the original design and specifications, even decades or a century or more later!
+
 
 
 
