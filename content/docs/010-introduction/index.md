@@ -38,7 +38,7 @@ With the exception of a few private rings, the ringers do not ‘own’ the bell
 In other towers, and other jurisdictions, there will usually be what we will term an **Authorising Body** that will have a legal responsibility for the tower and its contents. In such cases, different policies and procedures may have to be adopted and arrangements and permissions must be obtained from the appropriate authorities. Further details are given in the [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/) document.
 
 {{< hint info >}}
-**TOP TIP** The Church (usually) owns the topwer and bells, not the ringers.
+**TOP TIP** The Church (usually) owns the tower and bells, not the ringers
 {{< /hint >}}
 
 ## Scope of this Document
