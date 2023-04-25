@@ -15,7 +15,7 @@ weight: 40
 As a project takes shape there may be enthusiasm to make progress, particularly start raising money. However, it is advisable to plan the project, considering in some detail **what** has to be done **when**, **how**, by **whom**, with what **resources** first. The plan will ideally run from the earliest discussions through to project completion. Careful planning should reduce the overall duration, save money and make sure that the whole project runs smoothly and meets its aims. 
 
 {{<hint info>}}
-*TOP TIP*: Asking *who*, *what*, *when*, *where*, *why*, *how*, are useful prompts at every stage! 
+**TOP TIP**: Asking *who*, *what*, *when*, *where*, *why*, *how*, are useful prompts at every stage! 
 {{</hint>}}
 
 There is a wide range of material available about planning and running projects. Look for basic guides online and in books (public libraries and bookstalls at larger stations may stock some). A focus on charities and the voluntary sector is most likely to be helpful for bell projects. There is no “right” way to manage a project so this guidance should be adjusted to fit the specific project.  
