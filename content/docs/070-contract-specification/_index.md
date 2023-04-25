@@ -41,7 +41,7 @@ The quotation should outline the requirements and expectations, perhaps with opt
 
 Parts of the work may include items not part of the bell installation – masonry work on the tower or work related to access, for example. Possible examples are discussed in more detail in the [annexe](../070-contract-specification/technical-options/). This will require the use of **sub-contractors**. It is usually clearer and lower risk for the contract to be with the bell hanging company (the Main **Contractor**). They then place any subsidiary contracts necessary for aspects of the work that will be required but do not provide themselves.
 
-{{< hint info .}}
+{{< hint info }}
 **TOP TIP**: Get quotes for the same detailed and agreed project specification.
 {{< /hint >}}
 
