@@ -9,6 +9,17 @@ Setting out what is to be done in the contract is critical. This defines (a) wha
 
 This chapter sets out general advice on drawing up a request for quotation, which will then lead to a contract; an [annexe](../070-contract-specification/technical-options/) to this chapter covers technical options which you may need to consider in tailoring your specification to your particular situation.
 
+## Before You Start
+
+{{< hint info >}}
+We use the term ‘**Tower Authority**’ here to refer to the churchwardens and Parochial Church Council for towers within the Church of England and to their equivalents in other jurisdictions.
+{{< /hint >}}
+
+
+
+
+
+
 
 
 
