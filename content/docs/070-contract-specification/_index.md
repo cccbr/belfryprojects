@@ -55,7 +55,28 @@ The **Contractor** may include a follow-up inspection at some interval after com
 
 The **Contractor** will state what guarantee is offered and against what circumstances.
 
+### Insurance
 
+The **Contractor** will set out the insurance provisions for items not covered by the tower insurance policy. This will include, but not be limited to, the following:
+
+ - Damage to the bells and other parts of the installation during lifting operations
+ - Covering loss or damage of the bells while:
+   - Stored in the church
+   - During transport to and from the Contractor’s premises
+   - While at the Contractor’s premises
+ - Volunteer labour
+
+### Possible savings
+
+The Contractor may be invited to suggest any possible savings. These could include, but not be limited, to the following:
+
+ - Relaxation of some of the requirements in the request for quotation
+ - Discount allowed for the provision of local volunteer labour, including any restrictions on age and experience and requirements for personal protective equipment.
+ - Provision by the tower of items available locally without cost to assist movement of equipment, for example:
+   - Protection of flooring and furniture
+   - Removal of items of furniture (for example, seating) to provide space for work
+   - Accommodation overnight, if needed, for contract staff
+ - Removal and retention of components and materials which may be useful for other work
 
 
 
