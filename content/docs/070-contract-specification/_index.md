@@ -35,6 +35,16 @@ The **Tower Authority** may expect to ask for more than one equivalent quote. It
 Competitive quotations can be misleading for a variety of reasons and this is the reason for ensuring that the contract specifies the work completely. If you simply ask for the bells to be rehung, one contractor might offer cast-iron headstocks while another offers fabricated steel; one may offer a new frame using traditional cast-iron sideframes while another offers a fully fabricated steel frame, and yet another offers to repair the old frame. One offer may be the best solution and another the cheapest but you should not be in the position of having to judge when the quotations are finally before you – and the contractors should not be put in the position of having to waste time guessing what you want.
 {{< /hint >}}
 
+The quotation should outline the requirements and expectations, perhaps with options. If the terms are too prescriptive then this may constrain the **Contractor**; conversely, not being specific enough (for example, simply asking for the condition of the bells to be improved) may make it difficult to compare the specifications and quotes received, and ultimately to assess whether the **Contractor** has fulfilled the contract in accordance with the specifications. 
+
+Parts of the work may include items not part of the bell installation – masonry work on the tower or work related to access, for example. Possible examples are discussed in more detail in the [annexe](../070-contract-specification/technical-options/). This will require the use of **sub-contractors**. It is usually clearer and lower risk for the contract to be with the bell hanging company (the Main **Contractor**). They then place any subsidiary contracts necessary for aspects of the work that will be required but do not provide themselves.
+
+{{< hint info }}
+**TOP TIP**: Get quotes for the same detailed and agreed project specification.
+{{< /hint >}}
+
+
+
 
 
 
