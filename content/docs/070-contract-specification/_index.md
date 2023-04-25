@@ -31,7 +31,9 @@ Points to be included in the request for quotation are given below. You may need
 
 The **Tower Authority** may expect to ask for more than one equivalent quote. It should be recognised, however, that the number of bell hangers (**Contractors**) is very limited and there may be clear reasons why one company will be preferred. For example, the company may have cast and installed the bells and still have the original design and specifications, even decades or a century or more later!
 
-
+{{< hint danger >}}
+Competitive quotations can be misleading for a variety of reasons and this is the reason for ensuring that the contract specifies the work completely. If you simply ask for the bells to be rehung, one contractor might offer cast-iron headstocks while another offers fabricated steel; one may offer a new frame using traditional cast-iron sideframes while another offers a fully fabricated steel frame, and yet another offers to repair the old frame. One offer may be the best solution and another the cheapest but you should not be in the position of having to judge when the quotations are finally before you – and the contractors should not be put in the position of having to waste time guessing what you want.
+{{< /hint >}}
 
 
 
