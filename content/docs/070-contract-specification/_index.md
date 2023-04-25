@@ -15,6 +15,12 @@ This chapter sets out general advice on drawing up a request for quotation, whic
 We use the term ‘**Tower Authority**’ here to refer to the churchwardens and Parochial Church Council for towers within the Church of England and to their equivalents in other jurisdictions.
 {{< /hint >}}
 
+You must be certain that the **Tower Authority** and the ringers understand and accept what is proposed to be achieved. This will be based on your [scoping of the project](../020-scoping-project/) and the [specialist advice](../030-specialist-advice/) you have obtained, including outline estimates of the likely cost.
+
+There may well be different opinions and expectations. The **Tower Authority** often have cost uppermost in their minds, particularly if their experience and knowledge of bells and bellringing is limited. They may also anticipate other higher priority projects. The ringers may argue that a more comprehensive and expensive project may be more cost effective and bring additional benefits for the medium and longer term – although they will need not to be carried away by the thought of lovely new ring of bells!
+
+A proper understanding can only be obtained by trust and openness on all sides.
+
 
 
 
