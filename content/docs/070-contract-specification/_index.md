@@ -15,7 +15,7 @@ This chapter sets out general advice on drawing up a request for quotation, whic
 
 {{< hint info >}}
 We use the term ‘**Tower Authority**’ here to refer to the churchwardens and Parochial Church Council for towers within the Church of England and to their equivalents in other jurisdictions.
-{{< /hint>}}
+{{< /hint >}}
 
 You must be certain that the **Tower Authority** and the ringers understand and accept what is proposed to be achieved. This will be based on your [scoping of the project](../020-scoping-project/) and the [specialist advice](../030-specialist-advice/) you have obtained, including outline estimates of the likely cost.
 
