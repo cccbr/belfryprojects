@@ -106,13 +106,11 @@ In no particular order:
  - How will on site work be phased to have the right people on site at the right time?
  - How are suppliers and contractors considering environmental matters such as minimising waste from packaging?
 
+## Finalising the Contract
 
+Since PCC members and others reviewing the quotes may not be ringers and familiar with the companies involved, it will be helpful to explain what may not be included in written quotations. For example, the experiences of other towers who have completed projects recently may help the decisions.  
 
-
-
-
-
-
+If in doubt ask the companies who are quoting. Finally make sure that all parties are completely clear about what is being provided by whom and when – before the person in authority finally signs the contract. 
 
 ----
 
