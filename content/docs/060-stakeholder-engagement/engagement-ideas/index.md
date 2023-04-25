@@ -27,7 +27,7 @@ When incorporating information, respect copyright and make sure you have permiss
 Ask someone else, with an eye for detail, to read and correct information before it is published.
 
 {{< hint info >}}
-**TOP TIP** Explain the benefits for each stakeholder. Why should they be involved? Analyse carefully and have responsers for "naysayers".
+**TOP TIP** Explain the benefits for each stakeholder. Why should they be involved? Analyse carefully and have responses for "naysayers".
 {{< /hint >}}
 
 ## Specific Means of Communication
