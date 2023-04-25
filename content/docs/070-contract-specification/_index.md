@@ -39,6 +39,22 @@ The quotation should outline the requirements and expectations, perhaps with opt
 
 Parts of the work may include items not part of the bell installation – masonry work on the tower or work related to access, for example. Possible examples are discussed in more detail in the [annexe](../070-contract-specification/technical-options/). This will require the use of **sub-contractors**. It is usually clearer and lower risk for the contract to be with the bell hanging company (the Main **Contractor**). They then place any subsidiary contracts necessary for aspects of the work that will be required but do not provide themselves.
 
+### Programme
+
+The quotation request will set the expected date of completion and clearly define the expected condition at that point. The **Contractor** will confirm this or suggest an alternative. The **Contractor** may also offer a programme showing the major phases of the work.
+
+The **Contractor** will identify steps to be taken to maintain the programme in the event of unexpected delays and how contract amendments are to be agreed.
+
+### Financial
+
+The **Contractor** will provide an overall cost for the work possibly including part-payments at specific points. The progress at those points will be clearly defined and subject to checking by the **Client**.
+
+The quotation request may define what payment is retained for snagging (the US term is "completing the punch list") and for how long. The **Contractor** will agree to this or offer an alternative.
+
+The **Contractor** may include a follow-up inspection at some interval after completion. The details and cost of this will be given.
+
+The **Contractor** will state what guarantee is offered and against what circumstances.
+
 
 
 
