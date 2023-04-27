@@ -100,6 +100,12 @@ Note that historic information may be a benefit as well as a constraint. Local h
 
 ### Environmental Considerations
 
+{{< hint warning >}}
+Points covered in this section are an ongoing concern for any tower. They need to be considered as part of a project because:
+ - The condition may be particularly bad if the installation has been neglected for many years
+ - Removal of material and fittings during a project may off better access for checks
+{{< /hint >}}
+
 #### Bats
 
 Bats are a protected species; they and their roosts must not be disturbed. Contractors will advise on the presence of bats, how proposed work could affect them and mitigating actions. Work may need to be timed to minimise risks of disturbance. Advice is available [here]( https://www.bats.org.uk/advice/information-for-places-of-worship).
@@ -112,17 +118,27 @@ If birds are already roosting and nesting in the tower, their droppings and nest
 
 Birds are not always bad. Peregrines nesting on the outside of a tower are a wildlife attraction and may help to keep other birds away. In one tower at least, boxes for [nesting Swifts](https://belfryupkeep.cccbr.org.uk/docs/020-permissions/#protected-wildlife) have been fitted within the louvres but outside the protective netting – a valuable help to a species that is losing many of its traditional nesting places.
 
-#### Other pests
-
-Squirrels, mice, rats, woodworm, death watch beetle, plus wet or dry rot all require appropriate specialist advice and treatment. Professional contractors will need to ensure that their treatments will be suitable considering other species present and the nature of the fabric being treated.  
-
-![Worm holes](specialist_fig-1.jpg)
-
-*Figure 1: Typical woodworm flight holes in timber. These holes appear old – newly made holes that are undisturbed often have the evidence of wood dust alongside.*
+#### Grey squirrels, rats and mice 
 
 ![Squirrels](specialist_fig-2.jpg)
 
-*Figure 2: Squirrels high up on the tower at Coddington, Herefordshire.*
+*Figure 1: Squirrels high up on the tower at Coddington, Herefordshire.*
+
+Grey squirrels may look attractive (Figure 1) but they cause damage within buildings. They can gnaw woodwork, strip insultation from electrical cables and contaminate the area with urine and droppings. They are most likely to gain access to a tower through louvres or broken windows and, as for birds, this must be addressed in your project.
+
+Rates and mice present similar problems but controlling their access may be more difficult. Specialist assistance will be needed if they present a problem.
+
+#### Woodworm and Death Watch Beetle
+
+![Worm holes](specialist_fig-1.jpg)
+
+*Figure 2: Typical woodworm flight holes in timber. These holes appear old – newly made holes that are undisturbed often have the evidence of wood dust alongside.*
+
+Worm or beetle attack (Figure 2) on timber within the tower will require appropriate specialist advice and treatment, even if the timber is not fulfilling a structural function. Professional contractors will need to ensure that their treatments will be suitable considering other species present and the nature of the fabric being treated. 
+
+#### Fungal decay
+
+Wet or dry rot in the tower, if present, will need attention as part of a tower project. A qualified surveyor may be needed to assess the extent of the damage and will recommend treatment, possibly including the removal of affected material. This may require the strengthening of any structural timber, such as support beams or parts of a bell frame. Wet rot is more likely where there are leaks and these must be rectified before further work is carried out.
 
 ## Analysing and Using Advice
 
@@ -134,8 +150,8 @@ You will need to understand and balance the information given, particularly wher
 
 | Figure | Details | 
 | :---: | --- | 
-| 1 | Woodworm flight holes in timber. (Photo: Alison Hodge) |
-| 2 | Squirrels high up on the tower at Coddington, Herefordshire. (Photo: ) |
+| 1 | Squirrels high up on the tower at Coddington, Herefordshire. (Photo: ) |
+| 2 | Woodworm flight holes in timber. (Photo: Alison Hodge) |
 
 ----
 
