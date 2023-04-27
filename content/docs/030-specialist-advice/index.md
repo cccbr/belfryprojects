@@ -103,7 +103,7 @@ Note that historic information may be a benefit as well as a constraint. Local h
 {{< hint warning >}}
 Points covered in this section are an ongoing concern for any tower. They need to be considered as part of a project because:
  - The condition may be particularly bad if the installation has been neglected for many years
- - Removal of material and fittings during a project may off better access for checks
+ - Removal of material and fittings during a project may offer better access for checks
 {{< /hint >}}
 
 #### Bats
