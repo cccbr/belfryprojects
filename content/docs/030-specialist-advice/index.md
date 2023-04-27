@@ -150,7 +150,7 @@ You will need to understand and balance the information given, particularly wher
 
 | Figure | Details | 
 | :---: | --- | 
-| 1 | Squirrels high up on the tower at Coddington, Herefordshire. (Photo: ) |
+| 1 | Squirrels high up on the tower at Coddington, Herefordshire. (Photo: Elizabeth Bowkett) |
 | 2 | Woodworm flight holes in timber. (Photo: Alison Hodge) |
 
 ----
