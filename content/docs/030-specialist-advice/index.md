@@ -124,7 +124,7 @@ Birds are not always bad. Peregrines nesting on the outside of a tower are a wil
 
 *Figure 1: Squirrels high up on the tower at Coddington, Herefordshire.*
 
-Grey squirrels may look attractive (Figure 1) but they cause damage within buildings. They can gnaw woodwork, strip insultation from electrical cables and contaminate the area with urine and droppings. They are most likely to gain access to a tower through louvres or broken windows and, as for birds, this must be addressed in your project.
+Grey squirrels may look attractive (Figure 1) but they cause damage within buildings. They can gnaw woodwork, strip insulation from electrical cables and contaminate the area with urine and droppings. They are most likely to gain access to a tower through louvres or broken windows and, as for birds, this must be addressed in your project.
 
 Rates and mice present similar problems but controlling their access may be more difficult. Specialist assistance will be needed if they present a problem.
 
