@@ -195,6 +195,10 @@ Volunteers may be able to assist with:
  - Provision of overnight accommodation, washing and changing facilities, refreshments 
  - Hosting visitors, running errands 
 
+## Recognition of Project Team
+
+A nice touch is to provide public recognition of at least the main members of the project team, perhaps by a plaque in the ringing room (Figure 1).
+
 ![Recognition of project team](project-team_fig-1.jpg)
 
 *Figure 1: Recognition for the project team at Horton Kirby, Kent* 
