@@ -31,7 +31,7 @@ Credits will be found at the end of each chapter. The picture on this page was t
 
 ## Acknowledgements
 
-Alison Hodge, Allen Nunley, Chris Povey, Robin Shipp.
+Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 ## Latest Changes
 
