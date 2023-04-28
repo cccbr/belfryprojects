@@ -48,7 +48,21 @@ While the input from such companies is valuable and essential, there is a view t
 
 ### Clocks
 
-If the bells are rung as part of the clock chime as well as ringing bells, then clock companies may need to advise. If an existing clock is manually wound or strikes at night, then consider extending your project to automating the clock mechanism so that manual winding is no longer required, and adding a mechanism so that it can be silenced at night. 
+If the bells are rung as part of the clock chime as well as ringing bells, then clock companies may need to advise. If an existing clock is manually wound or strikes at night, then consider extending your project to automating the clock mechanism so that manual winding is no longer required, and adding a mechanism so that it can be silenced at night.
+
+Electric winding has a sometimes overlooked advantage over manual winding. With manual winding, a long drop for the weights is needed to avoid frequent winding. With electric winding, the weights drop only a short distance before the mechanism winds them back up. The advantage of this is shown in Figure x:
+
+![Clock wth electrical winding](clock.jpg)
+
+*Figure x: A tower clock modified for electrical winding*
+
+As usual, the clock shown is situated in the clock room, or intermediate room, between the ringing room and the bell chamber. When it was manually wound, the wires supporting the weights were routed up into the bell chamber, round two sets of pulleys to drop down in the corner of the clock room and into a chute running down into the ringing room. When fully wound, the weights were in the bell chamber to maximise the drop.
+
+There were two disadvantages: (a) for inspection and repair of pulleys, the clock engineer required access to the bell chamber, with very little room to place the ladder need to reach the pulleys and (b) the holes needed to accommodate the weights in the bell chamber and intermediate room floor, plus the weight chute, transmitted bell noise into the ringing room.
+
+Figure x shows the installation after conversion to electric winding – the motors (in this case two, for the clock and the hour chime) are shown at A. The weight wires pass over pulleys (B) down to the weights (C). The whole installation is now located in the clock room, simplifying maintenance, and the holes in floors are sealed, cutting down noise in the ringing room.
+
+Clearly, much of this work was carried out by a church clock specialist.
 
 Contact details for companies working on church clocks are given in [Specialist Services](../115-specialists).
 
@@ -150,6 +164,7 @@ You will need to understand and balance the information given, particularly wher
 
 | Figure | Details | 
 | :---: | --- | 
+| x | Tower clock modified for electric winding, Thornbury, South Gloucestershire. (Photo: Robin Shipp) |
 | 1 | Squirrels high up on the tower at Coddington, Herefordshire. (Photo: Elizabeth Bowkett) |
 | 2 | Woodworm flight holes in timber. (Photo: Alison Hodge) |
 
