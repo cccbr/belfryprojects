@@ -60,7 +60,7 @@ As usual, the clock shown is situated in the clock room, or intermediate room, b
 
 There were two disadvantages: (a) for inspection and repair of pulleys, the clock engineer required access to the bell chamber, with very little room to place the ladder needed to reach the pulleys, and (b) the holes needed to accommodate the weights in the bell chamber and intermediate room floors, plus the weight chute, transmitted bell noise into the ringing room.
 
-Figure x shows the installation after conversion to electric winding – the motors (in this case two, for the clock and the hour chime) are shown at A. The weight wires pass over pulleys (B) down to the weights (C). The whole installation is now located in the clock room, simplifying maintenance, and the holes in both floors are sealed, cutting down noise in the ringing room.
+Figure x shows the installation after conversion to electric winding – the motors (in this case two, for the clock and the hour chime) are shown at A. The weight wires pass over pulleys (B) down to the weights (C). The whole installation is now located within the clock room, simplifying maintenance, and the holes in both floors are sealed, cutting down noise in the ringing room.
 
 Clearly, much of this work was carried out by a church clock specialist.
 
