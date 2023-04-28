@@ -45,7 +45,7 @@ Bell projects may be proposed for various reasons:
 ### How big will the project be?
 
 Use imagination! Initially, do not worry about practicalities or money – consider what could be done ideally and develop those as the aims. What may be viewed as a large commitment for a small rural parish may be less daunting for a large, high profile parish church or cathedral. No idea is a bad idea, “brainstorm” with others to generate suggestions. It will be easier to attract funds to an ambitious project that meets the aspirations of many, than a small project that satisfies the interests of few. Later it may be necessary to compromise, so separate and develop the ideas later. Remember that the outcomes of bell projects will last for 20, 50, 100 years or more and there will be few opportunities for amendments once the project is complete. 
- - The main focus of the project may be bell related, but a church project may include more extensive work of which the bells are just one part. Although these notes focus on bell projects, bell ringers themselves may benefit from other work that may be included in larger projects. For example, space may be converted to provide more suitable accommodation for a wider cross-section of the local community, with different interests and age groups. Modern designs incorporate level access for wheelchairs and the less mobile, kitchen and toilet facilities and self-contained meeting rooms of various sizes, that are practical and efficient. For ringers, these may offer facilities for meetings, training and events. 
+ - The main focus of the project may be bell related, but a church project may include more extensive work of which the bells are just one part. Although these notes focus on bell projects, bell ringers themselves may benefit from other work that may be included in larger projects. For example, space may be converted to provide more suitable accommodation for a wider cross-section of the local community, with different interests and age groups. Modern designs incorporate level access for wheelchairs and the less mobile, kitchen and toilet facilities (Figure 1) and self-contained meeting rooms of various sizes, that are practical and efficient. For ringers, these may offer facilities for meetings, training and events. 
  - a new ringing room or gallery may enable bell ringers in action to be viewed from the body of the church if a suitable glazed screen is incorporated in the design.
  - the ringing room separated from the body of the church will be easier to heat.
  - a shorter rope length may also help ringing if the draught is excessive (a ceiling height of less than about 12 feet (about 4 metres) is not recommended). 
@@ -64,7 +64,7 @@ Further information is available [here (PDF)](https://cccbr.org.uk/wp-content/up
 
 ### When does it need to be finished? 
 
-Is there a date by which the project needs to be completed that will determine the timeline? Can the project be linked with a specific anniversary or event, whether local or national? The Millennium, Royal Jubilee and Coronation, the end of hostilities during World Wars 1 and 2, and church anniversaries have all been marked by bell projects. Sometimes it is other work that sets the timescale – the demolition of an existing church hall to raise money from a residential development makes alterations in the church a priority. 
+Is there a date by which the project needs to be completed that will determine the timeline? Can the project be linked with a specific anniversary or event, whether local or national? The Millennium, Royal Jubilee (Figure 2) and Coronation, the end of hostilities during World Wars 1 and 2, and church anniversaries have all been marked by bell projects. Sometimes it is other work that sets the timescale – the demolition of an existing church hall to raise money from a residential development makes alterations in the church a priority. 
 
 ![Victoria Jubilee bell, Great Malvern Priory](scoping_fig-2a.jpg)
 
@@ -80,7 +80,7 @@ A lot of advice will be required during the project; information on how and wher
 
 ### Other Supporting Information 
 
-Information and facts, personalities and stories associated with the bells and ringers will be very useful when writing proposals for grants and raising funds. Information will be available in church archives and diocesan records, as well as a public library, county archives and old copies of local newspapers. Members of local history and archaeology groups may have or be willing to assist in gathering information. Local residents, especially those from families who have been in the area for several generations may have their own memoires and records. Memorials and gravestones may suggest who may be able to help.  
+Information and facts, personalities and stories associated with the bells and ringers will be very useful when writing proposals for grants and raising funds. Information will be available in church archives and diocesan records, as well as a public library, county archives and old copies of local newspapers. Members of local history and archaeology groups may have or be willing to assist in gathering information. Local residents, especially those from families who have been in the area for several generations may have their own memoires and records. Memorials and gravestones may suggest who may be able to help (Figure 3).  
 
 ![Tablet recording donation](scoping_fig-3a.jpg)
 
@@ -112,7 +112,7 @@ This is a summary of the key issues to be addressed. For major projects you shou
 
 *Figure 4: A new bell being cast by Meighs & Westleys*
 
- - If new bells are proposed, then how many, and of what weights? 
+ - If new bells (Figure 4) are proposed, then how many, and of what weights? 
  - Is augmentation really needed? 
  - Will the outcome facilitate the attraction, training and retention of ringers? 
  - Is there a need for a fourth ring of 10 bells within a few miles? 
@@ -154,7 +154,7 @@ The opportunity should be seized to create a better environment for recruiting, 
  - Heating and ventilation for ringers
  - Seating
  - Boxes for ringers to stand on
- - CCTV to show the bells while ringing and the ringers in action
+ - CCTV to show the bells while ringing and the ringers in action (Figure 5)
 
 ![CCTV](scoping_fig-5a.jpg)
 
@@ -162,7 +162,7 @@ The opportunity should be seized to create a better environment for recruiting, 
 
  - Intercom for communication (“*the bride has just arrived!*”)
  - Video linking to the church, belfry and ringing room
- - Display of bell related items, both historic and to demonstrate ringing
+ - Display of bell related items, both historic and to demonstrate ringing (Figure 6)
 
 ![Display of old clappers](scoping_fig-6a.jpg)
 
