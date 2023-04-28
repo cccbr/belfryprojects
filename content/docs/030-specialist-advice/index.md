@@ -58,9 +58,9 @@ Electric winding has a sometimes overlooked advantage over manual winding. With 
 
 As usual, the clock shown is situated in the clock room, or intermediate room, between the ringing room and the bell chamber. When it was manually wound, the wires supporting the weights were routed up into the bell chamber, round two sets of pulleys to drop down in the corner of the clock room and into a chute running down into the ringing room. When fully wound, the weights were in the bell chamber to maximise the drop.
 
-There were two disadvantages: (a) for inspection and repair of pulleys, the clock engineer required access to the bell chamber, with very little room to place the ladder need to reach the pulleys and (b) the holes needed to accommodate the weights in the bell chamber and intermediate room floor, plus the weight chute, transmitted bell noise into the ringing room.
+There were two disadvantages: (a) for inspection and repair of pulleys, the clock engineer required access to the bell chamber, with very little room to place the ladder needed to reach the pulleys, and (b) the holes needed to accommodate the weights in the bell chamber and intermediate room floors, plus the weight chute, transmitted bell noise into the ringing room.
 
-Figure x shows the installation after conversion to electric winding – the motors (in this case two, for the clock and the hour chime) are shown at A. The weight wires pass over pulleys (B) down to the weights (C). The whole installation is now located in the clock room, simplifying maintenance, and the holes in floors are sealed, cutting down noise in the ringing room.
+Figure x shows the installation after conversion to electric winding – the motors (in this case two, for the clock and the hour chime) are shown at A. The weight wires pass over pulleys (B) down to the weights (C). The whole installation is now located in the clock room, simplifying maintenance, and the holes in both floors are sealed, cutting down noise in the ringing room.
 
 Clearly, much of this work was carried out by a church clock specialist.
 
