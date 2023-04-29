@@ -50,7 +50,7 @@ Steve Coleman has an article “*Gift Aid – The Complicated Wheezes*” In *Th
 [This Scheme](https://www.churchofengland.org/resources/building-generous-church/enabling-giving/giving-mechanisms/gift-aid) is for small donations up to a total limit; the administration is more straightforward.
 
 {{< hint info >}}
-Steve Coleman has another article “*GASDS – Gift Aid for Small Donations*” in *The Ringing World*, 24 March 2023 (page 277).
+Steve Coleman has another article “*GASDS – Gift Aid for Small Donations*” in *The Ringing World*, 24 March 2023 (page 277). There is a short follow-up article *GASDS and Parish Giving Scheme* in the 28 April 2023 issue (page 376) discussing problems which might arise from the *Parish Giving Scheme*. You should consult this if you are taking advantage of GASDS.
 {{< /hint >}}
 
 ### Payroll Giving 
