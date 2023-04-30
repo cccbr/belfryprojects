@@ -219,11 +219,11 @@ Always customise the information presented for the application being made. Altho
 
 Vague or unfocused requests are unlikely to be supported. Few organisations will respond to what is clearly a bland request for money. Make your application stand out in a positive way! Reviewers of a large bundle of applications soon grow weary of unclear and poorly presented information. Those reviewing applications will find it easier to recall and refer to an application that stands out for its clarity, what it aims to achieve and how it complies with the funder’s interests. It is inadvisable, however, to make stand out in an extreme way as this may irritate some reviewers. 
 
-The history of the bells and their installation along with the lives of people who have rung them adds human and personal stories and is likely to enhance the case when requesting permission,  particularly in the context of what items may be removed, preserved or altered (Figure y). Such information will also be of considerable interest for members of the local community; local historians, school and college students may be able to undertake their own research and provide additional information that puts the project in context for the past and for the future, which is history in the making, for the next few hundred years!
+The history of the bells and their installation along with the lives of people who have rung (Figure y) them adds human and personal stories and is likely to enhance the case when requesting permission,  particularly in the context of what items may be removed, preserved or altered. Such information will also be of considerable interest for members of the local community; local historians, school and college students may be able to undertake their own research and provide additional information that puts the project in context for the past and for the future, which is history in the making, for the next few hundred years!
 
 ![Lawrence tombstone](lawrence-tombstone.jpg)
 
-*Figure y: The names on a tombstone - are there still local families in the area? *
+*Figure y: The names on a tombstone - are there still local families in the area?*
 
 ### Why are applications not supported? 
 
