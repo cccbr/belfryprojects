@@ -229,11 +229,18 @@ The history of the bells and their installation along with the lives of people w
 
 Funds are limited so regrettably not all grant requests will be accepted. A rejection does not mean that the project is not worthwhile, even though every rejection is a great disappointment! 
 
-Some organisations will provide feedback on grant applications. Was the application non-compliant or did it not fit the criteria well enough? Was it incomplete or unclear?  
+Some organisations will provide feedback on grant applications. Was the application non-compliant or did it not fit the criteria well enough? Was it incomplete or unclear? 
 
 {{< hint info >}}
 **TOP TIP** Customise funding requests to meet each recipient’s criteria and interests.
 {{< /hint >}}
+
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| x | Wooden bowl turned from an oldoak beam removed during a rehanging project (Photo: Robin Shipp) |
+| y | Ringers name on a tombstone. (Photo: Alison Hodge) |
 
 ----
 
