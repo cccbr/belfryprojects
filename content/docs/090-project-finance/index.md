@@ -239,8 +239,8 @@ Some organisations will provide feedback on grant applications. Was the applicat
 
 | Figure | Details | 
 | :---: | --- | 
-| x | Wooden bowl turned from an oldoak beam removed during a rehanging project (Photo: Robin Shipp) |
-| y | Ringers name on a tombstone. (Photo: Alison Hodge) |
+| x | Wooden bowl turned from an old oak beam removed during a rehanging project (Photo: Robin Shipp) |
+| y | Ringer's name on a tombstone. (Photo: Alison Hodge) |
 
 ----
 
