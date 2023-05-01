@@ -74,11 +74,11 @@ Is there a date by which the project needs to be completed that will determine t
 
 It is equally important to consider risks that may be encountered at each stage in the project; how will they be monitored and how would they be mitigated if they arose. Considering risks is part of [project management](../040-managing-project).
 
-### Specialist Advice and Information
+### Specialist advice and information
 
 A lot of advice will be required during the project; information on how and where to obtain specialist advice is offered in the [next chapter](../030-specialist-advice). 
 
-### Other Supporting Information 
+### Other supporting information 
 
 Information and facts, personalities and stories associated with the bells and ringers will be very useful when writing proposals for grants and raising funds. Information will be available in church archives and diocesan records, as well as a public library, county archives and old copies of local newspapers. Members of local history and archaeology groups may have or be willing to assist in gathering information. Local residents, especially those from families who have been in the area for several generations may have their own memoires and records. Memorials and gravestones may suggest who may be able to help (Figure 3).  
 
@@ -86,13 +86,13 @@ Information and facts, personalities and stories associated with the bells and r
 
 *Figure 3: Tablet marking the donation of the Victoria Jubilee bells in Great Malvern Priory*
 
-### Stakeholder Views
+### Stakeholder views
 
 Even for the smallest project, encourage and involve others – one person cannot think of every possibility. There will be many stakeholders locally and more widely, not all of whom will be known at the start, and some will have views that differ from those more directly involved in the project. The project team should think laterally and take time to “brainstorm” together to identify all possible stakeholders. Invite them to consider and contribute. Ideally identify then contact [appropriate named people](../060-stakeholder-engagement) rather than cold-calling. 
 
 Capture any offers of help as there will be many ways in which volunteers will be able to assist later as members and supporters of the [project team](../050-project-team). Even if people cannot help, they may know others who could have information or who can support. Offers of help may well reduce costs that will be incurred, and those offering will build their own personal experiences or business interests.
 
-### Presentation of Outline Proposals 
+### Presentation of outline proposals 
 
 Once the scope of the project has been developed sufficiently, it will be timely to present the project to more people, to gain their interest and ideas. Prepare information about the project using various formats - as talks and presentations, displays, leaflets, podcasts, videos, sketches, diagrams, models, artefacts etc. Various versions will be required for diverse audiences such as young people and school children, neighbours and local residents, local organisations or companies, etc. 
 
@@ -115,7 +115,6 @@ This is a summary of the key issues to be addressed. For major projects you shou
  - If new bells (Figure 4) are proposed, then how many, and of what weights? 
  - Is augmentation really needed? 
  - Will the outcome facilitate the attraction, training and retention of ringers? 
- - Is there a need for a fourth ring of 10 bells within a few miles? 
  - How big or strong is the tower structure? 
  - Adding 2 bells to a heavier ring of 8 will enable a lighter tuneful 6 to be rung 
  - Explore options carefully, without just jumping to conclusions! 
@@ -144,7 +143,7 @@ Before work is underway consider the need for the following:
  - Renewal and / or treatment of metal and timberwork in tower 
  - Removal of debris and clutter, unused items such as pipework and cables
 
-As well as ringing the bells, ringers and others will need to access the tower and bells periodically. They will need to check the conditions and undertake routine maintenance, as well as putting on and taking off bell muffles. More rarely, even the bells or larger parts of the installation may need to be removed down through the tower. Access must therefore be left available, with trap doors through each floor.
+As well as ringing the bells, ringers and others will need to access the tower and bells periodically. They will need to check the conditions and undertake routine maintenance, as well as putting on and taking off bell muffles. More rarely, even the bells or larger parts of the installation may need to be removed down through the tower. Access must therefore be left available, from the tower staircase or trap doors.
 
 ### Other details to support ringing
 
