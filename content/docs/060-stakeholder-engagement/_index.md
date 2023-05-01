@@ -64,7 +64,9 @@ Keeping stakeholders aware of progress is an important part of any project. Cons
 
 It is customary for the bells to be blessed prior to them being (re)installed in the tower. This is an ideal opportunity to involve stakeholders, particularly those who have made major contributions or offered assistance in kind. Since bells are not usually visible after installation, the ideal opportunity for a blessing and dedication service will be when the bells have been delivered from the foundry and are in the church yard or on the church floor prior to being hoisted into the tower. If the bells are not to be removed from the belfry during the project, there may still be a rededication service with CCTV used to enable the bells to be seen. 
 
-*Figure ??:  The new ring of 8 bells in St Bridget's Church, Moresby, on 13th July, 2018. (Photo: Ron East, Carlisle Diocesan Bell Adviser)*
+![New bells in church](new-moresbury-bells.jpg)
+
+*Figure ??:  A new ring of 8 bells, delivered and ready to be installed*
 
 While it is wonderful if a senior person such as the Bishop will officiate, fixing a date in their busy schedule will need to be planned well in advance. Whatever is planned, this service will be a good opportunity to invite all the stakeholders and to make it a great occasion. 
 
@@ -83,6 +85,12 @@ Finally, there is likely to be a succession of requests by visiting bands to rin
 ## Ideas for Engagement
 
 That completes a general description of stakeholder engagement. The [Annexe](../060-stakeholder-engagement/engagement-ideas/) to this chapter provides more detailed ideas which you might want to consider.
+
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| ?? | The new ring of 8 bells in St Bridget's Church, Moresby, on 13th July, 2018. (Photo: Ron East, Carlisle Diocesan Bell Adviser) |
 
 ----
 
