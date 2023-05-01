@@ -97,7 +97,11 @@ Consider where the leaflets will be seen by people who may be interested. They m
 
 ### Souvenir booklets
 
-For more major projects, a more comprehensive high quality glossy brochure, booklet or book may be prepared about the project – the bells, their history, bell ringing and coupling these topics with local history, church history. With careful budgeting, these may be sold and contribute to fund raising. A second version, or addendum, may be created as a record of the project. Production of such a book, booklet or brochure is probably best suited to someone with the interest and time to commit to it.
+For more major projects, a more comprehensive high quality glossy brochure, booklet or book may be prepared about the project – the bells, their history, bell ringing and coupling these topics with local history, church history. With careful budgeting, these may be sold and contribute to fund raising. A second version, or addendum, may be created as a record of the project. Production of such a book, booklet or brochure is probably best suited to someone with the interest and time to commit to it (Figure x).
+
+![Souvenir booklet](ledbury-bells-booklet.jpg)
+
+*Figure x: Booklet celbrating a bells project*
 
 ### Posters
 
@@ -111,7 +115,13 @@ Keep the exhibition in a prominent place and ideally make it portable so that it
 
 Some local bell ringing societies have ready-made display boards about bells and bell ringing that is available for loan. These boards may be supplemented by information specific to the project concerned. An example is provided by The Surrey Association [display boards](https://www.surreybellringers.org.uk/resources/display-boards/).
 
-Rigid display boards can be cumbersome to transport and erect so compact and portable “pull up” display panels are often now preferable. Once designed, they are produced readily at low cost by local printers or online suppliers. “Pull up” banners roll down into the base stand when not in use and can be supplied with a carrying case. Being light weight, they are not well suited to longer term use outside. 
+Rigid display boards (Figure y) can be cumbersome to transport and erect so compact and portable “pull up” display panels are often now preferable. Once designed, they are produced readily at low cost by local printers or online suppliers. 
+
+![Rigid display panel](rigid-display-panel.jpg)
+
+*Figure y: A rigid display board*
+
+“Pull up” banners roll down into the base stand when not in use and can be supplied with a carrying case. Being light weight, they are not well suited to longer term use outside. 
 
 ### Local press, radio and TV 
 
@@ -141,9 +151,13 @@ As well as organising the events, it should be possible to participate in activi
 
 Be imaginative – can the history of the bells be explained to primary school children, youth groups such as scouts and guides? Follow these by visits to the tower or other rings of bells. Events will raise questions and prompt debate – they are all opportunities to recruit potential ringers, encourage support and defuse any concerns. Every event is likely to lead to questions so be prepared to answer questions. 
 
-### Suggestions for events 
+### Suggestions for events
 
- - Tower open days and tours - If the church already has bells that are ringable, then exploit these as both a visible and audible attraction, an opportunity to meet and talk with ringers. Many visitors will welcome the opportunity to go to the top of the tower and look over the neighbourhood. A modest charge will contribute to the project funds.  Check the church insurance cover and complete a specific risk assessment. Some useful guidance is [here](https://www.ecclesiastical.com/risk-management/tower-tours/?gclid=Cj0KCQjwi46iBhDyARIsAE3nVraNVm8v-num9N5c9MaD0FfXmuZUp5sJI6PjYAeZt7d3LEl4oqyUP2saAl8nEALw_wcB).
+![church-notice-board](church-notice-board.jpg)
+
+*Figure zz: Open day advertised on church notice board*
+
+ - Tower open days and tours (Figure z) - If the church already has bells that are ringable, then exploit these as both a visible and audible attraction, an opportunity to meet and talk with ringers. Many visitors will welcome the opportunity to go to the top of the tower and look over the neighbourhood. A modest charge will contribute to the project funds.  Check the church insurance cover and complete a specific risk assessment. Some useful guidance is [here](https://www.ecclesiastical.com/risk-management/tower-tours/?gclid=Cj0KCQjwi46iBhDyARIsAE3nVraNVm8v-num9N5c9MaD0FfXmuZUp5sJI6PjYAeZt7d3LEl4oqyUP2saAl8nEALw_wcB).
  - Arrange for a local venue to be open for a function, perhaps one that people cannot normally visit, such as a house or garden, company or historical site. 
  - Involve the support of a VIP – someone who everyone would like to meet! 
  - Exploit any local twinning arrangements when overseas visitors are in your area.
@@ -184,6 +198,14 @@ Publicise events as widely as possible and well in advance, with reminders leadi
 ## After the Event
 
 Events take a lot of work: remember that both preparation and clearing up afterwards take far more time than the event itself! 
+
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| xx | Booklet celebrating the completion of the Ledbury Bells Project. (Photo: Alison Hodge) |
+| yy | Rigid Display Panel. (Photo: Alison Hodge) |
+| zz | Open day advertised on church notice board. (Photo: Alison Hodge) |
 
 {{< hint info >}}
 **[Back to Stakeholder Engagement](../../060-stakeholder-engagement)**
