@@ -166,11 +166,15 @@ Access to a new higher level ringing room may be via an existing spiral staircas
 
 Finishing touches are also important – all make the environment more welcoming and helpful for ringers. 
 
-It is also worthwhile enabling non-ringers see ringers in action and the bells themselves turning, if possible. If the ringers are not visible, then CCTV and suitable lighting may be installed that show the ringers and bells in use.  
+It is also worthwhile enabling non-ringers see ringers in action and the bells themselves turning, if possible. If the ringers are not visible, then CCTV and suitable lighting may be installed that show the ringers and bells in use. 
+
+---
 
 {{< hint info >}}
 **[Back to Contract Specification](../../070-contract-specification)**
 {{< /hint >}}
+
+---
 
 ## Disclaimer
  
