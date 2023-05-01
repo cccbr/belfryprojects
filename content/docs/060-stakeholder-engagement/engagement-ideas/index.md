@@ -207,9 +207,13 @@ Events take a lot of work: remember that both preparation and clearing up afterw
 | yy | Rigid Display Panel. (Photo: Alison Hodge) |
 | zz | Open day advertised on church notice board. (Photo: Alison Hodge) |
 
+---
+
 {{< hint info >}}
 **[Back to Stakeholder Engagement](../../060-stakeholder-engagement)**
 {{< /hint >}}
+
+---
 
 ## Disclaimer
  
