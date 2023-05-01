@@ -9,7 +9,7 @@ type: docs
 
 ![Parked adjustable spanner](welcome-page-fig.jpg)
 
-Welcome to *Belfry Projects*! This online document produced by the Central Council of Church Bell Ringers Stewardship & Management Workgroup, offers advice to anyone who is considering a project to install bells or undertake restoration work on a bell installation in a bell tower. A typical project leader is most likely to be a tower bell ringer, someone responsible for a tower (typically a church tower) or someone with other interests in bells and bell ringing.
+Welcome to *Belfry Projects*! This online document, produced by the Central Council of Church Bell Ringers Stewardship & Management Workgroup, offers advice to anyone who is considering a project to install bells or undertake restoration work on a bell installation in a bell tower. A typical project leader is most likely to be a tower bell ringer, someone responsible for the tower or someone with other interests in bells and bell ringing.
 
 These pages provide: 
   - help in defining the scope of such a project
