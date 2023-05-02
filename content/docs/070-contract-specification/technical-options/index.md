@@ -26,11 +26,11 @@ Floors and ceilings, doors and trap doors, may also be replaced as an integral p
 
 *Figure 1: New galvanised steel walkway to improve access above the bells*
 
-Traditional timber ladders may need to be replaced (Figure 2) but with space constraints in a tower, creative designs may be needed to accommodate a safe ladder in the space available. Caution is required to ensure that the design and installation of replacement ladders will not obstruct rope paths or space required for ringing safely.
+Traditional timber ladders may need to be replaced or improved (Figure 2) but with space constraints in a tower, creative designs may be needed to accommodate a safe ladder in the space available. Caution is required to ensure that the design and installation of replacement ladders will not obstruct rope paths or space required for ringing safely.
 
 ![Old timber ladder](old-ladder.jpg)
 
-*Figure 2: Old timer ladder may need to be replaced or improved*
+*Figure 2: Old timber ladder which may need to be replaced or improved*
 
 Such work not only facilitates the project itself, but also improves safety in the tower for subsequent routine use and routine maintenance. Care must be taken however, as towers often retain historic woodwork which may exhibit local styles and practices that have been widely lost elsewhere. The church architect will advise and heritage bodies may require some items to be retained in use or preserved. 
 
