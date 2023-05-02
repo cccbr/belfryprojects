@@ -20,7 +20,17 @@ Architects who undertake quinquennial inspections may not be the most appropriat
 
 Proposed designs and materials for the installation will be suggested by the bell hangers, in conjunction with structural engineers and architects. In many projects, the existing tower structure and its heritage will influence what may be feasible. Will a historic bell frame, timber or stonework have to be retained? Techniques are now available to reduce the forces acting on a bell tower when the bells are rung full circle, for example by using a concrete ring beam as the foundation for the bell frame, lowering the level at which the bells are hung in the tower, occasionally reducing the overall weight of the bells, rehanging the bells so that they swing in directions that direct the greatest forces onto the strongest walls, and strengthening an existing frame with supplementary steel work. If compromises have to be made then care needs to be taken to ensure that the outcomes hoped for will be achieved. 
 
-Floors and ceilings, doors and trap doors, may also be replaced as an integral part of the project. It may be essential for the work itself, and a good opportunity to improve walkways, ladders and working platforms. Traditional timber ladders may need to be replaced but with space constraints in a tower, creative designs may be needed to accommodate a safe ladder in the space available. Caution is required to ensure that the design and installation of replacement ladders will not obstruct rope paths or space required for ringing safely. 
+Floors and ceilings, doors and trap doors, may also be replaced as an integral part of the project. It may be essential for the work itself, and a good opportunity to improve walkways (Figure 1), ladders and working platforms. 
+
+![Steel Walkway](galvanised-steel-walkway.jpg)
+
+*Figure 1: New galvanised steel walkway to improve access above the bells*
+
+Traditional timber ladders may need to be replaced (Figure 2) but with space constraints in a tower, creative designs may be needed to accommodate a safe ladder in the space available. Caution is required to ensure that the design and installation of replacement ladders will not obstruct rope paths or space required for ringing safely.
+
+![Old timber ladder](old-ladder.jpg)
+
+*Figure 2: Old timer ladder may need to be replaced or improved*
 
 Such work not only facilitates the project itself, but also improves safety in the tower for subsequent routine use and routine maintenance. Care must be taken however, as towers often retain historic woodwork which may exhibit local styles and practices that have been widely lost elsewhere. The church architect will advise and heritage bodies may require some items to be retained in use or preserved. 
 
@@ -140,7 +150,11 @@ Improved electrical supplies for power tools and lighting may be essential for t
 
 A project will also offer an opportunity to install training aids such as simulator and / or dumbbell, if not already in place. 
 
-Some ringing rooms are open to the whole church, so are draughty and cold, expensive to heat, especially for short periods. Ringing involves physical exercise so ringers will prefer a ringing room to be at a lower temperature than normal domestic room temperatures of 19-20C. However, some heating to take the chill off, especially for those waiting to ring, will be welcome in winter. A glazed screen or partition may be acceptable as part of the design, even heavy full-length curtains will make a marked difference to the retention of heat and economy.  
+Some ringing rooms are open to the whole church, so are draughty and cold, expensive to heat, especially for short periods. Ringing involves physical exercise so ringers will prefer a ringing room to be at a lower temperature than normal domestic room temperatures of 19-20C. However, some heating to take the chill off, especially for those waiting to ring, will be welcome in winter. A glazed screen or partition may be acceptable as part of the design, even heavy full-length curtains (Figure 3) will make a marked difference to the retention of heat and economy.
+
+![Full length curtains](curtains.jpg)
+
+*Figure 3: Curtains help to keep ringing room warmer in winter*
 
 Ringing rooms may be shared by other church users as vestries, storage, meeting spaces or to accommodate other church fixtures such as the clock or monuments. In some projects the layout and users is changed so discussions are essential between other users and experienced ringers to ensure that the space required for ringing remains safe and appropriate. Space needs to be left behind the circle of ropes (and up to ceiling level) for the ringer to stand and ring safely, ideally a metre or more from any other furniture, fixtures or fittings. The circle of space in front of the ringers also should be clear or at most accommodate a low table, for example, that does not obstruct the view across the tower or risk catching ropes. 
 
@@ -150,7 +164,11 @@ Agreeing the décor, furniture and fittings in the ringing room will require agr
 
 The materials and construction of the walls and flooring may limit what will be approved. Although ringers understand that the area used for ringing may have to be used for other purposes, (storage of choir robes, flower arranging items, Christmas decorations, chairs and tables, other church property), it is inappropriate for the ringers to be expected to move many and substantial items before ringing. Ringing rooms should not be viewed as large empty spaces for the storage of things “…. that might be useful sometime”! 
 
-Building a gallery or new ringing room at a higher level may be one of major outcomes of a project. The height of a ringing room is usually greater than that of a domestic room – probably 12-15ft (4-5m). If very much higher than this, then there may be a recommendation to insert rope guides, but less than this will make handling the bell ropes difficult. 
+Building a gallery or new ringing room at a higher level may be one of major outcomes of a project. The height of a ringing room is usually greater than that of a domestic room – probably 12-15ft (4-5m). If very much higher than this, then there may be a recommendation to insert a rope guide (Figure 4), but less than this will make handling the bell ropes difficult.
+
+![Rope guide](rope-guide.jpg)
+
+*Figure 4: Rope guide fitted in a tower with a long draught between the ringers and ceiling*
 
 {{< hint info >}}
 The addition or alteration of rope guides requires Faculty  permission and advice from the church architect; this is an example of a structural change. 
@@ -167,6 +185,15 @@ Access to a new higher level ringing room may be via an existing spiral staircas
 Finishing touches are also important – all make the environment more welcoming and helpful for ringers. 
 
 It is also worthwhile enabling non-ringers see ringers in action and the bells themselves turning, if possible. If the ringers are not visible, then CCTV and suitable lighting may be installed that show the ringers and bells in use. 
+
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| 1 | New galvanised steel walkway. (Photo: Alison Hodge) |
+| 2 | Old timber ladder. (Photo: Alison Hodge) |
+| 3 | Long curtains between ringing room and church. (Photo: Alison Hodge) |
+| 4 | Rope guide. (Photo: Alison Hodge) |
 
 ---
 
