@@ -9,7 +9,7 @@ UNDER CONSTRUCTION
 
 It is only with specialist advice that the full scale and scope of a project is likely to be determined. Every tower and ring of bells is unique so advice on the tower and bell installation will have to relate to each project specifically. 
 
-As with other major projects and purchases, many people will be concerned that they do not know where to start, where to obtain advice or even what advice will be needed. Perversely, it is asking questions and finding information that generates more questions and options! Use multiple sources of information and be open minded at the start – do not limit ideas by preconceived expectations about feasibility, funding or other constraints.
+As with other major projects, many people will be concerned that they do not know where to start, where to obtain advice or even what advice will be needed. Perversely, it is asking questions and finding information that generates more questions and options! Use multiple sources of information and be open minded at the start – do not limit ideas by preconceived expectations about feasibility, funding or other constraints.
 
 ## Advice on Bell Installations
 
@@ -50,17 +50,17 @@ While the input from such companies is valuable and essential, there is a view t
 
 If the bells are rung as part of the clock chime as well as ringing bells, then clock companies may need to advise. If an existing clock is manually wound or strikes at night, then consider extending your project to automating the clock mechanism so that manual winding is no longer required, and adding a mechanism so that it can be silenced at night.
 
-Electric winding has a sometimes overlooked advantage over manual winding. With manual winding, a long drop for the weights is needed to avoid frequent winding. With electric winding, the weights drop only a short distance before the mechanism winds them back up. The advantage of this is shown in Figure x:
+Electric winding has a sometimes overlooked advantage over manual winding. With manual winding, a long drop for the weights is needed to avoid frequent winding. With electric winding, the weights drop only a short distance before the mechanism winds them back up. The advantage of this is shown in Figure 1:
 
 ![Clock wth electrical winding](clock.jpg)
 
-*Figure x: A tower clock modified for electrical winding*
+*Figure 1: A tower clock modified for electrical winding*
 
-As usual, the clock shown is situated in the clock room, or intermediate room, between the ringing room and the bell chamber. When it was manually wound, the wires supporting the weights were routed up into the bell chamber, round two sets of pulleys to drop down in the corner of the clock room and into a chute running down into the ringing room. When fully wound, the weights were in the bell chamber to maximise the drop.
+As usual, this clock shown is situated in the clock room, or intermediate room, between the ringing room and the bell chamber. When it was manually wound, the wires supporting the weights were routed up into the bell chamber, round two sets of pulleys to drop down in the corner of the clock room and into a chute running down into the ringing room. When fully wound, the weights were in the bell chamber to maximise the drop.
 
 There were two disadvantages: (a) for inspection and repair of pulleys, the clock engineer required access to the bell chamber, with very little room to place the ladder needed to reach the pulleys, and (b) the holes needed to accommodate the weights in the bell chamber and intermediate room floors, plus the weight chute, transmitted bell noise into the ringing room.
 
-Figure x shows the installation after conversion to electric winding – the motors (in this case two, for the clock and the hour chime) are shown at A. The weight wires pass over pulleys (B) down to the weights (C). The whole installation is now located within the clock room, simplifying maintenance, and the holes in both floors are sealed, cutting down noise in the ringing room.
+Figure 1 shows the installation after conversion to electric winding – the motors (in this case two, for the clock and the hour chime) are shown at A. The weight wires pass over pulleys (B) down to the weights (C). The whole installation is now located within the clock room, simplifying maintenance, and the holes in both floors are sealed, cutting down noise in the ringing room.
 
 Clearly, much of this work was carried out by a church clock specialist.
 
@@ -82,7 +82,7 @@ Excessive noise levels from the bells within the Ringing Room make it difficult 
 
 Outside the tower, neighbours may complain, especially if the bells have not been rung for some time or it is a completely new ring of bells. Such complaints could be interpreted by an Environmental Health Officer as causing a nuisance under the Environmental Protection Act 1990.
 
-Sound management is complex and may need more specialist advice than can be provided by the bell hangers, whether internal or external to the tower. Further information is given [here](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
+Sound management is complex and may need more specialist advice than can be provided by the bell hangers, whether internal or external to the tower. Further information is given is this [downloadable PDF](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
 
 ### Sourcing & disposal of materials
 
@@ -122,7 +122,7 @@ Points covered in this section are an ongoing concern for any tower. They need t
 
 #### Bats
 
-Bats are a protected species; they and their roosts must not be disturbed. Contractors will advise on the presence of bats, how proposed work could affect them and mitigating actions. Work may need to be timed to minimise risks of disturbance. Advice is available [here]( https://www.bats.org.uk/advice/information-for-places-of-worship).
+Bats are a protected species: they and their roosts must not be disturbed. Contractors will advise on the presence of bats, how proposed work could affect them and mitigating actions. Work may need to be timed to minimise risks of disturbance. Advice is available [here]( https://www.bats.org.uk/advice/information-for-places-of-worship).
 
 #### Birds
 
@@ -136,9 +136,9 @@ Birds are not always bad. Peregrines nesting on the outside of a tower are a wil
 
 ![Squirrels](specialist_fig-2.jpg)
 
-*Figure 1: Squirrels high up on the tower at Coddington, Herefordshire.*
+*Figure 2: Squirrels high up on the tower at Coddington, Herefordshire.*
 
-Grey squirrels may look attractive (Figure 1) but they cause damage within buildings. They can gnaw woodwork, strip insulation from electrical cables and contaminate the area with urine and droppings. They are most likely to gain access to a tower through louvres or broken windows and, as for birds, this must be addressed in your project.
+Grey squirrels may look attractive (Figure 2) but they cause damage within buildings. They can gnaw woodwork, strip insulation from electrical cables and contaminate the area with urine and droppings. They are most likely to gain access to a tower through louvres or broken windows and, as for birds, this must be addressed in your project.
 
 Rates and mice present similar problems but controlling their access may be more difficult. Specialist assistance will be needed if they present a problem.
 
@@ -146,9 +146,9 @@ Rates and mice present similar problems but controlling their access may be more
 
 ![Worm holes](specialist_fig-1.jpg)
 
-*Figure 2: Typical woodworm flight holes in timber. These holes appear old – newly made holes that are undisturbed often have the evidence of wood dust alongside.*
+*Figure 3: Typical woodworm flight holes in timber. These holes appear old – newly made holes that are undisturbed often have the evidence of wood dust alongside.*
 
-Worm or beetle attack (Figure 2) on timber within the tower will require appropriate specialist advice and treatment, even if the timber is not fulfilling a structural function. Professional contractors will need to ensure that their treatments will be suitable considering other species present and the nature of the fabric being treated. 
+Worm or beetle attack (Figure 3) on timber within the tower will require appropriate specialist advice and treatment, even if the timber is not fulfilling a structural function. Professional contractors will need to ensure that their treatments will be suitable considering other species present and the nature of the fabric being treated. 
 
 #### Fungal decay
 
@@ -164,9 +164,9 @@ You will need to understand and balance the information given, particularly wher
 
 | Figure | Details | 
 | :---: | --- | 
-| x | Tower clock modified for electric winding, Thornbury, South Gloucestershire. (Photo: Robin Shipp) |
-| 1 | Squirrels high up on the tower at Coddington, Herefordshire. (Photo: Elizabeth Bowkett) |
-| 2 | Woodworm flight holes in timber. (Photo: Alison Hodge) |
+| 1 | Tower clock modified for electric winding, Thornbury, South Gloucestershire. (Photo: Robin Shipp) |
+| 2 | Squirrels high up on the tower at Coddington, Herefordshire. (Photo: Elizabeth Bowkett) |
+| 3 | Woodworm flight holes in timber. (Photo: Alison Hodge) |
 
 ----
 
@@ -180,6 +180,6 @@ You will need to understand and balance the information given, particularly wher
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), March 2023
+Version 0.1 (Under construction), May 2023
 
 © 2023 Central Council of Church Bell Ringers
