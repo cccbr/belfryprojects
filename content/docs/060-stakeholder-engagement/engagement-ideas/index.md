@@ -73,6 +73,8 @@ Possible online examples are:
  - [Eastnor Church](https://www.eastnorchurch.org.uk/activities/)
  - [Ewhurst Bells Restoration](https://www.friendsofewhurstchurch.com/bells)
 
+Suggestions of other attractive examples will be welcome. Contact SMsec@cccbr.org.uk. 
+
 ### Newsletters and blogs 
 
 These are a good way to share progress of the project, with a blog being part of the website. Pictures are ideal alongside brief text. Out of date information creates a poor impression so even when there is little to report, use the opportunity to add comments about the ringers who may be practicing elsewhere, bells and ringing nationally, the history, mathematics and so on. The [Calstock Bell Ringers](https://www.calstockbellringers.com/blog) provide a good example.
@@ -97,11 +99,11 @@ Consider where the leaflets will be seen by people who may be interested. They m
 
 ### Souvenir booklets
 
-For more major projects, a more comprehensive high quality glossy brochure, booklet or book may be prepared about the project – the bells, their history, bell ringing and coupling these topics with local history, church history. With careful budgeting, these may be sold and contribute to fund raising. A second version, or addendum, may be created as a record of the project. Production of such a book, booklet or brochure is probably best suited to someone with the interest and time to commit to it (Figure x).
+For more major projects, a more comprehensive high quality glossy brochure, booklet or book may be prepared about the project – the bells, their history, bell ringing and coupling these topics with local history, church history. With careful budgeting, these may be sold and contribute to fund raising. A second version, or addendum, may be created as a record of the project. Production of such a book, booklet or brochure is probably best suited to someone with the interest and time to commit to it (Figure 1).
 
 ![Souvenir booklet](ledbury-bells-booklet.jpg)
 
-*Figure x: Booklet celbrating a bells project*
+*Figure 1: Booklet celbrating a bells project*
 
 ### Posters
 
@@ -115,11 +117,11 @@ Keep the exhibition in a prominent place and ideally make it portable so that it
 
 Some local bell ringing societies have ready-made display boards about bells and bell ringing that is available for loan. These boards may be supplemented by information specific to the project concerned. An example is provided by The Surrey Association [display boards](https://www.surreybellringers.org.uk/resources/display-boards/).
 
-Rigid display boards (Figure y) can be cumbersome to transport and erect so compact and portable “pull up” display panels are often now preferable. Once designed, they are produced readily at low cost by local printers or online suppliers. 
+Rigid display boards (Figure 2) can be cumbersome to transport and erect so compact and portable “pull up” display panels are often now preferable. Once designed, they are produced readily at low cost by local printers or online suppliers. 
 
 ![Rigid display panel](rigid-display-panel.jpg)
 
-*Figure y: A rigid display board*
+*Figure 2: A rigid display board*
 
 “Pull up” banners roll down into the base stand when not in use and can be supplied with a carrying case. Being light weight, they are not well suited to longer term use outside. 
 
@@ -155,9 +157,9 @@ Be imaginative – can the history of the bells be explained to primary school c
 
 ![church-notice-board](church-notice-board.jpg)
 
-*Figure zz: Open day advertised on church notice board*
+*Figure 3: Open day advertised on church notice board*
 
- - Tower open days and tours (Figure z) - If the church already has bells that are ringable, then exploit these as both a visible and audible attraction, an opportunity to meet and talk with ringers. Many visitors will welcome the opportunity to go to the top of the tower and look over the neighbourhood. A modest charge will contribute to the project funds.  Check the church insurance cover and complete a specific risk assessment. Some useful guidance is [here](https://www.ecclesiastical.com/risk-management/tower-tours/?gclid=Cj0KCQjwi46iBhDyARIsAE3nVraNVm8v-num9N5c9MaD0FfXmuZUp5sJI6PjYAeZt7d3LEl4oqyUP2saAl8nEALw_wcB).
+ - Tower open days and tours (Figure 3) - If the church already has bells that are ringable, then exploit these as both a visible and audible attraction, an opportunity to meet and talk with ringers. Many visitors will welcome the opportunity to go to the top of the tower and look over the neighbourhood. A modest charge will contribute to the project funds.  Check the church insurance cover and complete a specific risk assessment. Some useful guidance is [here](https://www.ecclesiastical.com/risk-management/tower-tours/?gclid=Cj0KCQjwi46iBhDyARIsAE3nVraNVm8v-num9N5c9MaD0FfXmuZUp5sJI6PjYAeZt7d3LEl4oqyUP2saAl8nEALw_wcB).
  - Arrange for a local venue to be open for a function, perhaps one that people cannot normally visit, such as a house or garden, company or historical site. 
  - Involve the support of a VIP – someone who everyone would like to meet! 
  - Exploit any local twinning arrangements when overseas visitors are in your area.
@@ -203,9 +205,9 @@ Events take a lot of work: remember that both preparation and clearing up afterw
 
 | Figure | Details | 
 | :---: | --- | 
-| xx | Booklet celebrating the completion of the Ledbury Bells Project. (Photo: Alison Hodge) |
-| yy | Rigid Display Panel. (Photo: Alison Hodge) |
-| zz | Open day advertised on church notice board. (Photo: Alison Hodge) |
+| 1 | Booklet celebrating the completion of the Ledbury Bells Project. (Photo: Alison Hodge) |
+| 2 | Rigid Display Panel. (Photo: Alison Hodge) |
+| 3 | Open day advertised on church notice board. (Photo: Alison Hodge) |
 
 ---
 
