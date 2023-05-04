@@ -6,7 +6,7 @@ title: Technical Options
 
 UNDER CONSTRUCTION
 
-This Annexe supports the process of preparing a contract specification with descriptions of various parts of an installation which may be relevant to your tower. For those less familiar with bell installations, links are included to relevant chapters in the companion document  [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk).
+This Addendum supports the process of preparing a contract specification with descriptions of various parts of an installation which may be relevant to your tower. For those less familiar with bell installations, links are included to relevant chapters in the companion document  [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk).
 
 A Code of Practice on the Conservation and repair of bells and bell frames is available as a [PDF download](https://www.churchofengland.org/sites/default/files/2018-11/CCB_Code-of-practice_Conservation-and-repair-of-bells-and-bellframes_2007.pdf).
 
@@ -51,7 +51,7 @@ Points to be considered are:
  - Is a new frame to be installed and of what material? 
  - Are the foundation beams in good condition? 
  - Will it be sited at the level of an existing frame or at a different level? Moving a frame lower in the tower, below the louvres, may reduce forces on the tower and improve the sound outside, by avoiding individual bells ‘shouting out’ through the louvres.
- - Is a historic frame to be conserved in situ for reference? If the new frame is located lower down, it may be possible to retain the old frame in situ. If this is done, arrangements will need to be made for access to the old frame for historical inspections. It will also be necessary to provide access to the louvres for installation and checking of netting to prevent access of wildlife.
+ - Is a historic frame to be conserved in situ for reference? If the new frame is located lower down, it may be possible to retain the old frame in situ. If this is done, arrangements will need to be made for access to the old frame for historical inspections. It will also be necessary to provide access to the louvres for installation and checking of metal grills to prevent access of wildlife.
  - What will be the effects on the sound of the bells outside the tower and internally for the ringers? 
  - Is provision to be made for addition of more bells in future – for example, existing six bells to be rehung in a frame designed for eight with two spaces left for a subsequent project? 
  - What about the location of the clock or other items that are currently in the tower? 
@@ -76,7 +76,7 @@ Points to consider are:
 
  - Is a bell cracked? Not all cracks are visible to the naked eye. It may be feasible to weld a cracked bell, but this is a highly [specialist process](../../115-specialists/#bell-weld-repairs).
  - Is the bell worn where the clapper strikes? It may be possible to turn the bell so that the clapper strikes at a new point on the soundbow
- - Does the bell have canons and will they be removed, or fitted with canon retaining headstock?
+ - Does the bell have canons and will they be removed, or fitted with a canon retaining headstock?
  - Cast in iron crown staples are better removed completely to prevent cracking of the bell.
  - What is the tonal quality and how do the bells fit musically with each other? Can one or more be tuned? 
 
@@ -164,7 +164,7 @@ Agreeing the décor, furniture and fittings in the ringing room will require agr
 
 The materials and construction of the walls and flooring may limit what will be approved. Although ringers understand that the area used for ringing may have to be used for other purposes, (storage of choir robes, flower arranging items, Christmas decorations, chairs and tables, other church property), it is inappropriate for the ringers to be expected to move many and substantial items before ringing. Ringing rooms should not be viewed as large empty spaces for the storage of things “…. that might be useful sometime”! 
 
-Building a gallery or new ringing room at a higher level may be one of major outcomes of a project. The height of a ringing room is usually greater than that of a domestic room – probably 12-15ft (4-5m). If very much higher than this, then there may be a recommendation to insert a rope guide (Figure 4), but less than this will make handling the bell ropes difficult.
+Building a gallery or new ringing room at a higher level may be one of the major outcomes of a project. The height of a ringing room is usually greater than that of a domestic room – probably 12-15ft (4-5m). If very much higher than this, then there may be a recommendation to insert a rope guide (Figure 4), but less than this will make handling the bell ropes difficult.
 
 ![Rope guide](rope-guide.jpg)
 
