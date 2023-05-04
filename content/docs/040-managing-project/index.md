@@ -5,6 +5,7 @@ weight: 40
 
 # Managing the Project
 
+UNDER CONSTRUCTION
 
 ## A plan to go from this… 
 
@@ -18,7 +19,7 @@ As a project takes shape there may be enthusiasm to make progress, particularly 
 **TOP TIP**: Asking *who*, *what*, *when*, *where*, *why*, *how*, are useful prompts at every stage! 
 {{</hint>}}
 
-There is a wide range of material available about planning and running projects. Look for basic guides online and in books (public libraries and bookstalls at larger stations may stock some). A focus on charities and the voluntary sector is most likely to be helpful for bell projects. There is no “right” way to manage a project so this guidance should be adjusted to fit the specific project.  
+There is a wide range of material available about planning and running projects. Look for basic guides online and in books. A focus on charities and the voluntary sector is most likely to be helpful for bell projects. There is no “right” way to manage a project so this guidance should be adjusted to fit the specific project.  
 
 A particularly comprehensive set of information about church projects is [here](https://www.hereford.anglican.org/parish-support/community-partnership/crossing-the-threshold-toolkit/).
 
@@ -41,19 +42,19 @@ Identify clearly the key dates that have to be fixed. For example, a decision ma
 Plan meetings with stakeholders, contractors and suppliers. While some meetings may now be virtual, face to face meetings are still very effective and often enable better personal interaction, especially in the early stages of a project. Meetings help to keep everyone up to date with progress and also offer the opportunity to ask questions. If on site, then progress will be much more
 apparent.
 
-Watch what interdependencies there may between various activities;changes in the timing of one activity will affect others that follow.For example, specific equipment and materials will be required at precise times, with some requiring large areas for storage and security until used.
+Watch what interdependencies there may between various activities: changes in the timing of one activity will affect others that follow. For example, specific equipment and materials will be required at precise times, with some requiring large areas for storage and security until used.
 
-Careful consideration of phasing may enable money to be saved; for example, can the period during whichitems are hiredbe minimised, to reduce hire costs?
+Careful consideration of phasing may enable money to be saved: for example, can the period during which items are hired be minimised, to reduce hire costs?
 
-For every activity in the plan, consider carefully who else needs to be involved and what else will be needed. Talking through each activity with members of the project team may expose key points that are easily overlooked yet may be critical and time consuming. When and how will reports be required for the PCC, funders and other stakeholders–verbal, written, electronic / on paper? Reports at specific times may be essential for funders so should not be missed! Adding them to the plan, with time allocated for preparation, may take a few minutes, but can save problems and potentiallyloss of income.
+For every activity in the plan, consider carefully who else needs to be involved and what else will be needed. Talking through each activity with members of the project team may expose key points that are easily overlooked yet may be critical and time consuming. When and how will reports be required for the PCC, funders and other stakeholders – verbal, written, electronic / on paper? Reports at specific times may be essential for funders so should not be missed! Adding them to the plan, with time allocated for preparation, may take a few minutes but can save problems and potentially loss of income.
 
-Some grant awarding bodies require reports, data and other actionsboth during and after the project is complete, some even a few years after the project has been finished. Plan how this will be achieved, even as team members change and show how that data and information will be collected as the project proceeds.
+Some grant awarding bodies require reports, data and other actions both during and after the project is complete, some even a few years after the project has been finished. Plan how this will be achieved, even as team members change and show how that data and information will be collected as the project proceeds.
 
-How will progress, changes to the plan or changes of approach be notified to others and recorded? This is all part of good communication–whether by phone, email or electronic tools. It is easy to overlook people who may wish or need to be informed, so setting up specific mailing lists is a wise and efficient way of working.
+How will progress, changes to the plan or changes of approach be notified to others and recorded? This is all part of good communication – whether by phone, email or electronic tools. It is easy to overlook people who may wish or need to be informed, so setting up specific mailing lists is a wise and efficient way of working.
 
 At the end of the project, leave time to complete all the formalities and tidy up. There may be additional correspondence to be completed so these must be added to records as they are archived for future reference.
 
-Lack of planning can lead to what are described as “Unforseen consequences” but they may be the result of poor planning! Ultimately, project management ensures that everything happens, when and how it should!
+Lack of planning can lead to what are described as “unforseen consequences” but they may be the result of poor planning! Ultimately, project management ensures that everything happens, when and how it should!
 
 ## Project Management Tools
 It is advisable for the project leader to set up systematic ways of managing the project. Comprehensive software packages are available, some very expensive, others freely available, but these are not necessary. It is more important for all those involved to be able to access information and use it. The normal cautions apply if free software is used. 
@@ -70,7 +71,7 @@ An online calendar enables team members to share and update information as progr
 A large wall planner displayed at a central location such as in the church, is useful to show progress against key milestones. 
 
 ### Project information documents and records
-Information and documents will be generated and received during a project, including key more formal decisions and agreements, as well as useful reference materials. Much of this will be referred to during the project and key documents must be archived on completion. For example:
+Information and documents will be generated and received during a project, including key formal decisions and agreements, as well as useful reference materials. Much of this will be referred to during the project and key documents must be archived on completion. For example:
 
  - Calendars showing project timetable
  - Records of activities, meeting agendas and minutes, events, progress reports
@@ -95,11 +96,11 @@ Information from suppliers and contractors may be commercially sensitive so shou
 Some grant awarding bodies require reports, data and other actions during and after the project is complete, some even a few years after the project has been finished so plan for this as the project proceeds. 
 
 ### Photographic records 
-Photographs and videos are easy to take electronically and will be useful when creating a complete documentary record of the project from the very start through to completion that can be preserved as part of the tower history. As well as being useful, informative and interesting, pictures are helpful as reminders of the status of the project at certain points as well useful publicity in the course of the project. Perhaps enlist the support of members of a local photographic society as they may be willing to be involved in a more unusual project themselves. Bell towers are often dark and cramped so will pose interesting challenges even for the most enthusiastic amateur photographers! 
+Photographs and videos are easy to take electronically and will be useful when creating a complete documentary record of the project from the very start through to completion that can be preserved as part of the tower history. As well as being useful, informative and interesting, pictures are helpful as reminders of the status of the project at certain points as well as useful publicity in the course of the project. Perhaps enlist the support of members of a local photographic society as they may be willing to be involved in a more unusual project themselves. Bell towers are often dark and cramped so will pose interesting challenges even for the most enthusiastic amateur photographers! 
 
 ## Money Management
 
-Formally, money for the project is likely to the responsibility of the Church Treasurer as they will have the authority for payments and bank transactions. However, a project treasurer can help the project leader with costing the work, review financial elements of quotations and contracts, then control and manage project funds as income is received and payments are made. Good record keeping is essential and many grant awarding bodies will expect evidence of expenditure and related financial records. 
+Formally, money for the project is likely to the responsibility of the Church Treasurer as they will have the authority for payments and bank transactions. However, a project treasurer can help the project leader with costing the work, reviewing financial elements of quotations and contracts, then controlling and managing project funds as income is received and payments are made. Good record keeping is essential and many grant awarding bodies will expect evidence of expenditure and related financial records. 
 
 Cash flow will be a concern when more money has to be paid out before it has been raised or received. Contractors will set out the payment terms in their contract and some money may be required in advance, with further stage payments once specific work has been completed. The dates on which payments are due should be included the calendar. 
 
@@ -113,9 +114,9 @@ Who will have the last ring on the old bells? This is likely to be a question as
 
 ### Decommissioning and preparations
 
-Preliminary work will usually be required before external contractors can start the bell related work – for example, in clearing items that are in routine use – chairs, tables, books, papers etc. Are they to be retained in storage, refurbished or disposed of? 
+Preliminary work will usually be required before external contractors can start the bell related work – for example, in clearing items that are in routine use: chairs, tables, books, papers etc. Are they to be retained in storage, refurbished or disposed of? 
 
-It may be necessary to provide protective sheeting and covering for immovable items like flooring, monuments, organ to prevent damage, and ingress of dust or debris. 
+It may be necessary to provide protective sheeting and covering for immovable items like flooring, monuments and organ to prevent damage and ingress of dust or debris. 
 
 Volunteer labour may undertake some of this but some tasks may require specialist contractors, such as organ builders to protect an organ. Work by volunteers will require advance agreement of the church and main contractors. Bell hangers are accustomed to working with volunteers, subject to insurance arrangements being agreed and project specific risk assessments in place. 
 
@@ -139,13 +140,13 @@ Delays and unexpected challenges will occur and need to be resolved. A mobile ph
 
 ## Snagging 
 
-The contract terms should set out how and by when remedial work will be completed. The project leader should create a "snagging list" ("punch list" in the US) of items that do not meet contractual acceptance criteria and report them to the contractor concerned as soon as possible. As thes items are completed by the contractor, they should be rechecked, and then marked completed.  Note, during your review of punch list items, keep a careful eye out as new items may be caused by remedial work and if any are noted, they should be added to the punch list and remediated.  When the snagging process is completed, the project can move onto the next step. 
+The contract terms should set out how and by when remedial work will be completed. The project leader should create a "snagging list" ("punch list" in the US) of items that do not meet contractual acceptance criteria and report them to the contractor concerned as soon as possible. As these items are completed by the contractor, they should be rechecked, and then marked completed.  During your review of punch list items, keep a careful eye out as new items may be caused by remedial work and if any are noted, they should be added to the punch list and remediated.  When the snagging process is completed, the project can move onto the next step. 
 
 ## Blessing and Dedication
 
-It is customary for the Bishop or other senior church representative to bless the bells, if possible while they are still visible in the church or church yard before being lifted into the tower. This may be at a special service or as part of another church service or ringing event. Often the precise time within the project plan will not be known until relatively late so organisation may be quite complicated.
+It is customary for the Bishop or other senior church representative to bless the bells, if possible while they are still visible in the church or church yard before being lifted into the tower. This may be at a special service or as part of another church service or ringing event. Often the precise time within the project plan will not be known until relatively late so organisation may be quite complicated. Bells are at risk of theft while not hung in the tower so additional security arrangements may be required.
 
-Alternatively, the re-dedication may be after the bells have been rehung and perhaps rung open (audibly) for the first time. A video link from the bell chamber to the church can be used so that the bells are visible on a screen during the service. The bells are normally not be rung (other than for basic testing) before the dedication service. Bells are at risk of theft while not hung in the tower so additional security arrangements may be required. 
+Alternatively, the re-dedication may be after the bells have been rehung and perhaps rung open (audibly) for the first time. A video link from the bell chamber to the church can be used so that the bells are visible on a screen during the service. The bells would normally not be rung (other than for basic testing) before the dedication service.  
 
 ## Recommissioning 
 
