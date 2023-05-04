@@ -27,7 +27,7 @@ Church of England PCCs are charities, but only those with incomes over a certain
 
 Only occasionally will a separate project fund be set up independent of church accounts, as a registered charity with its own Trustees. The Charity Commission publishes relevant documents on setting up and running a charity. The charity details should show that the money raised will be spent on the church bell project. It also needs to stipulate how any money will be used if there is a residue remaining after the project is complete. For example, it could be retained for future bell maintenance or transferred to another appropriate bell fund. Further advice is available online for [England and Wales](https://www.gov.uk/government/organisations/charity-commission) and for [Scotland](https://www.oscr.org.uk/).
 
-Managing cash flow can be a challenge – costs incurred exceed funds raised at any time. This may arise when grant awarding organisations only pay on project completion. The project manager and treasurer will need to ensure that specific phases of the work can be financed before work commences and payments become due. 
+Managing cash flow can be a challenge – with the risk of costs incurred exceeding funds raised at any time. This may arise when grant awarding organisations only pay on project completion. The project manager and treasurer will need to ensure that specific phases of the work can be financed before work commences and payments become due. 
 
 The final payments on a contract should only be made after it is certain that all aspects of the contract are fully complete. A proportion of the contract value may be retained for a defined period after completion of the project for “snagging” (referred to in the USA as “completing the punch list”). This enables routine use of the bells for a period after which the bell hangers revisit the installation and make any minor adjustments necessary.
 
@@ -42,7 +42,7 @@ Under this [scheme](https://www.lpwscheme.org.uk/) the VAT paid on work to bells
 [Gift Aid](https://www.gov.uk/donating-to-charity/gift-aid) increases the value of donations to the charity from individuals who are UK taxpayers. Higher rate taxpayers also benefit by the difference between the basic rate and higher rate of tax on their donation. The PCC Treasurer should be familiar with the operation of gift aid, and importantly, what donations may or may not be included as gift aided. *Note that to claim gift aid, the donor must not receive a "benefit”*.
 
 {{< hint info >}}
-Steve Coleman has an article “*Gift Aid – The Complicated Wheezes*” In *The Ringing World* copy of 24 February 2023 (page 166). You may need to find a ringer who is a subscriber to read this.
+Steve Coleman has an article “*Gift Aid – The Complicated Wheezes*” In *The Ringing World* copy of 24 February 2023 (page 166). (You may need to find a ringer who is a subscriber to read this.)
 {{< /hint >}}
 
 ### Gift Aid Small Donations Scheme (GASDS) 
@@ -115,15 +115,15 @@ Keep a record of time spent by volunteers on the project. This may be accounted 
 
 ### Events
 
-Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. Their use is discussed in the [Annexe](../060-stakeholder-engagement/engagement-ideas/) to Stakeholder Engagement.
+Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. Their use is discussed in the [Addendum](../060-stakeholder-engagement/engagement-ideas/) to Stakeholder Engagement.
 
 ### Sales
 
-Some funds may be raised from sales,  or auctions of donated items on a pre-defined basis of sharing proceeds. The prominence of online sale and auction websites has reduced the attraction of such events. If buying items to sell at a profit, be very cautious about the choice of items - yet another set of engraved wine glasses or dusty ornaments may not be just the reminder everyone wants to buy! Something related to the church may be more attractive: Figure x shows a wooden bowl turned up by a local craftsman from an old beam removed (with permission) from the tower as part of a rehanging project. 
+Some funds may be raised from sales,  or auctions of donated items on a pre-defined basis of sharing proceeds. The prominence of online sale and auction websites has reduced the attraction of such events. If buying items to sell at a profit, be very cautious about the choice of items - yet another set of engraved wine glasses or dusty ornaments may not be just the reminder everyone wants to buy! Something related to the church may be more attractive: Figure 1 shows a wooden bowl turned up by a local craftsman from an old beam removed (with permission) from the tower as part of a rehanging project. 
 
 ![Woooden bowl](thornbury-bowl.jpg)
 
-*Figure x: Wooden bowl turned from an old beam*
+*Figure 1: Wooden bowl turned from an old beam*
 
 ### Souvenirs
 
@@ -215,15 +215,15 @@ Professional bid writers offer to prepare grant applications for a fee. However,
 If you are very lucky, a member of your band may be a professional bid writer who will do it for free!
 {{< /hint >}}
 
-Always customise the information presented for the application being made. Although similar information may well be requested by different organisations, make sure that each response is relevant. Copying information may save time but check everything carefully – it is so easy for a tell-tale point to remain visible in later application. If there is a word limit, then keep to it, if religious activities are not supported consider whether a bell project in a church tower would be acceptable. 
+Always customise the information presented for the application being made. Although similar information may well be requested by different organisations, make sure that each response is relevant. Copying information may save time but check everything carefully – it is so easy for a tell-tale point to remain visible in a later application. If there is a word limit, then keep to it. If religious activities are not supported consider whether a bell project in a church tower would be acceptable. 
 
 Vague or unfocused requests are unlikely to be supported. Few organisations will respond to what is clearly a bland request for money. Make your application stand out in a positive way! Reviewers of a large bundle of applications soon grow weary of unclear and poorly presented information. Those reviewing applications will find it easier to recall and refer to an application that stands out for its clarity, what it aims to achieve and how it complies with the funder’s interests. It is inadvisable, however, to make stand out in an extreme way as this may irritate some reviewers. 
 
-The history of the bells and their installation along with the lives of people who have rung them (Figure y) adds human and personal stories and is likely to enhance the case when requesting permission,  particularly in the context of what items may be removed, preserved or altered. Such information will also be of considerable interest for members of the local community; local historians, school and college students may be able to undertake their own research and provide additional information that puts the project in context for the past and for the future, which is history in the making, for the next few hundred years!
+The history of the bells and their installation along with the lives of people who have rung them (Figure 2) adds human and personal stories and is likely to enhance the case when requesting permission,  particularly in the context of what items may be removed, preserved or altered. Such information will also be of considerable interest for members of the local community; local historians, school and college students may be able to undertake their own research and provide additional information that puts the project in context for the past and for the future, which is history in the making, for the next few hundred years!
 
 ![Lawrence tombstone](lawrence-tombstone.jpg)
 
-*Figure y: The names on a tombstone - are there still local families in the area?*
+*Figure 2: The names on a tombstone - are there still local families in the area?*
 
 ### Why are applications not supported? 
 
@@ -239,8 +239,8 @@ Some organisations will provide feedback on grant applications. Was the applicat
 
 | Figure | Details | 
 | :---: | --- | 
-| x | Wooden bowl turned from an old oak beam removed during a rehanging project (Photo: Robin Shipp) |
-| y | Ringer's name on a tombstone. (Photo: Alison Hodge) |
+| 1 | Wooden bowl turned from an old oak beam removed during a rehanging project (Photo: Robin Shipp) |
+| 2 | Ringer's name on a tombstone. (Photo: Alison Hodge) |
 
 ----
 
