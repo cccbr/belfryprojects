@@ -9,7 +9,7 @@ UNDER CONSTRUCTION
 
 Setting out what is to be done in the contract is critical. This defines (a) what is to be done by contractor(s) and (b) the expected outcome of the project. Once the contract is placed, changes may be difficult to make, whether for reasons of practicality or cost. The outcomes of bell projects are normally expected to last for a very long time, decades if not centuries, so it is essential to make sure that the contract is comprehensive and accurate.
 
-This chapter sets out general advice on drawing up a request for quotation, which will then lead to a contract; an [annexe](../070-contract-specification/technical-options/) to this chapter covers technical options which you may need to consider in tailoring your specification to your particular situation.
+This chapter sets out general advice on drawing up a request for quotation, which will then lead to a contract; an [addendum](../070-contract-specification/technical-options/) to this chapter covers technical options which you may need to consider in tailoring your specification to your particular situation.
 
 ## Before You Start
 
@@ -27,7 +27,7 @@ A proper understanding can only be obtained by trust and openness on all sides.
 
 The formal **Client** for the work is the **Tower Authority** so requests for quotations must be placed by them. The ringers will make a significant contribution to drawing up those quotation requests. The **Contractor** will be a bell hanger or bell foundry – see [Specialist Services](../115-specialists/) but note that the Central Council of Church Bell Ringers does not endorse or recommend specific companies.
 
-Points to be included in the request for quotation are given below. You may need to include other technical points as described in the [annexe](../070-contract-specification/technical-options/).
+Points to be included in the request for quotation are given below. You may need to include other technical points as described in the [addendum](../070-contract-specification/technical-options/).
 
 ### General points
 
@@ -39,7 +39,7 @@ Competitive quotations can be misleading for a variety of reasons and this is th
 
 The quotation should outline the requirements and expectations, perhaps with options. If the terms are too prescriptive then this may constrain the **Contractor**. Conversely, not being specific enough (for example, simply asking for the condition of the bells to be improved) may make it difficult to compare the specifications and quotes received, and ultimately to assess whether the **Contractor** has fulfilled the contract in accordance with the specifications. 
 
-Parts of the work may include items not part of the bell installation – masonry work on the tower or work related to access, for example. Possible examples are discussed in more detail in the [annexe](../070-contract-specification/technical-options/). This will require the use of **sub-contractors**. It is usually clearer and lower risk for the contract to be with the bell hanging company (the Main **Contractor**). They then place any subsidiary contracts necessary for aspects of the work that will be required but do not provide themselves.
+Parts of the work may include items not part of the bell installation – masonry work on the tower or work related to access, for example. Possible examples are discussed in more detail in the [addendum](../070-contract-specification/technical-options/). This will require the use of **sub-contractors**. It is usually clearer and lower risk for the contract to be with the bell hanging company (the Main **Contractor**). They then place any subsidiary contracts necessary for aspects of the work that will be required but do not provide themselves.
 
 {{< hint info >}}
 **TOP TIP** Get quotes for the same detailed and agreed project specification
