@@ -48,7 +48,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | Name | Location | Contact |
 | --- | --- | --- |
 | Avon Ropes Ltd  | Mangotsfield, Bristol, UK | https://www.avonropes.co.uk/ |
-| Ellis Ropes ltd | Loughborough, Leics, UJ | https://www.ellisandpritchards.co.uk/ |
+| Ellis Ropes ltd | Loughborough, Leics, UK | https://www.ellisandpritchards.co.uk/ |
 | Malcolm Brown Bellropes | Isle of Lewis, UK | http://www.malcolmbrownbellropes.co.uk/index.html |
 | Mendip Ropemakers Ltd | Martock, Somerset, UK | http://www.mendipropemakers.com/ |
 
@@ -72,7 +72,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../110-project-completion/)** - **[Next Chapter](../120-glossary/)**
+**[Previous Chapter](../110-project-completion/)**
 {{</hint>}}
 
 ----
