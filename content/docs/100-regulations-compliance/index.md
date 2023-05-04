@@ -38,7 +38,7 @@ This section has been prepared in conjunction with [Safe Projects Ltd](http://sa
  
 The Construction (Design & Management) Regulations 2015 (known as CDM 2015) are the main set of regulations for managing the health, safety and welfare of construction projects. CDM is a UK law that applies to **all building and construction work** and includes **new build, demolition, refurbishment, extensions, conversions, repair and maintenance**. The full text of the law may be seen [here](https://www.legislation.gov.uk/uksi/2015/51/contents/made ).
 
-Work to churches is governed by these Regulations and work to bells, whether major rehangs or minor maintenance work by contractors, comes within its remit.
+Work for churches is governed by these Regulations and work to bells, whether major rehangs or minor maintenance work by contractors, comes within its remit.
 
 The great majority of ringers will not encounter CDM, but those that are involved with bell restoration work should be aware this law exists; and if the PCC for which the work is being undertaken knows nothing about it, they should be informed, as they too, are involved. 
 
@@ -106,7 +106,7 @@ Contractors will usually make use of the church electrical supplies so these nee
 
 ## Access During the Project
 
-Tower access may not be appropriate for work during a project so there may be a need for the permanent installation of walkways and steps. Temporary scaffolding or a scaffold tower may also be hired. Flooring will need to be strong enough to support the scaffold and suitable protection for fragile surfaces such as tiles may be essential. Note that scaffolding has to be inspected periodically during work and tagged. Ladders, gantries and platforms must all comply with legislation. 
+The usual tower access may not be appropriate for work during a project so there may be a need for the permanent installation of walkways and steps. Temporary scaffolding or a scaffold tower may also be hired. Flooring will need to be strong enough to support the scaffold and suitable protection for fragile surfaces such as tiles may be essential. Note that scaffolding has to be inspected periodically during work and tagged. Ladders, gantries and platforms must all comply with legislation. 
 
 Scaffolding and ladders erected will make access easier to parts of the building that are not normally accessible. Additional security precautions may be necessary along with checks of insurance policies. One insurer provides a [questionnaire](https://www.ecclesiastical.com/documents/scaffolding-checklist.pdf) for completion with their requirements for scaffold security.
 
