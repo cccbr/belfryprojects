@@ -11,7 +11,7 @@ The project team therefore will explain the reasons for the project, how it will
 
 Some stakeholders may also be willing to donate money towards the project. This should not be the only purpose of engaging with them and will not be the focus of this chapter. That is dealt with [later](https://belfryprojects.cccbr.org.uk/docs/090-project-finance/#raising-money).
 
-This chapter provides a general description of stakeholder engagement. An [Annexe](../060-stakeholder-engagement/engagement-ideas/) provides more detailed ideas which you might also want to consider.
+This chapter provides a general description of stakeholder engagement. An [Addendum](../060-stakeholder-engagement/engagement-ideas/) provides more detailed ideas which you might also want to consider.
 
 ## Who are Stakeholders?
 
