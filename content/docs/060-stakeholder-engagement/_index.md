@@ -5,8 +5,6 @@ weight: 60
 
 # Stakeholder Engagement
 
-UNDER CONSTRUCTION
-
 Bell ringers are likely to understand the reasons for a bell project but others may have little understanding of the justification for the project and expense, or even have much knowledge of bells and bell ringing. The image of monks and choir boys swinging on bell ropes as depicted on Christmas cards, is pervasive but misleading. 
 
 The project team therefore will explain the reasons for the project, how it will contribute to the life of the church and the whole community, not just a few bell ringers! As well as being factual, it will be necessary to inspire and enthuse people. 
@@ -104,6 +102,6 @@ That completes a general description of stakeholder engagement. The [Annexe](../
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), April 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
