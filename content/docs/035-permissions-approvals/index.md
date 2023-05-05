@@ -5,8 +5,6 @@ weight: 35
 
 # Permissions & Approvals
 
-UNDER CONSTRUCTION
-
 Over 90% of the 7000 towers with 3 or more bells hung for full circle change ringing are in a Church of England Church, the remainder being owned by other churches, trusts, local authorities or privately whether in the UK or overseas. This means that bell ringers embarking on a bell project must act in conjunction with others who own and have responsibility for the tower and installation. Other formal permissions and approvals required will depend on ownership and location, but also factors such as the heritage status of the tower and bells. These notes therefore need to be used in conjunction with the relevant laws and requirements that may be applicable in the UK or elsewhere.  This is discussed further in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/020-permissions).
 
 ## Church of England Towers
@@ -61,6 +59,6 @@ This is not likely to be required for a church that is covered by the [Ecclesias
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), March 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
