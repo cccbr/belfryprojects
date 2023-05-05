@@ -5,8 +5,6 @@ weight: 110
 
 # Project Completion
 
-UNDER CONSTRUCTION
-
 ![Bell project completion certificate](completion_title-fig.jpg)
 
 After many months and often years of hard work, with disappointments and excitements on the way, the project will be completed successfully! 
@@ -55,6 +53,6 @@ For many projects it will be appropriate to hold a celebratory event to say “t
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), March 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
