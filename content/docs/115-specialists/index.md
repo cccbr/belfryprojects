@@ -5,9 +5,6 @@ weight: 115
 
 # Specialist Services
 
-
-UNDER CONSTRUCTION
-
 These are names and web addresses (or telephone numbers if no website) of organisations providing specialist services for bell installations.
 
 {{< hint danger >}}
@@ -81,6 +78,6 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), February 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
