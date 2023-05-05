@@ -5,8 +5,6 @@ weight: 90
 
 # Project Finance
 
-UNDER CONSTRUCTION
-
 “*How much is required and how do we raise the money?*” are often the first questions asked when a bell project is suggested. Most churches are short of money whether for routine expenses or for higher priority projects. However, bell projects usually attract donations and support from people who are not otherwise connected with the church, as well as from ringers and regular contributors. Donations may come from unexpected sources, unpredictably, often surprisingly quickly. Bell projects have long-lasting benefits and seem to appeal! 
 
 ## What is the Cost? 
@@ -254,6 +252,6 @@ Some organisations will provide feedback on grant applications. Was the applicat
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), April 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
