@@ -4,8 +4,6 @@ title: Technical Options
 
 # Contract Specification: Technical Options
 
-UNDER CONSTRUCTION
-
 This Addendum supports the process of preparing a contract specification with descriptions of various parts of an installation which may be relevant to your tower. For those less familiar with bell installations, links are included to relevant chapters in the companion document  [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk).
 
 A Code of Practice on the Conservation and repair of bells and bell frames is available as a [PDF download](https://www.churchofengland.org/sites/default/files/2018-11/CCB_Code-of-practice_Conservation-and-repair-of-bells-and-bellframes_2007.pdf).
@@ -207,6 +205,6 @@ It is also worthwhile enabling non-ringers see ringers in action and the bells t
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), April 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
