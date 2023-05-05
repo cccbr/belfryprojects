@@ -5,8 +5,6 @@ weight: 50
 
 # Project Team
 
-UNDER CONSTRUCTION
-
 ![Project team eating lunch](project-team_title.jpg)
 
 A project may be proposed by one or two individuals with ambitions to achieve certain outcomes. However, it is usually better for a small group of people with a wider range of skills, interests and experiences to work together to make the project a success. It is advisable that the project is not the direct responsibility of an existing committee such as the PCC as that will usually have many other commitments and structured ways of operating; the team will need flexibility to plan the work and establish ways of working that will achieve the outcomes intended.
@@ -222,6 +220,6 @@ A nice touch is to provide public recognition of at least the main members of th
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), January 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
