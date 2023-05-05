@@ -4,8 +4,6 @@ title: Ideas for Engagement
 
 # Ideas for Stakeholder Engagement
 
-UNDER CONSTRUCTION
-
 ## General Points
 
  - Consider how to reach out to different groups, particularly those not normally involved in church activities, using various aspect of the project that will be relevant to different groups. 
@@ -221,6 +219,6 @@ Events take a lot of work: remember that both preparation and clearing up afterw
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), April 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
