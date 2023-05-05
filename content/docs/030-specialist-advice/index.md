@@ -3,8 +3,6 @@ title: Getting Specialist Advice
 weight: 30
 ---
 
-UNDER CONSTRUCTION
-
 # Getting Specialist Advice
 
 It is only with specialist advice that the full scale and scope of a project is likely to be determined. Every tower and ring of bells is unique so advice on the tower and bell installation will have to relate to each project specifically. 
@@ -180,6 +178,6 @@ You will need to understand and balance the information given, particularly wher
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (Under construction), May 2023
+Version 1.0, May 2023
 
 © 2023 Central Council of Church Bell Ringers
