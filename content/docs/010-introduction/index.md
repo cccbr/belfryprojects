@@ -64,7 +64,7 @@ There are several circumstances which may result in the need for a project invol
 
 *Figure 2: Church of the Transfiguration, Orleans, MA 02653 USA – a new church building dedicated in 2000, bells installed 2010*
 
-Each project will be unique, often in a historic building, requiring design work, traditional craft skills, as well as the use of appropriate equipment, tools and facilities. [Specialist advice](../030-specialist-advice/) will be required. There are also [permissions](../080-permissions-approvals/) and [regulations](../100-regulations-compliance/) that need to be considered.
+Each project will be unique, often in a historic building, requiring design work, traditional craft skills, as well as the use of appropriate equipment, tools and facilities. [Specialist advice](../030-specialist-advice/) will be required. There are also [permissions](../035-permissions-approvals/) and [regulations](../100-regulations-compliance/) that need to be considered.
 
 There will be concern about the likely expense. However, [fund raising](../090-project-finance) for bell projects is often very successful, with considerable sums raised by a wide variety of means.
 
