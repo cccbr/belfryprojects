@@ -50,7 +50,7 @@ The project is likely to be launched before the faculty and other approvals are 
 
 ### Events
 
-Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. You may find, however, that organising and participating in events has a beneficial effect in terms of publicity and motivation that outweighs financial rewards. Details are given in the [Annexe](../060-stakeholder-engagement/engagement-ideas/). 
+Events take a lot of planning, hard work and effort and do not necessarily raise income in proportion. You may find, however, that organising and participating in events has a beneficial effect in terms of publicity and motivation that outweighs financial rewards. Details are given in the [Addendum](../060-stakeholder-engagement/engagement-ideas/). 
 
 ###   Marking key points
 
@@ -82,13 +82,13 @@ Finally, there is likely to be a succession of requests by visiting bands to rin
 
 ## Ideas for Engagement
 
-That completes a general description of stakeholder engagement. The [Annexe](../060-stakeholder-engagement/engagement-ideas/) to this chapter provides more detailed ideas which you might want to consider.
+That completes a general description of stakeholder engagement. The [Addendum](../060-stakeholder-engagement/engagement-ideas/) to this chapter provides more detailed ideas which you might want to consider.
 
 ## Image Credits
 
 | Figure | Details | 
 | :---: | --- | 
-| ?? | The new ring of 8 bells in St Bridget's Church, Moresby, on 13th July, 2018. (Photo: Ron East, Carlisle Diocesan Bell Adviser) |
+| 1 | The new ring of 8 bells in St Bridget's Church, Moresby, on 13th July, 2018. (Photo: Ron East, Carlisle Diocesan Bell Adviser) |
 
 ----
 
