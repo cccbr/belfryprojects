@@ -44,7 +44,7 @@ For many projects it will be appropriate to hold a celebratory event to say “t
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../100-regulations-compliance/)** - **[Next Chapter](../120-glossary/)**
+**[Previous Chapter](../100-regulations-compliance/)** - **[Next Chapter](../115-specialists/)**
 {{</hint>}}
 
 ----
