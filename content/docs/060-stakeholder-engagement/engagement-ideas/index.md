@@ -71,7 +71,7 @@ Possible online examples are:
  - [Eastnor Church](https://www.eastnorchurch.org.uk/activities/)
  - [Ewhurst Bells Restoration](https://www.friendsofewhurstchurch.com/bells)
 
-Suggestions of other attractive examples will be welcome. Contact SMsec@cccbr.org.uk. 
+Suggestions of other attractive examples will be welcome. Contact smSec@cccbr.org.uk. 
 
 ### Newsletters and blogs 
 
