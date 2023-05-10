@@ -19,7 +19,9 @@ These pages provide:
   - an outline of some of the legal requirements
   - suggestions for raising the money required
 
-Every project will be different so there is no one way to approach a bell project. In practice, it is by considering local needs and interests that a project will stand out and be successful. 
+Every project will be different so there is no one way to approach a bell project. In practice, it is by considering local needs and interests that a project will stand out and be successful.
+
+Some readers may have already had experience in running a bell project. To help those who have not, any constructive comments and examples of completed projects will be most welcome - Contact: smSec@cccbr.org.uk.
 
 ## Finding Your Way Round
 
