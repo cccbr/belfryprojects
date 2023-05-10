@@ -31,7 +31,7 @@ Each church will have its own policies and practices but these are unlikely to e
 ### CDM (Construction Design and Management) Regulations 2015
 
 {{<hint warning>}}
-This section has been prepared in conjunction with [Safe Projects Ltd](http://safeprojects.co.uk).
+This section has been prepared in conjunction with Safe Projects Ltd.
 {{</hint>}}
  
 The Construction (Design & Management) Regulations 2015 (known as CDM 2015) are the main set of regulations for managing the health, safety and welfare of construction projects. CDM is a UK law that applies to **all building and construction work** and includes **new build, demolition, refurbishment, extensions, conversions, repair and maintenance**. The full text of the law may be seen [here](https://www.legislation.gov.uk/uksi/2015/51/contents/made ).
