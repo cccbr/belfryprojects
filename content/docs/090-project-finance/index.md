@@ -93,6 +93,12 @@ Legacies, some substantial, have unexpectedly provided the stimulus for bell pro
 
 Donations may also be requested in memory of a deceased person in lieu of flowers. 
 
+![Tandy legacy](tandy-legacy.jpg)
+
+*Figure 1: Plaque commemorating a legacy donation*
+
+Substantial donations from a legacy should be acknowledged publicly if possible (Figure 1).
+
 ### Sponsorship of specific items 
 
 Sponsoring a new bell is popular as it is a very tangible and lasting item. A bell may be cast with a brief inscription suggested by donor. 
@@ -121,7 +127,7 @@ Some funds may be raised from sales,  or auctions of donated items on a pre-defi
 
 ![Woooden bowl](thornbury-bowl.jpg)
 
-*Figure 1: Wooden bowl turned from an old beam*
+*Figure 2: Wooden bowl turned from an old beam*
 
 ### Souvenirs
 
@@ -221,7 +227,7 @@ The history of the bells and their installation along with the lives of people w
 
 ![Lawrence tombstone](lawrence-tombstone.jpg)
 
-*Figure 2: The names on a tombstone - are there still local families in the area?*
+*Figure 3: The names on a tombstone - are there still local families in the area?*
 
 ### Why are applications not supported? 
 
@@ -236,9 +242,10 @@ Some organisations will provide feedback on grant applications. Was the applicat
 ## Image Credits
 
 | Figure | Details | 
-| :---: | --- | 
-| 1 | Wooden bowl turned from an old oak beam removed during a rehanging project (Photo: Robin Shipp) |
-| 2 | Ringer's name on a tombstone. (Photo: Alison Hodge) |
+| :---: | --- |
+| 1 | Plaque in ringing room at Malvern Priory acknowledging a legacy donation (Photo: Alison Hodge) |
+| 2 | Wooden bowl turned from an old oak beam removed during a rehanging project (Photo: Robin Shipp) |
+| 3 | Ringer's name on a tombstone. (Photo: Alison Hodge) |
 
 ----
 
@@ -252,6 +259,6 @@ Some organisations will provide feedback on grant applications. Was the applicat
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, May 2023
+Version 1.1, May 2023
 
 © 2023 Central Council of Church Bell Ringers
