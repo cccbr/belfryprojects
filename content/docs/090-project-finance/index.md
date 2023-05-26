@@ -243,8 +243,8 @@ Some organisations will provide feedback on grant applications. Was the applicat
 
 | Figure | Details | 
 | :---: | --- |
-| 1 | Plaque in ringing room at Malvern Priory acknowledging a legacy donation (Photo: Alison Hodge) |
-| 2 | Wooden bowl turned from an old oak beam removed during a rehanging project (Photo: Robin Shipp) |
+| 1 | Plaque in ringing room at Malvern Priory acknowledging a legacy donation. (Photo: Alison Hodge) |
+| 2 | Wooden bowl turned from an old oak beam removed during a rehanging project. (Photo: Robin Shipp) |
 | 3 | Ringer's name on a tombstone. (Photo: Alison Hodge) |
 
 ----
