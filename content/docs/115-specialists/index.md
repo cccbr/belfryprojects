@@ -5,7 +5,7 @@ weight: 115
 
 # Specialist Services
 
-These are names and web addresses (or telephone numbers if no website) of organisations providing specialist services for bell installations.
+These are names and contact details of organisations providing specialist services for bell installations.
 
 {{< hint danger >}}
 Note that the Central Council of Church Bell Ringers does not endorse or recommend specific companies. The information below is added to assist readers. Legitimate requests for amendments or additions may be requested through the Stewardship & Management Work Group Secretary at smSec@cccbr.org.uk.
