@@ -167,6 +167,12 @@ The opportunity should be seized to create a better environment for recruiting, 
 
 *Figure 6: Display of old clappers in Widecombe Church, Devon*
 
+### Accommodating disabled ringers
+
+Considering the physical efforts required in ringing and the restricted access at many towers, it has often been assumed that it is not possible for a disabled person to ring safely. But public attitudes to disability are changing and examples can be found in the wide variety of sports where athletes, possibly with modified equipment, compete at a high level.
+
+The ways in which disabled ringers can be accommodated in existing towers is discussed in [Running a Tower](https://runningatower.cccbr.org.uk/docs/healthsafety/#disabled-ringers). A major project may offer additional possibilities here – for example, incorporating changes to access and the layout of a ringing room that would be difficult and expensive in an existing structure. This might even be a deciding factor in a decision on whether to re-locate the ringing room to a ground floor.
+
 ### Practical considerations 
 
 Work in a bell tower inevitably disturbs or creates a considerable amount of dust and debris, some accumulated over decades or centuries. Care must be taken to protect other fabric and fittings in the building during the work, especially those that are fragile or delicate. Items such as memorials, lectern, wood and stonework may need covering. For the most sensitive items like the organ, this may demand a separate contract from an organ builder. 
