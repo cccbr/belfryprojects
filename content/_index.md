@@ -23,6 +23,13 @@ Every project will be different so there is no one way to approach a bell projec
 
 Some readers may have already had experience in running a bell project. To help those who have not, any constructive comments and examples of completed projects will be most welcome - Contact: smSec@cccbr.org.uk.
 
+{{< hint warning >}}
+The Stewardship & Management Workgroup have produced two other
+documents:
+ - **[Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/)**, which is aimed at the Steeple Keeper - the one responsible for keeping the bells in order.
+ - **[Running a Tower](https://runningatower.cccbr.org.uk/)**, which is aimed at the Tower Captain - the person with overall responsibility for looking after all aspects of a tower.
+{{< /hint >}}
+
 ## Finding Your Way Round
 
 If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
@@ -39,6 +46,7 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 | Date | Changes |
 | ---- | ---- |
+| 24/06/2023 | Home page: Added links to Belfry Upkeep and Running a Tower |
 | 23/06/2023 | Scoping Project: Section added on disabled ringers |
 | 05/05/2023 | Launch, all chapters at V1.0 |
 
@@ -54,6 +62,6 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, June 2023
+Version 1.0.2, June 2023
 
 © 2023 Central Council of Church Bell Ringers
