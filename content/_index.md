@@ -50,7 +50,7 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 | Date | Changes |
 | ---- | ---- |
-| 08/07/2023 \ Home Page: Notes added on Search Box issue |
+| 08/07/2023 | Home Page: Notes added on Search Box issue |
 | 24/06/2023 | Home page: Added links to Belfry Upkeep and Running a Tower |
 | 23/06/2023 | Scoping Project: Section added on disabled ringers |
 | 05/05/2023 | Launch, all chapters at V1.0 |
