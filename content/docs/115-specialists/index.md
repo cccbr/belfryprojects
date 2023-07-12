@@ -66,6 +66,15 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | The Morton Partnership | London and South East, UK | https://www.themortonpartnership.co.uk |
 | Ward Cole Consulting Engineers | Lincoln, London & Nottingham, UK | https://www.wardcole.co.uk |
 
+## Tower Building Services
+
+This items such as church tower maintenance, bell frame treating & painting, louvres & adjustable sound control, floors and access routes.
+
+| Name | Location | Contact |
+| --- | --- | --- |
+| John Taylor & Co | Loughborough, Leics, UK | https://taylorbells.co.uk/building-services  |
+| Paul Mason | Northamptonshire | +44 (0) 7939 022920, paulmason5040@gmail.com |
+
 ----
 
 {{<hint info>}}
@@ -78,6 +87,6 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1, June 2023
+Version 1.1.1, July 2023
 
 © 2023 Central Council of Church Bell Ringers
