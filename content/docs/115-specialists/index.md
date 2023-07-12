@@ -68,7 +68,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 
 ## Tower Building Services
 
-This items such as church tower maintenance, bell frame treating & painting, louvres & adjustable sound control, floors and access routes.
+This covers items such as church tower maintenance, bell frame treating & painting, louvres & adjustable sound control, floors and access routes.
 
 | Name | Location | Contact |
 | --- | --- | --- |
