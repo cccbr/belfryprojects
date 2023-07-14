@@ -33,14 +33,14 @@ The final payments on a contract should only be made after it is certain that al
 
 ### Listed Places of Worship Grant Scheme
 
-Under this [scheme](https://www.lpwscheme.org.uk/) the VAT paid on work to bells and bell frames is recovered by a grant to the same value, subject to certain conditions. All purchases and contracts must be placed by the PCC for the tax to be reclaimed. The PCC treasurer should be familiar with this scheme. 
+The [Listed Places of Worship (LPW) Grant Scheme](https://listed-places-of-worship-grant.dcms.gov.uk/) gives grants covering the VAT on repairs of over £1,000 to listed buildings used as places of worship. You can also submit one claim in any 12-month period that is less than £1,000, but more than £500. This is subject to detailed conditions and you will need to study the website carefully. Fortunately,Steve Coleman has an article "*Avoiding the Dreaded VAT*" in *The Ringing World* issue of 30 June 2023 (page 660) which provides extensive guidance. Note that the web address quoted in the article has recently changed to the one given here.
 
 ### Gift Aid
 
 [Gift Aid](https://www.gov.uk/donating-to-charity/gift-aid) increases the value of donations to the charity from individuals who are UK taxpayers. Higher rate taxpayers also benefit by the difference between the basic rate and higher rate of tax on their donation. The PCC Treasurer should be familiar with the operation of gift aid, and importantly, what donations may or may not be included as gift aided. *Note that to claim gift aid, the donor must not receive a "benefit”*.
 
 {{< hint info >}}
-Steve Coleman has an article “*Gift Aid – The Complicated Wheezes*” In *The Ringing World* copy of 24 February 2023 (page 166). (You may need to find a ringer who is a subscriber to read this.)
+Steve Coleman has an article “*Gift Aid – The Complicated Wheezes*” in *The Ringing World* copy of 24 February 2023 (page 166). (You may need to find a ringer who is a subscriber to read this.)
 {{< /hint >}}
 
 ### Gift Aid Small Donations Scheme (GASDS) 
@@ -259,6 +259,6 @@ Some organisations will provide feedback on grant applications. Was the applicat
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1, May 2023
+Version 1.1.1, July 2023
 
 © 2023 Central Council of Church Bell Ringers
