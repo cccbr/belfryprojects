@@ -33,7 +33,7 @@ The final payments on a contract should only be made after it is certain that al
 
 ### Listed Places of Worship Grant Scheme
 
-The [Listed Places of Worship (LPW) Grant Scheme](https://listed-places-of-worship-grant.dcms.gov.uk/) gives grants covering the VAT on repairs of over £1,000 to listed buildings used as places of worship. You can also submit one claim in any 12-month period that is less than £1,000, but more than £500. This is subject to detailed conditions and you will need to study the website carefully. Fortunately,Steve Coleman has an article "*Avoiding the Dreaded VAT*" in *The Ringing World* issue of 30 June 2023 (page 660) which provides extensive guidance. Note that the web address quoted in the article has recently changed to the one given here.
+The [Listed Places of Worship (LPW) Grant Scheme](https://listed-places-of-worship-grant.dcms.gov.uk/) gives grants covering the VAT on repairs of over £1,000 to listed buildings used as places of worship. You can also submit one claim in any 12-month period that is less than £1,000, but more than £500. This is subject to detailed conditions and you will need to study the website carefully. Fortunately, Steve Coleman has an article "*Avoiding the Dreaded VAT*" in *The Ringing World* issue of 30 June 2023 (page 660) which provides extensive guidance. Note that the web address quoted in the article has recently changed to the one given here.
 
 ### Gift Aid
 
