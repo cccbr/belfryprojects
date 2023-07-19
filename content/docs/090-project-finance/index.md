@@ -239,7 +239,7 @@ Some organisations will provide feedback on grant applications. Was the applicat
 Steve Coleman has published a series of articles in *The Ringing World* under the heading of *Ringing and Money*. These provide valuable additional information for several aspects of Project Finance and the references to the articles are given below.
 
 {{< hint info >}}
-A subscription is required for access to articles in *The Ringing World*. If necessary, a local ringer or your local ringing Society or Association should be able to obtain the article.
+A subscription is required for access to articles in *The Ringing World*. If necessary, a local ringer or your local ringing Society or Association should be able to help.
 {{< /hint >}}
 
 | Title | Issue | Date | Page |
@@ -252,8 +252,8 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | Donating in Your Will | 5841 | 7 April 2023 | 306 |
 | GASDS and Parish Giving Scheme | 5844 | 28 April 2023 | 376 |
 | Avoiding the Dreaded VAT | 5853 | 30 June 2023 | 660 |
-
 {{< hint info >}}
+
 **TOP TIP** Customise funding requests to meet each recipient’s criteria and interests.
 {{< /hint >}}
 
