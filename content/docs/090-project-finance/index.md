@@ -248,7 +248,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 
 | Title | Issue | Date | Page |
 | ---- | :----: | :----: | :----: |
-| Gift Aid in 2023 | 5831  | Jan 2023 | 76 |
+| Gift Aid in 2023 | 5831  | 27 Jan 2023 | 76 |
 | Gift Aid – The Simple Wheezes | 5833 | 10 Feb 2023 | 124 |
 | Gift Aid – The Complicated Wheezes | 5835 | 24 Feb 2023 | 166 |
 | Gift Aid – What *doesn’t* Count | 5837 | 10 March 2023 | 213 |
