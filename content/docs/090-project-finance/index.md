@@ -30,7 +30,7 @@ Managing cash flow can be a challenge – with the risk of costs incurred exceed
 The final payments on a contract should only be made after it is certain that all aspects of the contract are fully complete. A proportion of the contract value may be retained for a defined period after completion of the project for “snagging” (referred to in the USA as “completing the punch list”). This enables routine use of the bells for a period after which the bell hangers revisit the installation and make any minor adjustments necessary.
 
 {{< hint info >}}
-Steve Coleman has contributed a series of articles entitled *Ringing and Money* to *The Ringing World*. A list of the references is included [below](#ringing-and-money].
+Steve Coleman has contributed a series of helpful articles entitled *Ringing and Money* to *The Ringing World*. A list of the references is included [below](#ringing-and-money].
 {{< /hint >}}
 
 ## Schemes Offering Tax Benefits 
@@ -234,6 +234,10 @@ Funds are limited so regrettably not all grant requests will be accepted. A reje
 
 Some organisations will provide feedback on grant applications. Was the application non-compliant or did it not fit the criteria well enough? Was it incomplete or unclear? 
 
+{{< hint info >}}
+**TOP TIP** Customise funding requests to meet each recipient’s criteria and interests.
+{{< /hint >}}
+
 ## Ringing and Money
 
 Steve Coleman has published a series of articles in *The Ringing World* under the heading of *Ringing and Money*. These provide valuable additional information for several aspects of Project Finance and the references to the articles are given below.
@@ -252,10 +256,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | Donating in Your Will | 5841 | 7 April 2023 | 306 |
 | GASDS and Parish Giving Scheme | 5844 | 28 April 2023 | 376 |
 | Avoiding the Dreaded VAT | 5853 | 30 June 2023 | 660 |
-{{< hint info >}}
-
-**TOP TIP** Customise funding requests to meet each recipient’s criteria and interests.
-{{< /hint >}}
 
 ## Image Credits
 
