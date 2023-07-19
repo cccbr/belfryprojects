@@ -29,27 +29,26 @@ Managing cash flow can be a challenge – with the risk of costs incurred exceed
 
 The final payments on a contract should only be made after it is certain that all aspects of the contract are fully complete. A proportion of the contract value may be retained for a defined period after completion of the project for “snagging” (referred to in the USA as “completing the punch list”). This enables routine use of the bells for a period after which the bell hangers revisit the installation and make any minor adjustments necessary.
 
+{{< hint info >}}
+Steve Coleman has contributed a series of articles entitled *Ringing and Money* to *The Ringing World*. A list of the references is included [below](#ringing-and-money].
+{{< /hint >}}
+
 ## Schemes Offering Tax Benefits 
 
 ### Listed Places of Worship Grant Scheme
 
-The [Listed Places of Worship (LPW) Grant Scheme](https://listed-places-of-worship-grant.dcms.gov.uk/) gives grants covering the VAT on repairs of over £1,000 to listed buildings used as places of worship. You can also submit one claim in any 12-month period that is less than £1,000, but more than £500. This is subject to detailed conditions and you will need to study the website carefully. Fortunately, Steve Coleman has an article "*Avoiding the Dreaded VAT*" in *The Ringing World* issue of 30 June 2023 (page 660) which provides extensive guidance. Note that the web address quoted in the article has recently changed to the one given here.
+The [Listed Places of Worship (LPW) Grant Scheme](https://listed-places-of-worship-grant.dcms.gov.uk/) gives grants covering the VAT on repairs of over £1,000 to listed buildings used as places of worship. You can also submit one claim in any 12-month period that is less than £1,000, but more than £500. This is subject to detailed conditions and you will need to study the website carefully. Fortunately, Steve Coleman has an [article](#ringing-and-money) "*Avoiding the Dreaded VAT*"  which provides extensive guidance. Note that the web address quoted in the article has recently changed to the one given here.
 
 ### Gift Aid
 
 [Gift Aid](https://www.gov.uk/donating-to-charity/gift-aid) increases the value of donations to the charity from individuals who are UK taxpayers. Higher rate taxpayers also benefit by the difference between the basic rate and higher rate of tax on their donation. The PCC Treasurer should be familiar with the operation of gift aid, and importantly, what donations may or may not be included as gift aided. *Note that to claim gift aid, the donor must not receive a "benefit”*.
 
-{{< hint info >}}
-Steve Coleman has an article “*Gift Aid – The Complicated Wheezes*” in *The Ringing World* copy of 24 February 2023 (page 166). (You may need to find a ringer who is a subscriber to read this.)
-{{< /hint >}}
+Steve Coleman has several [articles](#ringing-and-money) on Gift Aid.
+
 
 ### Gift Aid Small Donations Scheme (GASDS) 
 
-[This Scheme](https://www.churchofengland.org/resources/building-generous-church/enabling-giving/giving-mechanisms/gift-aid) is for small donations up to a total limit; the administration is more straightforward.
-
-{{< hint info >}}
-Steve Coleman has another article “*GASDS – Gift Aid for Small Donations*” in *The Ringing World*, 24 March 2023 (page 277). There is a short follow-up article “*GASDS and Parish Giving Scheme*” in the 28 April 2023 issue (page 376) discussing problems which might arise from the *Parish Giving Scheme*. You should consult this if you are taking advantage of GASDS.
-{{< /hint >}}
+[This Scheme](https://www.churchofengland.org/resources/building-generous-church/enabling-giving/giving-mechanisms/gift-aid) is for small donations up to a total limit; the administration is more straightforward. Steve Coleman has two [articles](#ringing-and-money) “*GASDS – Gift Aid for Small Donations*” and “*GASDS and Parish Giving Scheme*”.
 
 ### Payroll Giving 
 
@@ -89,7 +88,7 @@ This is a modern variant of traditional “public subscription” using online p
 
 ### Legacies 
 
-Legacies, some substantial, have unexpectedly provided the stimulus for bell projects. Although a legacy cannot be assumed for any particular project, those writing their will may consider legacies to Bell Restoration Funds held by one of the [ringing societies](https://cccbr.org.uk/about/members/) or the [Central Council of Church Bell Ringers](https://cccbr.org.uk/cc-bell-ringing-fund/) itself.
+Legacies, some substantial, have unexpectedly provided the stimulus for bell projects. Although a legacy cannot be assumed for any particular project, those writing their will may consider legacies to Bell Restoration Funds held by one of the [ringing societies](https://cccbr.org.uk/about/members/) or the [Central Council of Church Bell Ringers](https://cccbr.org.uk/cc-bell-ringing-fund/) itself. Steve Coleman has an [article](#ringing-and-money) "*Donating in Your Will*".
 
 Donations may also be requested in memory of a deceased person in lieu of flowers. 
 
@@ -235,6 +234,25 @@ Funds are limited so regrettably not all grant requests will be accepted. A reje
 
 Some organisations will provide feedback on grant applications. Was the application non-compliant or did it not fit the criteria well enough? Was it incomplete or unclear? 
 
+## Ringing and Money
+
+Steve Coleman has published a series of articles in *The Ringing World* under the heading of *Ringing and Money*. These provide valuable additional information for several aspects of Project Finance and the references to the articles are given below.
+
+{{< hint info >}}
+A subscription is required for access to articles in *The Ringing World*. If necessary, a local ringer or your local ringing Society or Association should be able to obtain the article.
+{{< /hint >}}
+
+| Title | Issue | Date | Page |
+| ---- | :----: | :----: | :----: |
+| Gift Aid in 2023 | 5831  | Jan 2023 | 76 |
+| Gift Aid – The Simple Wheezes | 5833 | 10 Feb 2023 | 124 |
+| Gift Aid – The Complicated Wheezes | 5835 | 24 Feb 2023 | 166 |
+| Gift Aid – What *doesn’t* Count | 5837 | 10 March 2023 | 213 |
+| GASDS – Gift Aid for Small Donations | 5839 | 24 March 2023 | 277 |
+| Donating in Your Will | 5841 | 7 April 2023 | 306 |
+| GASDS and Parish Giving Scheme | 5844 | 28 April 2023 | 376 |
+| Avoiding the Dreaded VAT | 5853 | 30 June 2023 | 660 |
+
 {{< hint info >}}
 **TOP TIP** Customise funding requests to meet each recipient’s criteria and interests.
 {{< /hint >}}
@@ -259,6 +277,6 @@ Some organisations will provide feedback on grant applications. Was the applicat
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.1, July 2023
+Version 1.1.2, July 2023
 
 © 2023 Central Council of Church Bell Ringers
