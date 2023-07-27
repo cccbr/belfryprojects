@@ -73,7 +73,7 @@ This covers items such as church tower maintenance, bell frame treating & painti
 | Name | Location | Contact |
 | --- | --- | --- |
 | John Taylor & Co | Loughborough, Leics, UK | https://taylorbells.co.uk/building-services  |
-| Paul Mason | Northamptonshire | +44 (0) 7939 022920, paulmason5040@gmail.com |
+| Paul Mason | Northamptonshire, UK | +44 (0) 7939 022920, paulmason5040@gmail.com |
 
 ## Peal Boards
 
