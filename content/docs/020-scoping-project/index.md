@@ -129,6 +129,9 @@ Traditionally, bell frames were located at the level of the louvres. Depending o
  - If the frame is historic, you may have to provide access for inspection and recording – remember that you may not have a solid floor below the old frame.
  - You will also need to have access to the louvres, to check and maintain the grills protecting the tower from access by birds, squirrels and other wildlife.
 
+### Peal Boards
+During a restoration project, there may be a need to relocate old peal boards. You may even decide on a new board – perhaps a double one showing the last peal on the old ring and the first after restoration. This will certainly need to be included in the items to be agreed with the tower authority and they must consider whether further permissions are required according to the Church of England Faculty process. Useful advice on this is provided in an article *New peal boards and restorations* in the 30 June 2023 issue of *The Ringing World* (p 675). A list of specialists providing peal boards is included in the [Specialist Suppliers](../115-specialists#peal-boards) chapter.
+
 ### What other improvements should be made? 
 
 Before work is underway consider the need for the following:
@@ -234,6 +237,6 @@ Once the scope of the project has been outlined in detail, the Project Leader wi
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1, June 2023
+Version 1.1.1, July 2023
 
 © 2023 Central Council of Church Bell Ringers
