@@ -50,7 +50,7 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 | Date | Changes |
 | ---- | ---- |
-| 27/07/2023 | Scoping Project and Specialist Suppliers: Added information on peal boards |
+| 27/07/2023 | Scoping Project and Specialist Services: Added information on peal boards |
 | 19/07/2023 | Project Finance: Section added on 'Ringing and Money' |
 | 14/07/2023 | Project Finance: More information on VAT |
 | 12/07/2023 | Specialist Services: Tower Building Services added |
