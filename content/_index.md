@@ -34,10 +34,6 @@ documents:
 
 If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
 
-{{< hint info >}}
-If the Search Box (top left below the title) does not work the information may be found using the left-hand menu and the right-hand menu (showing sections within the current chapter). This problem appears to be due to an issue with the hosting software which we are working to address. We apologise for any inconvenience.
-{{< /hint >}}
-
 ## Image Credits
 
 Credits will be found at the end of each chapter. The picture on this page was taken by Sue McClaughry during the work in 2019 to dismantle the bells at St Andrew’s Church, Calstock, Cornwall, as part of the restoration project. Sue was the winner of the 2020 CCCBR Westley Award for Church Bell Maintenance. 
