@@ -5,6 +5,8 @@ weight: 100
 
 # Regulations & Compliance Matters
 
+![Lowering bell](lowering-bell.jpg)
+
 {{<hint danger>}}
 During a bell project, various regulations, standards, policies and practices will be encountered. Some of these will be managed by suppliers and contractors but ringers and tower authorities should be aware of the implications as failure to observe them can have serious repercussions.
 {{</hint>}}
@@ -151,6 +153,10 @@ Church towers may be home to various forms of wildlife, some benign, some damagi
  - Inevitably, any work in the tower will generate dust and debris. An organ, for example, will be particularly vulnerable and may need to be protected; organ builders are accustomed to providing this service. Protective sheeting, flooring and “tack mats” will be required, and extra cleaning support will help with keeping dust levels down throughout the work. Bell hangers are familiar with the likely risks and should advise. 
  - Some contractors will include specific requirements in their contract documents so these need to be noted and adhered to. 
 
+| Figure | Details | 
+| :---: | --- | 
+| Title | Bell project at Great Malvern Priory (Artist: Simon Mellor)
+
 ----
 
 {{<hint info>}}
@@ -163,6 +169,6 @@ Church towers may be home to various forms of wildlife, some benign, some damagi
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, May 2023
+Version 1.1, August 2023
 
 © 2023 Central Council of Church Bell Ringers
