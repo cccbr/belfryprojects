@@ -263,7 +263,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 
 | Figure | Details | 
 | :---: | --- |
-| Title | Bell project at Great Malvern Priory (c) Simon Mellor |
+| Title | Bell project at Great Malvern Priory © Simon Mellor |
 | 1 | Plaque in ringing room at Malvern Priory acknowledging a legacy donation. (Photo: Alison Hodge) |
 | 2 | Wooden bowl turned from an old oak beam removed during a rehanging project. (Photo: Robin Shipp) |
 | 3 | Ringer's name on a tombstone. (Photo: Alison Hodge) |
