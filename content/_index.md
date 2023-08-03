@@ -40,6 +40,7 @@ Credits will be found at the end of each chapter. The picture on this page was t
 
 {{< hint info >}}
 Simon Mellor,  Head of Art at Malvern College prep school in Colwall, drew various sketches during the Great Malvern Priory bell project. With his permission, we have  incorporated five as ‘Title Pictures’ in chapters. We are very grateful to him for this permission.  Simon Mellor retains copyright of the images.
+
 *simon.mellor@thedownsmalvern.org.uk.*
 {{< /hint >}}
 
