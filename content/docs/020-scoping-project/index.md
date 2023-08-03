@@ -5,6 +5,8 @@ weight: 20
 
 # Scoping the Project
 
+![Lowering bell](bell-window.jpg)
+
 {{<hint warning>}}
 Of the over 7000 rings of bells in the world, around 90% are within the jurisdiction of the Church of England (CoE). We will use terms such as 'incumbent', 'church wardens' and 'Parochial Church Council (PCC)' in this document. We trust you can translate these into the equivalent terms in other jurisdictions.
 {{</hint>}}
