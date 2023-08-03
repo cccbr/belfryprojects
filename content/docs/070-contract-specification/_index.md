@@ -5,6 +5,8 @@ weight: 70
 
 # Contract Specification
 
+![Pulling bell along aisle](pulling-down-aisle.jpg)
+
 Setting out what is to be done in the contract is critical. This defines (a) what is to be done by contractor(s) and (b) the expected outcome of the project. Once the contract is placed, changes may be difficult to make, whether for reasons of practicality or cost. The outcomes of bell projects are normally expected to last for a very long time, decades if not centuries, so it is essential to make sure that the contract is comprehensive and accurate.
 
 This chapter sets out general advice on drawing up a request for quotation, which will then lead to a contract; an [addendum](../070-contract-specification/technical-options/) to this chapter covers technical options which you may need to consider in tailoring your specification to your particular situation.
@@ -116,6 +118,12 @@ Since PCC members and others reviewing the quotes may not be ringers and familia
 
 If in doubt ask the companies who are quoting. Finally make sure that all parties are completely clear about what is being provided by whom and when – before the person in authority finally signs the contract. 
 
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| Title | Bell project at Great Malvern Priory (Artist: Simon Mellor) |
+
 ----
 
 {{<hint info>}}
@@ -128,6 +136,6 @@ If in doubt ask the companies who are quoting. Finally make sure that all partie
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, May 2023
+Version 1.1, August 2023
 
 © 2023 Central Council of Church Bell Ringers
