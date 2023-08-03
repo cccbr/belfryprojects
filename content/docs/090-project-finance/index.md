@@ -5,6 +5,8 @@ weight: 90
 
 # Project Finance
 
+![Lowering scaffolding](lowering-scaffolding.jpg)
+
 “*How much is required and how do we raise the money?*” are often the first questions asked when a bell project is suggested. Most churches are short of money whether for routine expenses or for higher priority projects. However, bell projects usually attract donations and support from people who are not otherwise connected with the church, as well as from ringers and regular contributors. Donations may come from unexpected sources, unpredictably, often surprisingly quickly. Bell projects have long-lasting benefits and seem to appeal! 
 
 ## What is the Cost? 
@@ -261,6 +263,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 
 | Figure | Details | 
 | :---: | --- |
+| Title | Bell project at Great Malvern Priory (Artist: Simon Mellor) |
 | 1 | Plaque in ringing room at Malvern Priory acknowledging a legacy donation. (Photo: Alison Hodge) |
 | 2 | Wooden bowl turned from an old oak beam removed during a rehanging project. (Photo: Robin Shipp) |
 | 3 | Ringer's name on a tombstone. (Photo: Alison Hodge) |
@@ -277,6 +280,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.2, July 2023
+Version 1.1.3, August 2023
 
 © 2023 Central Council of Church Bell Ringers
