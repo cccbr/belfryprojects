@@ -38,6 +38,12 @@ If you are working on a computer browser (or on a tablet in landscape orientatio
 
 Credits will be found at the end of each chapter. The picture on this page was taken by Sue McClaughry during the work in 2019 to dismantle the bells at St Andrew’s Church, Calstock, Cornwall, as part of the restoration project. Sue was the winner of the 2020 CCCBR Westley Award for Church Bell Maintenance. 
 
+{{< hint info >}}
+We have permission to use sketches made by Simon Mellor during the Great Malvern Priory bell project, and have incorporated some of these as ‘Title Pictures’ in five chapters. The details of the permission are:
+
+*Simon Mellor gives his permission for his sketches to be used in CCCBR publications or any related organisation which may find them useful. He is Head of Art at Malvern College prep school in Colwall.  Please could you credit them to him and include his email address: Simon Mellor,  simon.mellor@thedownsmalvern.org.uk. He retains copyright of the images.*
+{{< /hint >}}
+
 ## Acknowledgements
 
 Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
@@ -46,6 +52,7 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 | Date | Changes |
 | ---- | ---- |
+| 04/08/2023 | Various chapters: Malvern Priory sketches added |
 | 27/07/2023 | Scoping Project and Specialist Services: Added information on peal boards |
 | 19/07/2023 | Project Finance: Section added on 'Ringing and Money' |
 | 14/07/2023 | Project Finance: More information on VAT |
@@ -67,6 +74,6 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.7, July 2023
+Version 1.0.8, August 2023
 
 © 2023 Central Council of Church Bell Ringers
