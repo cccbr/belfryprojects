@@ -180,7 +180,7 @@ The ways in which disabled ringers can be accommodated in existing towers is dis
 
 ### Practical considerations 
 
-Work in a bell tower inevitably disturbs or creates a considerable amount of dust and debris, some accumulated over decades or centuries. Care must be taken to protect other fabric and fittings in the building during the work, especially those that are fragile or delicate. Items such as memorials, lectern, wood and stonework may need covering. For the most sensitive items like the organ, this may demand a separate contract from an organ builder. 
+Work in a bell tower inevitably disturbs or creates a considerable amount of dust and debris, some accumulated over decades or centuries. Care must be taken to protect other fabric and fittings in the building during the work, especially those that are fragile or delicate. Items such as memorials, lectern, wood and stonework may need covering. For the most sensitive items like the organ, this may demand a separate contract from an organ builder. This may be a major excercise - see Figure 7.
 
 ![Organ protection](protected-organ.jpg)
 
