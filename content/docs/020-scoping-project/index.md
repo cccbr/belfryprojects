@@ -182,6 +182,10 @@ The ways in which disabled ringers can be accommodated in existing towers is dis
 
 Work in a bell tower inevitably disturbs or creates a considerable amount of dust and debris, some accumulated over decades or centuries. Care must be taken to protect other fabric and fittings in the building during the work, especially those that are fragile or delicate. Items such as memorials, lectern, wood and stonework may need covering. For the most sensitive items like the organ, this may demand a separate contract from an organ builder. 
 
+![Organ protection](protected-organ.jpg)
+
+*Figure 7: Protection of the organ at Malvern Priory during the rehanging project*
+
 Doorways, floors and staircases may need to be protected when heavy items are being moved and at points where scaffolding is to be erected. External accesses, storage and workspaces will also have to be planned.
 
 For surplus materials and items generated in the course of the project, plan how they will be reused,  recycled or their disposal.  Some items may be reused as removed from the tower or after being refurbished. Rather than disposing of items, enterprising and creative volunteers may be able turn old timber or metal pieces into souvenirs for sale. Component parts that are no longer serviceable may still be sold and support fund raising. Note that disposal of certain church assets is covered by [Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules).
@@ -220,12 +224,14 @@ Once the scope of the project has been outlined in detail, the Project Leader wi
 
 | Figure | Details | 
 | :---: | --- | 
+| Title | Bell project at Great Malvern Priory (Artist: Simon Mellor)
 | 1 | Extension under construction at Eastnor, Herefordshire (Photo: Alison Hodge) |
 | 2 | 1887 Victoria jubilee bell on the floor in Great Malvern Priory (Photo: Alison Hodge) |
 | 3 | Tablet marking the donation of the Victoria Jubilee bells in Great Malvern Priory (Photo: Alison Hodge) |
 | 4 | A new bell being cast at Meighs & Westleys (Photo: Westley Group) |
 | 5 | A multi-channel live display in the ringing room of Ledbury tower (Photo: Alison Hodge) |
 | 6 | Display of old clappers in Widecombe Church, Devon (Photo: Alison Hodge) |
+| 7 | Protection of the organ during the bell project at Great Malvern Priory (Photo: Malvern bell ringers) |
 
 ----
 
@@ -239,6 +245,6 @@ Once the scope of the project has been outlined in detail, the Project Leader wi
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.1, July 2023
+Version 1.1.2, August 2023
 
 © 2023 Central Council of Church Bell Ringers
