@@ -122,7 +122,7 @@ If in doubt ask the companies who are quoting. Finally make sure that all partie
 
 | Figure | Details | 
 | :---: | --- | 
-| Title | Bell project at Great Malvern Priory (c) Simon Mellor |
+| Title | Bell project at Great Malvern Priory © Simon Mellor |
 
 ----
 
