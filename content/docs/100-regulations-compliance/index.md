@@ -153,6 +153,8 @@ Church towers may be home to various forms of wildlife, some benign, some damagi
  - Inevitably, any work in the tower will generate dust and debris. An organ, for example, will be particularly vulnerable and may need to be protected; organ builders are accustomed to providing this service. Protective sheeting, flooring and “tack mats” will be required, and extra cleaning support will help with keeping dust levels down throughout the work. Bell hangers are familiar with the likely risks and should advise. 
  - Some contractors will include specific requirements in their contract documents so these need to be noted and adhered to. 
 
+## Image Credits
+
 | Figure | Details | 
 | :---: | --- | 
 | Title | Bell project at Great Malvern Priory (Artist: Simon Mellor)
