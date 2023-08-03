@@ -224,7 +224,7 @@ Once the scope of the project has been outlined in detail, the Project Leader wi
 
 | Figure | Details | 
 | :---: | --- | 
-| Title | Bell project at Great Malvern Priory (c) Simon Mellor |
+| Title | Bell project at Great Malvern Priory © Simon Mellor |
 | 1 | Extension under construction at Eastnor, Herefordshire (Photo: Alison Hodge) |
 | 2 | 1887 Victoria jubilee bell on the floor in Great Malvern Priory (Photo: Alison Hodge) |
 | 3 | Tablet marking the donation of the Victoria Jubilee bells in Great Malvern Priory (Photo: Alison Hodge) |
