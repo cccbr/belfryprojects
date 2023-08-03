@@ -53,7 +53,7 @@ This is not likely to be required for a church that is covered by the [Ecclesias
 
 | Figure | Details | 
 | :---: | --- | 
-| Title | Bell project at Great Malvern Priory (Artist: Simon Mellor) 
+| Title | Bell project at Great Malvern Priory (Artist: Simon Mellor) |
 
 ----
 
