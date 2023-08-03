@@ -157,7 +157,7 @@ Church towers may be home to various forms of wildlife, some benign, some damagi
 
 | Figure | Details | 
 | :---: | --- | 
-| Title | Bell project at Great Malvern Priory (Artist: Simon Mellor)
+| Title | Bell project at Great Malvern Priory (c) Simon Mellor |
 
 ----
 
