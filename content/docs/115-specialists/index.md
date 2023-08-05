@@ -74,6 +74,7 @@ This covers items such as church tower maintenance, bell frame treating & painti
 | --- | --- | --- |
 | John Taylor & Co | Loughborough, Leics, UK | https://taylorbells.co.uk/building-services  |
 | Paul Mason | Northamptonshire, UK | +44 (0) 7939 022920, paulmason5040@gmail.com |
+| Meadwell Church Restoration | Oakham, Leics, UK | +44 (0) 1572 821087 |
 
 ## Peal Boards
 
