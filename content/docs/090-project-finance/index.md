@@ -250,14 +250,15 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 
 | Title | Issue | Date | Page |
 | ---- | :----: | :----: | :----: |
-| Gift Aid in 2023 | 5831  | 27 Jan 2023 | 76 |
-| Gift Aid – The Simple Wheezes | 5833 | 10 Feb 2023 | 124 |
+| Gift Aid in 2023 | 5831  | 27 January 2023 | 76 |
+| Gift Aid – The Simple Wheezes | 5833 | 10 February 2023 | 124 |
 | Gift Aid – The Complicated Wheezes | 5835 | 24 Feb 2023 | 166 |
 | Gift Aid – What *doesn’t* Count | 5837 | 10 March 2023 | 213 |
 | GASDS – Gift Aid for Small Donations | 5839 | 24 March 2023 | 277 |
 | Donating in Your Will | 5841 | 7 April 2023 | 306 |
 | GASDS and Parish Giving Scheme | 5844 | 28 April 2023 | 376 |
 | Avoiding the Dreaded VAT | 5853 | 30 June 2023 | 660 |
+| Tower Funds in 2023 | 5862 | 1 September 2023 | 851 |
 
 ## Image Credits
 
