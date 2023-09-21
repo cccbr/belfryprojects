@@ -19,8 +19,8 @@ Price increases are inevitable, especially if the gestation period of the projec
 
 The money raised will normally held by the Tower Authority, since the bells, fixtures and fittings are the property of the church. The Church Treasurer will be responsible for managing the money formally, but it is helpful for them to be assisted by a project treasurer. A separate fund should be set up within the PCC accounts for the project and this should be recorded in the PCC minutes. 
 
-{{< hint danger >}}
-The fund should be identified as a “**Restricted Fund**” within the PCC accounts; it should NOT be a “**Designated Fund**” as this could be re-designated by the PCC to other projects.
+{{< hint info >}}
+The details of setting up a ‘Project Fund’ (or even a fund for general tower activities) can be complicated. Steve Coleman considers this in a series of [articles on *Tower Funds in 2023*](#ringing-and-money) in *The Ringing World*.
 {{< /hint >}}
 
 Church of England PCCs are charities, but only those with incomes over a certain level need to register with the Charity Commission so smaller PCCs may not have a Registered Charity Number. This Charitable status offers certain benefits, such as tax savings. Other jurisdictions may have similar arrangements: In the USA, for example, most churches are 501(c)3 charities.
