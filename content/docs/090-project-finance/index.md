@@ -259,6 +259,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | GASDS and Parish Giving Scheme | 5844 | 28 April 2023 | 376 |
 | Avoiding the Dreaded VAT | 5853 | 30 June 2023 | 660 |
 | Tower Funds in 2023 | 5862 | 1 September 2023 | 851 |
+| How Tower Funds Waste Money | 5865 | 22 September 2023 | 927|
 
 ## Image Credits
 
@@ -281,6 +282,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.4, September 2023
+Version 1.1.5, September 2023
 
 © 2023 Central Council of Church Bell Ringers
