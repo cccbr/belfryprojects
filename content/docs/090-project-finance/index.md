@@ -260,6 +260,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | Avoiding the Dreaded VAT | 5853 | 30 June 2023 | 660 |
 | Tower Funds in 2023 | 5862 | 1 September 2023 | 851 |
 | How Tower Funds Waste Money | 5865 | 22 September 2023 | 927|
+| Where to put a Tower Fund | 5868 | 13 October 2023 | 998 |
 
 ## Image Credits
 
@@ -282,6 +283,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.5, September 2023
+Version 1.1.6, October 2023
 
 © 2023 Central Council of Church Bell Ringers
