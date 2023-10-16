@@ -200,6 +200,17 @@ The following national organisations may be willing to offer financial support f
 
 [CADW](https://cadw.gov.wales/advice-support/historic-assets/listed-buildings/historic-buildings-grant) offers maintenance and repair grants for historic buildings in Wales.
 
+LOCAL AUTHORITIES. A Church of England [Press
+Release](https://www.churchofengland.org/media-and-news/press-releases/legislation-clarifying-right-local-authorities-support-churches)
+in September 2023 announced that legislation clarifying that parish and
+town councils **within England** can provide support to churches for
+repairs and improvements has cleared its final stages in the House of
+Lords. A Government amendment to the Levelling Up Bill makes it clear
+that local authorities can provide grants for parish churches or places
+of worship, following many years of legal uncertainty. Further
+background is given on the [Historic Religious Buildings
+website.](https://www.hrballiance.org.uk/consultations-2/consultations/local-councils/#:~:text=Over%20the%20years%2C%20many%20Parish,provide%20benefit%20to%20the%20community)
+
 Also consider grant awarding bodies in the relevant local area. For example, in the Birmingham area, the [Heart of England Community Foundation](https://www.heartofenglandcf.co.uk).
 
 Many dioceses produce their own funding guides and advice on projects. For example: 
@@ -283,6 +294,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.6, October 2023
+Version 1.1.7, October 2023
 
 © 2023 Central Council of Church Bell Ringers
