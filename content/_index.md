@@ -52,6 +52,7 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 | Date | Changes |
 | ---- | ---- |
+| 16/10/2023 | Project Finance: Now legal for Local Authories in England to provide grants |
 | 04/08/2023 | Various chapters: Malvern Priory sketches added |
 | 27/07/2023 | Scoping Project and Specialist Services: Added information on peal boards |
 | 19/07/2023 | Project Finance: Section added on 'Ringing and Money' |
@@ -74,6 +75,6 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.8, August 2023
+Version 1.0.99, October 2023
 
 © 2023 Central Council of Church Bell Ringers
