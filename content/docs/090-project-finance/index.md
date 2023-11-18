@@ -272,6 +272,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | Tower Funds in 2023 | 5862 | 1 September 2023 | 851 |
 | How Tower Funds Waste Money | 5865 | 22 September 2023 | 927|
 | Where to put a Tower Fund | 5868 | 13 October 2023 | 998 |
+| Transferring a Tower Fund | 5873 | 17 November 2023 | 1121 |
 
 ## Image Credits
 
