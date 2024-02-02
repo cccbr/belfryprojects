@@ -80,7 +80,7 @@ Excessive noise levels from the bells within the Ringing Room make it difficult 
 
 Outside the tower, neighbours may complain, especially if the bells have not been rung for some time or it is a completely new ring of bells. Such complaints could be interpreted by an Environmental Health Officer as causing a nuisance under the Environmental Protection Act 1990.
 
-Sound management is complex and may need more specialist advice than can be provided by the bell hangers, whether internal or external to the tower. Further information is given is this [downloadable PDF](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
+Sound management is complex and may need more specialist advice than can be provided by the bell hangers, whether internal or external to the tower. Further information is given in this [downloadable PDF](static/Mike-Banks-noise.pdf).
 
 ### Sourcing & disposal of materials
 
