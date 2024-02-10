@@ -14,7 +14,7 @@ Of the over 7000 rings of bells in the world, around 90% are within the jurisdic
 A bell project may start as the seed of an idea or it may already have been discussed in a committee such as the Parochial Church Council (PCC). This chapter suggests how to develop the initial ideas so that other people may become involved and start to appreciate what may be achieved. This will help the project come to a successful completion. No two projects will be the same so these notes offer guidance that may be considered rather than a step by step guide.
 
 {{< hint info >}}
-This document contains a large amount of (we hope) relevant and useful material. This [downloadable PDF file](static/SM_ChurchProject-s_2020_Ver_1.pdf) contains may be a useful introduction, perhaps when discussing a project with non-ringers.
+This document contains a large amount of (we hope) relevant and useful material. This [downloadable PDF file](static/SM_ChurchProjects_2020_Ver_1.pdf) contains may be a useful introduction, perhaps when discussing a project with non-ringers.
 {{< /hint >}}
 
 ## Inception and Generation of Initial Ideas
