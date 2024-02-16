@@ -94,7 +94,9 @@ Projects that are likely to involve changes to the structure of the building wil
 
 ### Structural Engineers
 
-Advice may be necessary on the structural integrity of the tower, and how the bells may affect the tower or vice versa. There are very few structural engineers who have a full understanding of the implications of bells being rung full circle on a tower who could advise on bell projects. Some who are known to undertake contracts associated with bell work are included, without recommendation, in [Specialist Services](../115-specialists).
+Advice may be necessary on the structural integrity of the tower, and how the bells may affect the tower or vice versa. Some towers experience quite noticeable movement during ringing. This is unlikely to cause damage to the tower but it may result in difficulty in striking the bells well. Some pioneering work was done on this in the 1990s and, more recently, the topic has been revisited, taking advantage of developments in electronic technology. A summary of the current position was published in The Ringing World, Issue 5783, 25 February 2022, pp178-179. This is also available as this [downloadable PDF](/static/220201-Tower-movement-background-for-RW-Feb-2022-v4.pdf). 
+
+There are very few structural engineers who have a full understanding of the implications of bells being rung full circle on a tower and who could advise on bell projects. Some who are known to undertake contracts associated with bell work are included, without recommendation, in [Specialist Services](../115-specialists).
 
 ### Historical and Conservation
 
