@@ -136,7 +136,7 @@ For ringers inside the tower, the bells must be clear as well as audible, but no
 
 ## Ringing Room
 
-The area where the ringers stand to ring the bells is usually of greatest interest for the ringers, but also for other church users particularly when the bells are rung from ground level. While most of the work in bell project will be further up the tower, the project should also take the opportunity to improve the condition of the Ringing Room, particularly if the bells are a new addition or if the tower has been silent for a long time.
+The area where the ringers stand to ring the bells is usually of greatest interest for the ringers, but also for other church users particularly when the bells are rung from ground level. While most of the work in the bell project will be further up the tower, the project should also take the opportunity to improve the condition of the Ringing Room, particularly if the bells are a new addition or if the tower has been silent for a long time.
 
 For those involved in the project who are unfamiliar with bell ringing, it is very helpful for them to be shown ringing in a few different towers so that they can see some of the requirements and constraints, potential hazards and risks. Each tower is unique but many factors will be common. 
 
