@@ -495,6 +495,6 @@ Access # Access to a new higher level ringing room may be via an existing spiral
 Finishing Touches # Finishing touches are also important – all make the environment more welcoming and helpful for ringers.
 It is also worthwhile enabling non-ringers see ringers in action and the bells themselves turning, if possible. If the ringers are not visible, then CCTV and suitable lighting may be installed that show the ringers and bells in use.
 Image Credits # Figure Details 1 New galvanised steel walkway. (Photo: Alison Hodge) 2 Old timber ladder. (Photo: Alison Hodge) 3 Long curtains between ringing room and church. (Photo: Alison Hodge) 4 Rope guide. (Photo: Alison Hodge) Back to Contract Specification Disclaimer # Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.
-Version 1.0, May 2023
-© 2023 Central Council of Church Bell Ringers
+Version 1.0.1, February 2024
+© 2024 Central Council of Church Bell Ringers
 `})})()
