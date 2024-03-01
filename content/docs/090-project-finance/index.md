@@ -274,6 +274,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | Where to put a Tower Fund | 5868 | 13 October 2023 | 998 |
 | Transferring a Tower Fund | 5873 | 17 November 2023 | 1121 |
 | Tower Funds, Ringing Societies and Tax | 5877-9 | 15-29 December 2023 | 1228 |
+| Tower Funds and Ringing Societies – When Tax is Due | 5888 | 1 March 2024 | 188 |
 
 ## Image Credits
 
@@ -296,6 +297,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.8, December 2023
+Version 1.1.9, March 2024
 
-© 2023 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
