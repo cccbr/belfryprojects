@@ -251,6 +251,13 @@ Some organisations will provide feedback on grant applications. Was the applicat
 **TOP TIP** Customise funding requests to meet each recipient’s criteria and interests.
 {{< /hint >}}
 
+The [National Churches Trust](https://www.nationalchurchestrust.org/get-support/grants) has provided the following top tips for applying for grant money which may be useful in any grant application:
+-	**Be specific in your application**. Include facts, figures, details and an explanation of the tangible benefits of your project. Explain the value you already add to the church community.
+-	**Lead with the need**. Emphasise the urgency and importance of the need for funding. This is where surveys, reports and consultations can support your application. 
+-	**Include all necessary documents**. Ensure that you have gathered quotations, accounts and necessary permissions in writing and submitted a complete set of documentation with your initial application. 
+-	**Have your application checked by an expert**. Before you submit your paperwork, ask someone outside the project to check it for anything that might be missing, unclear or conflicted. A church architect, churchwarden, diocesan bells adviser, or a fundraiser with successful experience can all provide valuable advice. 
+-	**Celebrate your successes**. Highlight the fundraising you have already done. Demonstrate positive achievements. Express thanks to major donors and pledges. 
+
 ## Ringing and Money
 
 Steve Coleman has published a series of articles in *The Ringing World* under the heading of *Ringing and Money*. These provide valuable additional information for several aspects of Project Finance and the references to the articles are given below.
@@ -297,6 +304,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.9, March 2024
+Version 1.2.0, April 2024
 
 © 2024 Central Council of Church Bell Ringers
