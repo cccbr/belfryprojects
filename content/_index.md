@@ -52,7 +52,7 @@ Alison Hodge, Graham John, Allen Nunley, Chris Povey, Robin Shipp.
 
 | Date | Changes |
 | ---- | ---- |
-| 09/04/2024 | Getting Specialist Advice | Reference to Clocks Advisers Forum added |
+| 09/04/2024 | Getting Specialist Advice: Reference to Clocks Advisers Forum added |
 | 02/04/2024 | Project Finance: Added Top Tips from National Churches Trust |
 | 16/10/2023 | Project Finance: Now legal for Local Authories in England to provide grants |
 | 04/08/2023 | Various chapters: Malvern Priory sketches added |
