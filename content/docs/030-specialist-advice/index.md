@@ -46,7 +46,9 @@ While the input from such companies is valuable and essential, there is a view t
 
 ### Clocks
 
-If the bells are rung as part of the clock chime as well as ringing bells, then clock companies may need to advise. If an existing clock is manually wound or strikes at night, then consider extending your project to automating the clock mechanism so that manual winding is no longer required, and adding a mechanism so that it can be silenced at night.
+If your project involves a church clock, particularly one that strikes on the bells, you will need advice from specialist clock companies. Useful background information is also provided in the [Code of Practice](http://www.clocksadvisersforum.uk/assets/files/CofP.pdf) issued by the Clocks Advisers Forum.
+
+If an existing clock is manually wound or strikes at night, then consider extending your project to automating the clock mechanism so that manual winding is no longer required, and adding a mechanism so that it can be silenced at night. Information on both options is included in Sections 07 and 08 of the Clocks Advisers Code of Practice.
 
 Electric winding has a sometimes overlooked advantage over manual winding. With manual winding, a long drop for the weights is needed to avoid frequent winding. With electric winding, the weights drop only a short distance before the mechanism winds them back up. The advantage of this is shown in Figure 1:
 
@@ -180,6 +182,6 @@ You will need to understand and balance the information given, particularly wher
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.2, February 2024
+Version 1.1.0, April 2024
 
 © 2024 Central Council of Church Bell Ringers
