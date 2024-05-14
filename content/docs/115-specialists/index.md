@@ -65,6 +65,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | Hurst Pierce & Malcolm LLP | London, UK | https://www.hurstpm.net |
 | The Morton Partnership | London and South East, UK | https://www.themortonpartnership.co.uk |
 | Ward Cole Consulting Engineers | Lincoln, London & Nottingham, UK | https://www.wardcole.co.uk |
+| Frank W Haywood & Associates | Coventry | https://www.fwhaywood.co.uk |
 
 ## Tower Building Services
 
@@ -98,6 +99,6 @@ This covers items such as church tower maintenance, bell frame treating & painti
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.3, September 2023
+Version 1.1.4, May 2024
 
-© 2023 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
