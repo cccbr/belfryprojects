@@ -30,7 +30,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | Matthew Higby & Co Ltd | Radstock, Somerset, UK | https://www.bellhangers.com |
 | Meadwell Church Restoration | Oakham, Leics, UK | +44 (0) 1572 821087 |
 | Nicholson Engineering Ltd | Bridport, Dorset, UK | https://www.nicholsonbellhangers.com |
-| O'Shea Engineering | Burnham-on-Sea, Somerset, UK | https://www.osheabellhangers.co.uk/ |
+| O'Shea Engineering | Hill, Berkeley, Gloucestershire, UK | https://www.osheabellhangers.co.uk/ |
 | Pembleton Bell Hangers & Engineers | Chesterfield, Derbyshire, UK | +44 (0) 1623 810640, or traceypembleton@btinternet.com |
 | Whites of Appleton | Appleton, Oxfordshire, UK | https://www.whitesbellhangers.co.uk/ |
 
@@ -99,6 +99,6 @@ This covers items such as church tower maintenance, bell frame treating & painti
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.1.4, May 2024
+Version 1.1.5, August 2024
 
 © 2024 Central Council of Church Bell Ringers
