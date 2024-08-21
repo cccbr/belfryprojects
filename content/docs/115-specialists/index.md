@@ -65,7 +65,7 @@ Note that the Central Council of Church Bell Ringers does not endorse or recomme
 | Hurst Pierce & Malcolm LLP | London, UK | https://www.hurstpm.net |
 | The Morton Partnership | London and South East, UK | https://www.themortonpartnership.co.uk |
 | Ward Cole Consulting Engineers | Lincoln, London & Nottingham, UK | https://www.wardcole.co.uk |
-| Frank W Haywood & Associates (Clive Haywood) | Coventry | clive@fwhaywood.co.uk |
+| Frank W Haywood & Associates | Coventry | https://www.fwhaywood.co.uk |
 
 ## Tower Building Services
 
