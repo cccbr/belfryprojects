@@ -282,6 +282,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | Transferring a Tower Fund | 5873 | 17 November 2023 | 1121 |
 | Tower Funds, Ringing Societies and Tax | 5877-9 | 15-29 December 2023 | 1228 |
 | Tower Funds and Ringing Societies – When Tax is Due | 5888 | 1 March 2024 | 188 |
+| Ringing Societies and Tower Funds: Registering as Charities | 5915 | 6 September 2024 | 825 |
 
 ## Image Credits
 
