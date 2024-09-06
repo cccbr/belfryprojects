@@ -305,6 +305,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.2.0, April 2024
+Version 1.2.1, September 2024
 
 © 2024 Central Council of Church Bell Ringers
