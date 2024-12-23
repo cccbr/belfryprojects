@@ -283,6 +283,7 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 | Tower Funds, Ringing Societies and Tax | 5877-9 | 15-29 December 2023 | 1228 |
 | Tower Funds and Ringing Societies – When Tax is Due | 5888 | 1 March 2024 | 188 |
 | Ringing Societies and Tower Funds: Registering as Charities | 5915 | 6 September 2024 | 825 |
+| Running a Ringing Charity | 5930-32 | 20 / 27 Dec 2024 / 3 Jan 2025 | 1203 |
 
 ## Image Credits
 
@@ -305,6 +306,6 @@ A subscription is required for access to articles in *The Ringing World*. If nec
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.2.1, September 2024
+Version 1.2.2, December 2024
 
 © 2024 Central Council of Church Bell Ringers
