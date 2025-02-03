@@ -308,4 +308,4 @@ A subscription is required for access to articles in *The Ringing World*. If nec
 
 Version 1.2.2, February 2025
 
-© 2024 Central Council of Church Bell Ringers
+© 2025 Central Council of Church Bell Ringers
